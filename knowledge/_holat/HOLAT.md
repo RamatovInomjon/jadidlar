@@ -28,3 +28,10 @@
 - kartochkasi mavjud kitoblarni oʻtkazib yuboring (`../asarlar/<slug>.md` bor boʻlsa): ularning dayjestini `digests.json` dan oling (skriptga `args` orqali bering) yoki kartochkaning oʻzini oʻqing;
 - `manbalar_web/<slug>.md` allaqachon bor web mavzularni oʻtkazib yuboring;
 - limit tugab qolmasligi uchun bir vaqtda ishlaydigan agentlar sonini kamaytiring yoki ishni bir necha workflowga boʻling (masalan: 1) qolgan kitoblar + imlo, 2) web, 3) mualliflar + tekshiruv, 4) sintez + indeks).
+
+## Laptopda (yoki yangi sessiyada) davom ettirish
+Bosqich skriptlari: `bosqich1_kitoblar.js`, `bosqich2_web.js`, `bosqich3_mualliflar.js`, `bosqich4_sintez.js`.
+1. Skriptlardagi `KB`, `CH`, `SRC` yoʻllari cloud uchun yozilgan (`/home/user/jadidlar/...`). Laptopda ularni oʻz yoʻlingizga almashtiring, masalan: `sed -i 's#/home/user/jadidlar#/home/inomjon/projectAI/phd/jadidlar#g' knowledge/_holat/bosqich*.js`.
+2. 3-bosqich: `args` ga profili **va** tekshiruvi tugagan mualliflar kalitlarini bering, ular oʻtkazib yuboriladi (masalan `["behbudiy","fitrat"]`). Profili bor-u, faylida `## Tekshiruv qaydlari` boʻlimi boʻlmagan muallifni oʻtkazib yubormang: u qayta yoziladi va tekshiriladi.
+3. 4-bosqich: kirish maʼlumotlari `style_input.json` va `lexicon.json`; `args` kerak emas.
+4. Claude Code'ga ayting: "knowledge/_holat/HOLAT.md ni oʻqi va qolgan ishni davom ettir; bosqich skriptlarini Workflow orqali ishga tushir".
