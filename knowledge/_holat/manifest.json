@@ -1,0 +1,605 @@
+[
+ {
+  "file": "339_24.08.1995.txt",
+  "author": "339_24.08.1995",
+  "title": "339_24.08.1995",
+  "slug": "339-24-08-1995",
+  "chars": 27918,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/339-24-08-1995__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Doʻxtur Muhammadiyor.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Doʻxtur Muhammadiyor",
+  "slug": "abdulhamid-cholpon-doxtur-muhammadiyor",
+  "chars": 25799,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-doxtur-muhammadiyor__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Kecha va kunduz.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Kecha va kunduz",
+  "slug": "abdulhamid-cholpon-kecha-va-kunduz",
+  "chars": 527437,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-kecha-va-kunduz__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-kecha-va-kunduz__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-kecha-va-kunduz__03.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-kecha-va-kunduz__04.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Kleoʻpatra.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Kleoʻpatra",
+  "slug": "abdulhamid-cholpon-kleopatra",
+  "chars": 14480,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-kleopatra__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Meros.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Meros",
+  "slug": "abdulhamid-cholpon-meros",
+  "chars": 12579,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-meros__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Nonushta.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Nonushta",
+  "slug": "abdulhamid-cholpon-nonushta",
+  "chars": 12141,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-nonushta__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Novvoy qiz.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Novvoy qiz",
+  "slug": "abdulhamid-cholpon-novvoy-qiz",
+  "chars": 11420,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-novvoy-qiz__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Oqposhshoning inʼomi.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Oqposhshoning inʼomi",
+  "slug": "abdulhamid-cholpon-oqposhshoning-inomi",
+  "chars": 6188,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-oqposhshoning-inomi__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Oydin kechalarda.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Oydin kechalarda",
+  "slug": "abdulhamid-cholpon-oydin-kechalarda",
+  "chars": 6092,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-oydin-kechalarda__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Qor qoʻynida lola.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Qor qoʻynida lola",
+  "slug": "abdulhamid-cholpon-qor-qoynida-lola",
+  "chars": 11213,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-qor-qoynida-lola__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Qurboni jaholat.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Qurboni jaholat",
+  "slug": "abdulhamid-cholpon-qurboni-jaholat",
+  "chars": 7959,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-qurboni-jaholat__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Seni koʻb koʻrmasun.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Seni koʻb koʻrmasun",
+  "slug": "abdulhamid-cholpon-seni-kob-kormasun",
+  "chars": 5270,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-seni-kob-kormasun__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Sheʼrlar.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Sheʼrlar",
+  "slug": "abdulhamid-cholpon-sherlar",
+  "chars": 13737,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-sherlar__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Taraqqiy.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Taraqqiy",
+  "slug": "abdulhamid-cholpon-taraqqiy",
+  "chars": 3962,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-taraqqiy__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon - Yorqinoy.txt",
+  "author": "Abdulhamid Choʻlpon",
+  "title": "Yorqinoy",
+  "slug": "abdulhamid-cholpon-yorqinoy",
+  "chars": 190383,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-yorqinoy__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-yorqinoy__02.txt"
+  ]
+ },
+ {
+  "file": "Abdulhamid Choʻlpon, Abdurauf Fitrat, Abdulla Qodiriy, Mahmudxoʻja Behbudiy, Munavvarqori Abdurashidxonov - Odob-axloq kitobi.txt",
+  "author": "Abdulhamid Choʻlpon, Abdurauf Fitrat, Abdulla Qodiriy, Mahmudxoʻja Behbudiy, Munavvarqori Abdurashidxonov",
+  "title": "Odob-axloq kitobi",
+  "slug": "abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy",
+  "chars": 243460,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy__02.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Avloniy - Advokatlik osonmi.txt",
+  "author": "Abdulla Avloniy",
+  "title": "Advokatlik osonmi",
+  "slug": "abdulla-avloniy-advokatlik-osonmi",
+  "chars": 32808,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-avloniy-advokatlik-osonmi__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Avloniy - Afgʻon sayohati.txt",
+  "author": "Abdulla Avloniy",
+  "title": "Afgʻon sayohati",
+  "slug": "abdulla-avloniy-afgon-sayohati",
+  "chars": 99352,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-avloniy-afgon-sayohati__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Avloniy - Toʻgʻrilik.txt",
+  "author": "Abdulla Avloniy",
+  "title": "Toʻgʻrilik",
+  "slug": "abdulla-avloniy-togrilik",
+  "chars": 906,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-avloniy-togrilik__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Avloniy - Turkiy guliston yoxud axloq.txt",
+  "author": "Abdulla Avloniy",
+  "title": "Turkiy guliston yoxud axloq",
+  "slug": "abdulla-avloniy-turkiy-guliston-yoxud-axloq",
+  "chars": 122421,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-avloniy-turkiy-guliston-yoxud-axloq__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Avloniy - Uygʻon, millat.txt",
+  "author": "Abdulla Avloniy",
+  "title": "Uygʻon, millat",
+  "slug": "abdulla-avloniy-uygon-millat",
+  "chars": 73718,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-avloniy-uygon-millat__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Baxtsiz kuyov.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Baxtsiz kuyov",
+  "slug": "abdulla-qodiriy-baxtsiz-kuyov",
+  "chars": 34958,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-baxtsiz-kuyov__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Jinlar bazmi.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Jinlar bazmi",
+  "slug": "abdulla-qodiriy-jinlar-bazmi",
+  "chars": 9116,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-jinlar-bazmi__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Mehrobdan chayon (roman).txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Mehrobdan chayon (roman)",
+  "slug": "abdulla-qodiriy-mehrobdan-chayon-roman",
+  "chars": 494321,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-mehrobdan-chayon-roman__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-mehrobdan-chayon-roman__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-mehrobdan-chayon-roman__03.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-mehrobdan-chayon-roman__04.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Obid ketmon.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Obid ketmon",
+  "slug": "abdulla-qodiriy-obid-ketmon",
+  "chars": 504468,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-obid-ketmon__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-obid-ketmon__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-obid-ketmon__03.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-obid-ketmon__04.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Oʻtkan kunlar.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Oʻtkan kunlar",
+  "slug": "abdulla-qodiriy-otkan-kunlar",
+  "chars": 706650,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-otkan-kunlar__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-otkan-kunlar__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-otkan-kunlar__03.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-otkan-kunlar__04.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-otkan-kunlar__05.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Quyosh bilan ham kurashaman.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Quyosh bilan ham kurashaman",
+  "slug": "abdulla-qodiriy-quyosh-bilan-ham-kurashaman",
+  "chars": 30362,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-quyosh-bilan-ham-kurashaman__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Tinch ish.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Tinch ish",
+  "slug": "abdulla-qodiriy-tinch-ish",
+  "chars": 11969,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-tinch-ish__01.txt"
+  ]
+ },
+ {
+  "file": "Abdulla Qodiriy - Uloqda.txt",
+  "author": "Abdulla Qodiriy",
+  "title": "Uloqda",
+  "slug": "abdulla-qodiriy-uloqda",
+  "chars": 17810,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdulla-qodiriy-uloqda__01.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Abulfayzxon.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Abulfayzxon",
+  "slug": "abdurauf-fitrat-abulfayzxon",
+  "chars": 80678,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-abulfayzxon__01.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Hind ixtilolchilari.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Hind ixtilolchilari",
+  "slug": "abdurauf-fitrat-hind-ixtilolchilari",
+  "chars": 96594,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-hind-ixtilolchilari__01.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Hind sayyohining qissasi.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Hind sayyohining qissasi",
+  "slug": "abdurauf-fitrat-hind-sayyohining-qissasi",
+  "chars": 139762,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-hind-sayyohining-qissasi__01.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Najot yoʻli.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Najot yoʻli",
+  "slug": "abdurauf-fitrat-najot-yoli",
+  "chars": 314811,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-najot-yoli__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-najot-yoli__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-najot-yoli__03.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Oila yoki oila boshqarish tartiblari.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Oila yoki oila boshqarish tartiblari",
+  "slug": "abdurauf-fitrat-oila-yoki-oila-boshqarish-tartiblari",
+  "chars": 229022,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-oila-yoki-oila-boshqarish-tartiblari__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-oila-yoki-oila-boshqarish-tartiblari__02.txt"
+  ]
+ },
+ {
+  "file": "Abdurauf Fitrat - Sheʼrlar.txt",
+  "author": "Abdurauf Fitrat",
+  "title": "Sheʼrlar",
+  "slug": "abdurauf-fitrat-sherlar",
+  "chars": 14686,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/abdurauf-fitrat-sherlar__01.txt"
+  ]
+ },
+ {
+  "file": "Asqad Muxtor - Qodiriyni koʻrganman-u....txt",
+  "author": "Asqad Muxtor",
+  "title": "Qodiriyni koʻrganman-u...",
+  "slug": "asqad-muxtor-qodiriyni-korganman-u",
+  "chars": 1509,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/asqad-muxtor-qodiriyni-korganman-u__01.txt"
+  ]
+ },
+ {
+  "file": "Bahodir Karimov - Jadidlar Abdulla Qodiriy.txt",
+  "author": "Bahodir Karimov",
+  "title": "Jadidlar Abdulla Qodiriy",
+  "slug": "bahodir-karimov-jadidlar-abdulla-qodiriy",
+  "chars": 116413,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/bahodir-karimov-jadidlar-abdulla-qodiriy__01.txt"
+  ]
+ },
+ {
+  "file": "Botu - Sheʼrlar.txt",
+  "author": "Botu",
+  "title": "Sheʼrlar",
+  "slug": "botu-sherlar",
+  "chars": 13413,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/botu-sherlar__01.txt"
+  ]
+ },
+ {
+  "file": "Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.txt",
+  "author": "Dilmurod Quronov",
+  "title": "Jadidlar Abdulhamid Choʻlpon",
+  "slug": "dilmurod-quronov-jadidlar-abdulhamid-cholpon",
+  "chars": 127804,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/dilmurod-quronov-jadidlar-abdulhamid-cholpon__01.txt"
+  ]
+ },
+ {
+  "file": "Habibulla Qodiriy - Otam haqida.txt",
+  "author": "Habibulla Qodiriy",
+  "title": "Otam haqida",
+  "slug": "habibulla-qodiriy-otam-haqida",
+  "chars": 490695,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/habibulla-qodiriy-otam-haqida__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/habibulla-qodiriy-otam-haqida__02.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/habibulla-qodiriy-otam-haqida__03.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/habibulla-qodiriy-otam-haqida__04.txt"
+  ]
+ },
+ {
+  "file": "Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.txt",
+  "author": "Hamidulla Boltaboyev",
+  "title": "Jadidlar Abdurauf Fitrat",
+  "slug": "hamidulla-boltaboyev-jadidlar-abdurauf-fitrat",
+  "chars": 116221,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt"
+  ]
+ },
+ {
+  "file": "Hamza Hakimzoda Niyoziy - Burungi qozilar yoki Maysaraning ishi.txt",
+  "author": "Hamza Hakimzoda Niyoziy",
+  "title": "Burungi qozilar yoki Maysaraning ishi",
+  "slug": "hamza-hakimzoda-niyoziy-burungi-qozilar-yoki-maysaraning-ishi",
+  "chars": 90259,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/hamza-hakimzoda-niyoziy-burungi-qozilar-yoki-maysaraning-ishi__01.txt"
+  ]
+ },
+ {
+  "file": "Hamza Hakimzoda Niyoziy - Sheʼrlar.txt",
+  "author": "Hamza Hakimzoda Niyoziy",
+  "title": "Sheʼrlar",
+  "slug": "hamza-hakimzoda-niyoziy-sherlar",
+  "chars": 10353,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/hamza-hakimzoda-niyoziy-sherlar__01.txt"
+  ]
+ },
+ {
+  "file": "Hamza Hakimzoda Niyoziy - Tanlangan asarlar.txt",
+  "author": "Hamza Hakimzoda Niyoziy",
+  "title": "Tanlangan asarlar",
+  "slug": "hamza-hakimzoda-niyoziy-tanlangan-asarlar",
+  "chars": 69587,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/hamza-hakimzoda-niyoziy-tanlangan-asarlar__01.txt"
+  ]
+ },
+ {
+  "file": "Isʼhoqxon Toʻra Ibrat - Mezon uz-zamon.txt",
+  "author": "Isʼhoqxon Toʻra Ibrat",
+  "title": "Mezon uz-zamon",
+  "slug": "ishoqxon-tora-ibrat-mezon-uz-zamon",
+  "chars": 58661,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/ishoqxon-tora-ibrat-mezon-uz-zamon__01.txt"
+  ]
+ },
+ {
+  "file": "Javlon Jovliyev - Elbek.txt",
+  "author": "Javlon Jovliyev",
+  "title": "Elbek",
+  "slug": "javlon-jovliyev-elbek",
+  "chars": 8746,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/javlon-jovliyev-elbek__01.txt"
+  ]
+ },
+ {
+  "file": "Mahmudxoʻja Behbudiy - Bir aʼmo bolaning hasrati.txt",
+  "author": "Mahmudxoʻja Behbudiy",
+  "title": "Bir aʼmo bolaning hasrati",
+  "slug": "mahmudxoja-behbudiy-bir-amo-bolaning-hasrati",
+  "chars": 1411,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/mahmudxoja-behbudiy-bir-amo-bolaning-hasrati__01.txt"
+  ]
+ },
+ {
+  "file": "Mahmudxoʻja Behbudiy - Bir vafolik zaifaning xususida.txt",
+  "author": "Mahmudxoʻja Behbudiy",
+  "title": "Bir vafolik zaifaning xususida",
+  "slug": "mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida",
+  "chars": 59781,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida__01.txt"
+  ]
+ },
+ {
+  "file": "Mahmudxoʻja Behbudiy - Padarkush.txt",
+  "author": "Mahmudxoʻja Behbudiy",
+  "title": "Padarkush",
+  "slug": "mahmudxoja-behbudiy-padarkush",
+  "chars": 20563,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/mahmudxoja-behbudiy-padarkush__01.txt"
+  ]
+ },
+ {
+  "file": "Olim Oltinbek - Jadidlar Abdulla Avloniy.txt",
+  "author": "Olim Oltinbek",
+  "title": "Jadidlar Abdulla Avloniy",
+  "slug": "olim-oltinbek-jadidlar-abdulla-avloniy",
+  "chars": 107023,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/olim-oltinbek-jadidlar-abdulla-avloniy__01.txt"
+  ]
+ },
+ {
+  "file": "Olim Usmonov - Jadidlar Gʻulom Zafariy.txt",
+  "author": "Olim Usmonov",
+  "title": "Jadidlar Gʻulom Zafariy",
+  "slug": "olim-usmonov-jadidlar-gulom-zafariy",
+  "chars": 120303,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt"
+  ]
+ },
+ {
+  "file": "Sadriddin Ayniy - Eski maktab.txt",
+  "author": "Sadriddin Ayniy",
+  "title": "Eski maktab",
+  "slug": "sadriddin-ayniy-eski-maktab",
+  "chars": 66492,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/sadriddin-ayniy-eski-maktab__01.txt"
+  ]
+ },
+ {
+  "file": "Sadriddin Ayniy - Sudxoʻrning oʻlimi.txt",
+  "author": "Sadriddin Ayniy",
+  "title": "Sudxoʻrning oʻlimi",
+  "slug": "sadriddin-ayniy-sudxorning-olimi",
+  "chars": 237313,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/sadriddin-ayniy-sudxorning-olimi__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/sadriddin-ayniy-sudxorning-olimi__02.txt"
+  ]
+ },
+ {
+  "file": "Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.txt",
+  "author": "Sotimjon Xolboyev",
+  "title": "Jadidlar Munavvar qori Abdurashidxonov",
+  "slug": "sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov",
+  "chars": 113348,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov__01.txt"
+  ]
+ },
+ {
+  "file": "Tavallo - Ey Vatan, ezgu Vatan.txt",
+  "author": "Tavallo",
+  "title": "Ey Vatan, ezgu Vatan",
+  "slug": "tavallo-ey-vatan-ezgu-vatan",
+  "chars": 285811,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/tavallo-ey-vatan-ezgu-vatan__01.txt",
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/tavallo-ey-vatan-ezgu-vatan__02.txt"
+  ]
+ },
+ {
+  "file": "Tavallo - Sheʼrlar.txt",
+  "author": "Tavallo",
+  "title": "Sheʼrlar",
+  "slug": "tavallo-sherlar",
+  "chars": 11289,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/tavallo-sherlar__01.txt"
+  ]
+ },
+ {
+  "file": "Ulugʻbek Dolimov - Jadidlar Isʼhoqxon toʻra Ibrat.txt",
+  "author": "Ulugʻbek Dolimov",
+  "title": "Jadidlar Isʼhoqxon toʻra Ibrat",
+  "slug": "ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat",
+  "chars": 142312,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat__01.txt"
+  ]
+ },
+ {
+  "file": "Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.txt",
+  "author": "Zaynobiddin Abdurashidov",
+  "title": "Jadidlar Mahmudxoʻja Behbudiy",
+  "slug": "zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy",
+  "chars": 117834,
+  "chunks": [
+   "/tmp/claude-1000/-home-inomjon-projectAI-phd-jadidlar/8062ab0d-c2fc-4195-a55b-a135cc0a654f/scratchpad/chunks/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy__01.txt"
+  ]
+ }
+]
