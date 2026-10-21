@@ -547,3 +547,43 @@ Qidiruv tizimining avtomatik xulosasida Elbek 1937-yilda Komiga surgun qilingani
 - N. Karimov, «Oʻzbekistonda adabiy harakatlar» — https://jenubiturkistan.wordpress.com/2011/02/26/o%E2%80%98zbekistonda-adabiy-harakatlar/
 - Kun.uz (Munavvar qori haqida) — https://kun.uz/news/2024/01/05/unga-hech-kim-toshkentda-sen-deb-gapirgan-emas-munavvar-qori-abdurashidxonovning-hayoti-va-faoliyatiga-nazar
 - Sh. Saparova (2025) — https://zenodo.org/records/15420509
+
+---
+
+## Tekshiruv qaydlari
+
+*(Faktlarni tekshirish: 2026-yil 21-oktyabr. Har bir daʼvo bazadagi asl matnlar (`../_holat/chunks/`) va ochib oʻqilgan veb-manbalar bilan solishtirildi.)*
+
+**Tuzatilganlar:**
+1. **1929-yilgi sayohat.** Maʼlumot Habibulla Qodiriyning oʻz xotirasi emas. U kitobda keltirilgan shoir Bahrom Ibrohimov (Yoʻqsil) xotirasidan olingan, yili ham taxminiy: «1929-yil boʻlsa kerak» (`habibulla-qodiriy-otam-haqida__02.txt`, 1452–1474-satrlar). «Hayot yoʻli», xronologiya va «Aloqalar» boʻlimlarida shu aniqlik kiritildi.
+2. **Sadriddin Ayniy bilan majlislar.** Bu majlislar Toshkentda emas, **Samarqandda**, Maʼruf Rasuliyning bogʻida oʻtgan (oʻsha xotira, 1461–1463-satrlar). Tuzatildi.
+3. **Usmonov keltirgan «sinfiy hushyorlik» bilan taftish.** Manbada «Proletar yozuvchilari qurultoyi» emas, «Oʻzbekiston shoʻro yozuvchilarining I jumhuriyat qurultoyi»ning hisobot maʼruzasi tilga olinadi; Usmonov R. Majidiyning «Gʻalabalar yoʻli» maqolasiga tayanadi (`olim-usmonov-jadidlar-gulom-zafariy__01.txt`, 322–331-satrlar). Tuzatildi. Qurultoy 1934-yilda oʻtgan [umumiy bilim — tekshirilmagan].
+4. **NKVD ekspertizasi manbasi.** Halmet ekspertiza xulosasini Hasanov va boshq. (2013, 126–130-betlar) kitobidan keltiradi. Z. Ishonxoʻjayevaning ruscha maqolasi faqat «Cengiz Dede'ye» sheʼri parchasi uchun manba (Halmet, 11-izoh). Shu sababli «Z. Ishonxoʻjayeva maqolasi orqali» degan ifoda aniqlashtirildi.
+5. **«Til» sheʼri va ekspertiza.** Halmet keltirgan ekspertiza parchasida «Til» sheʼri yoʻq. Unda «Uyğan Yürek» («Uygʻon, koʻnglim») va «Cengiz Dede'ye» bor; «Til» Halmetning oʻz tahlilida tilga olinadi. Matndan «Til» ekspertiza roʻyxatidan olib tashlandi. Uzoqovning NKVD «Til»ni ishga qoʻshgani haqidagi fikri saqlandi, lekin tekshirilmagan (pastga qarang).
+6. **«Mirmashriq Miryunus o‘g‘li (shoir Elbek)».** Bu Elbekning oʻz imzosi emas. Ziyo Said bir jurnalning «yaqin yozishg‘uchilari» roʻyxatida shu shaklni bergan (Usmonov, 182–184-satrlar). Izoh aniqlashtirildi. Sarlavhadagi «imzolar» roʻyxatida u shartli ravishda qoldirildi.
+
+**Tasdiqlanganlar (asl matn yoki ≥2 manba):**
+- Boltaboyev kitobidagi ikki iqtibos («Tilimiz orasiga qotishib…» va «Boshqa ellarning yozuv…», «a lifbolari» xatosi bilan), «Yozuv yo‘llari. – T: 1921. – B. 29» havolasi, «Cho‘lpon va Elbek rahbarlik qilgan» jumlasi — `hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt`, 438–443-satrlar.
+- H. Qodiriy: 1927-yilgi Chimkent safari (Muborak opa, Ulugʻbek), 84-izoh (1899–1939, Xumson, «SSSR Yozuvchilar uyushmasining aʼzosi», «Qoʻshchi Turgʻun» (qissa), «Goʻzal yozgʻichlar») — `__02.txt` 934-satr, `__04.txt` 605–606-satrlar.
+- Usmonov: «El ashulalari» (1925, Gʻ. Zafariy bilan) — 906–907-satrlar; Dolimov: 1937-yil bahoridagi qoralashlar — 1041-satr.
+- 1898, Xumson (Boʻstonliq); 1914-yilda rus-tuzem, soʻng Avloniy maktabi; taxallusni Fitrat qoʻygani (Shamsutdinov 2012, 261-bet); 1938-yil 4–15-oktyabrdagi harbiy sud, roʻyxatda 70-oʻrin, 12 yil; Magadan; 1939-yil 11-fevral; 1957-yilda oqlanish — Halmet 2019 (PDF matni oʻqildi). Tugʻilgan yili va joyi Saparova 2024 va uz.wikipedia bilan mos.
+- Saparova 2024: 1957-yil 1-avgust; Fotih Sayfi bilan 1922-yilgi darslik; «Laparlar» («Bilim oʻchogʻi», 1922, 1-son); «Yangi alifboni toʻla egallash uchun» (1933); «Mashoqchi Erboʻta» (1926, 9-son); asarlar roʻyxatidagi yillar («Koʻzgu» 1925, «Yolqinlar» 1927, «Bogʻbon» 1935 va boshq.); Tohir Qahhor va U. Dolimov (2009) havolalari; «Ulug’ bir vazifa…», «Yolg’izgina ko’rib…», «Bizning qishloq…» iqtiboslari; «old blanket» xotirasi — PDF matni bilan solishtirildi.
+- uz.wikipedia: 1939-yil 2-noyabr, Magadan; 10 yil; 1957-yil 1-avgust; Narimonov texnikumi (1920-yildan); Madaniy qurilish instituti (1931–1934); N. Qobulov «Elbek» (1988); «Oʻzbekcha shakldosh soʻzlar» (1934).
+- Togʻayev 2023: Imlo toʻdasi tarkibi; «1921-yilgi Til-imlo qurultoyiga…» iqtibosi (manbada «[Elbek, 1920]» deb havola qilingan); «Nashri maorif»; «Imlo va til qurultoyining chaqirilishi oldidan» (Ishtirokiyun, 1920, 27-noyabr) — PDF matni oʻqildi.
+- Wikisource: muallif sahifasi (1898–1939; 17 sheʼr va 1 maqola), «Ortiq hissiyot» («Turkiston», 1923-yil 20-iyun) va undagi iqtiboslar, «Mujdalar» (WS yili 1937), «Uygʻon, koʻnglim» (1922) matnlari tekshirildi; qolgan WS sahifalari soʻrovlar limiti (429) tufayli qayta ochilmadi.
+
+**Ziddiyatli boʻlib qolganlar:**
+- Vafot sanasi: 1939-yil 11-fevral (Uzoqov; Halmet) / 1939-yil 2-noyabr (uz.wikipedia) / 1938 (Saparova 2025). Asl arxiv hujjati koʻrilmagan.
+- Hukm muddati: 10 yil (uz.wikipedia) / 12 yil (Halmet, Shamsutdinov 2012, 55-betga tayanib).
+- Tugʻilgan yili: 1898 (koʻpchilik manbalar) / 1899 (H. Qodiriy, 84-izoh).
+- «Armugʻon» yili: 1921 (Saparova; Halmet) / uz.wikipedia uni «Yolqinlar» bilan birga 1925-yilga qoʻyadi.
+- «Yolqinlar»: 1925 (uz.wikipedia; Halmet) / 1927 (Saparova). «Koʻzgu»: 1925 (Saparova) / 1926 (Halmet). «Bogʻbon»: 1934 (Halmet) / 1935 (uz.wikipedia; Saparova).
+- 1914-yildagi maktab: «Namuna» (Turdiyev) / rus-tuzem va Avloniy maktabi (Halmet; uz.wikipedia).
+- Halmet Elbekni uch jurnalda «muharrir» deb yozadi; boshqa manbalarda bu tasdiqlanmagan.
+
+**Tekshirib boʻlinmaganlar:**
+- **Uzoqov soʻzboshisidagi barcha kirillcha iqtiboslar** (6, 7, 9–11, 13–19-betlar): ziyouz PDF yuklab olindi, lekin u skaner qilingan rasm, matn qatlami yoʻq va OCR vositasi mavjud emas. Iqtiboslar `../manbalar_web/muallif-elbek.md` orqali olingan; asl sahifa bilan solishtirilmagan.
+- **Turdiyev risolasidagi iqtiboslar** (Elbek xotirasi, Shaʼrifiy maqolasi, «Oʻtmishim», «Qoʻshchi Turgʻun», «Laparlar» parchalari): faqat veb-fayl orqali. «Oʻtmishim» toʻrtligi va 1911-yilgi xotira Saparova 2024 da ham bor (mos keladi); qolganlari tekshirilmagan.
+- Togʻayev 2022 iqtiboslari («Гурунг ёзғучиси…», Oʻzbek bilim hayʼati), N. Karimov (Botu koʻrsatmasi), Kun.uz (Munavvar qori), Sirojiddin Ahmad (1927-yilgi qurultoy) — faqat veb-fayl orqali.
+- Britannica maqolasi (403), Saparova 2025, M. Yunusov «Hayot nafasi» yili (1981/1983), S. Mamajonov, «Yosh Turkiston»dagi namunalar — qayta ochilmadi.
+- Uslub boʻlimidagi lingvistik kuzatishlar (vazn, morfologiya) talqin boʻlib, fakt tekshiruvi doirasidan tashqarida.

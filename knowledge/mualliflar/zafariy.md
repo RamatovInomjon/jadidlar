@@ -630,3 +630,36 @@ Taassufki, bunday baxshilar kundankunga kamayib bormoqdalar, do‘mbira esa ba�
 - M. F. Tashpoʻlatov, «Gulam Zafari and the development of Uzbek music», 2022: https://cyberleninka.ru/article/n/gulam-zafari-and-the-development-of-uzbek-music
 - «Musical views of Gulam Zafari» — CyberLeninka (bu seansda ochilmadi): https://cyberleninka.ru/article/n/musical-views-of-gulam-zafari
 - saviya.uz, «Gʻulom Zafariy 1889-1938» (ochilmadi): https://saviya.uz/hayot/tarjimai-hol/gulom-zafariy-1889-1938/
+
+---
+
+## Tekshiruv qaydlari
+
+*Tekshiruv 2026-yil 21-oktabrda oʻtkazildi. Tekshirilgan manbalar: Usmonov risolasining chunk matni (`_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt`), Habibulla Qodiriy xotiralari (`habibulla-qodiriy-otam-haqida__01…04.txt`), Boltaboyev risolasi (`hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt`). Veb-sahifalardan uz.wiki, yuz.uz (Karimov), CyberLeninka (Tashpoʻlatov) va SciTePress PDF (Usmanov) qayta ochildi. Ziyouz (403-xato) va kh-davron.uz bu safar ochilmadi.*
+
+### Tuzatilganlar
+
+1. **Tugʻilgan joy manbasi.** «Beshyogʻoch dahasi» Usmonov matnida yoʻq. U faqat uz.wikiʼda bor. Atributsiya shunga qarab tuzatildi. Habibulla Qodiriyning «Qodiriydan besh-oʻn yosh katta» degan guvohligi 1889-yilni qoʻllovchi dalil sifatida qoʻshildi.
+2. **Usmanov-2023 iqtibosi.** «simple and easy to understand» degan ibora maqolada yoʻq. Uning oʻrniga maqoladagi asl ibora qoʻyildi: «written in a very simple and understandable way». Bu ibora umuman pyesalar haqida emas, «Rahimli shogird» haqida aytilgan. Shunga oʻxshab, «sunʼiy yakun» haqidagi fikr ham aniq «Mozorlikda» pyesasiga tegishli ekani koʻrsatildi.
+3. **«Oʻzbek musiqasi toʻgʻrisida».** Usmonov Zafariyning bu maqolasi sanasini bermaydi. Shu xatboshidan oldin esa xuddi shu nomdagi maqolani Fitratga nisbat beradi («Alanga», 1928, 2-son). Tashpoʻlatov Zafariy maqolasini «Alanga», 1930, 1-songa qoʻyadi. Jadvalga shu haqda ogohlantirish qoʻshildi, «1920-yillar oxiri» degan asossiz sana olib tashlandi.
+4. **«Chigʻatoy gurungi».** Tashpoʻlatov aʼzolik yilini koʻrsatmaydi. «1919» sanasi Usmonovdagi 1919-yil 16-avgust kechasidan kelib chiqadi, chunki u kechani «Chigʻatoy gurungi» uyushtirgan. Matn shunga koʻra aniqlashtirildi.
+5. **Tashpoʻlatovning 1944-yil versiyasi.** Bu sana FHDYo (ZAGS) hujjatiga asoslanadi. Maqolada hukm «allegedly» (goʻyo) soʻzi bilan berilgan. Vikipediyaning oʻzida ham ziddiyat borligi qayd etildi: kirish qismida 1937, maʼlumot qutisi va matnda 1938-yil 4-dekabr.
+6. **Oʻsh yillari.** 1912–1914 sanasi Tashpoʻlatov maqolasida ham borligi qoʻshildi.
+
+### Tasdiqlanganlar (asosiylari)
+
+- **Usmonov matni boʻyicha:** 1889, Kattabogʻ; otasi Muzaffar misgar, onasi Fayzinisa otin; yagona farzand; eski maktab, rus-tuzem maktabi, Xoʻja Ahmad madrasasi; 1912-yildan Oʻsh; 1913-yil oxiri «Turon»; 1914-yil 15-yanvar «Padarkush»; «Baxtsiz shogird» (Usmonovda ham 1914, ham 1915); «Oyina», «Sadoyi Fargʻona», «Al-Isloh».
+- **Usmonov matni boʻyicha (davomi):** 1917-yil oxiri «Ishchilar dunyosi» (jurnal 1918-yil 4-yanvardan chiqqan); TurkROSTA 1919–1921; 1919-yil 16-avgust va 4-oktabr spektakllari; «Halima» 1920-yil 10-sentabr (afishada 14-sentabr); Fitrat taqrizi 1920-yil 29-sentabr; Choʻlpon taqrizi 1922-yil 16-dekabr.
+- **Usmonov matni boʻyicha (davomi):** Buxoro 1922–1923; 1923-yil Moskva; 1925-yil Parij va Termiz (1927-yilgacha); 1928-yil mart Samarqand instituti; 1929-yil 10-avgust; 1930-yil 21-mart; 1932-yil «Milliy ittihod» ishi va (Janubiy) Sibir; 1935-yil qaytish; 1937-yil «otuvga hukm»; 1937-yil 6-oktabr maqolasi; 1938-yil 2-oktabr yuzlashtiruv; 2018-yilgi «Asarlar».
+- **Veb-manbalar boʻyicha:** 1937-yil 29-oktabrdagi ikkinchi hibs [uz.wiki]; 1956-yil 17-dekabrdagi oqlanish va 1958-yil 15-noyabrdagi hujjat [Tashpulatov-2022]; Karimovdagi «ittihodchi» iqtibosi, 1921-yil Buxoro taklifi, qalam haqi va «Sibir lagerlari» [Karimov-yuz]; Halima va Ofeliya qiyosi [Usmanov-2023].
+- **Iqtiboslar.** «Verbatim namunalar» va «Mashhur iqtiboslar» boʻlimidagi barcha kitob iqtiboslari chunk matnlari bilan avtomatik solishtirildi. Usmonov va Habibulla Qodiriy matnlaridagi barcha uzun iqtiboslar manbada bor. Farqlar faqat satr uzilishi bilan bogʻliq.
+
+### Bahsli yoki tekshirilmagan qolganlar
+
+- **Oʻlim sanasi.** 1937 (Usmonov: faqat «otuvga hukm»), 1938-yil 4-dekabr (uz.wiki) va 1944-yil 4-avgust (Tashpoʻlatov va ZAGS hujjati; Boltaboyev «1889–1944»). Ziyouz va kh-davronʼdagi 1938-yil sanasi bu safar qayta tekshirilmadi. Arxiv (DXX ishi) hujjati kerak.
+- **Karimovning gapi.** «Choʻlpondan 11 yosh kichik» degan jumla yuz.uz sahifasida haqiqatan bor, lekin 1889-yilga zid. Ehtimol, bu yozuvdagi xato.
+- **Asli qayerlik.** H. Qodiriy «asli qoʻqonlik» deydi, Usmonov esa Toshkentda tugʻilgan deydi. Bu ziddiyat hal qilinmagan.
+- **1925–1927-yillar.** Termiz (Usmonov) yoki 1926-yilda Toshkent musiqa texnikumi direktori (Tashpoʻlatov).
+- **«Sharq kuylari va cholgʻulari» nashr yili.** 1922 (Usmonov: «Inqilob», 1922, 3-son) yoki 1923 (Tashpoʻlatov).
+- **Tekshirilmagan maʼlumotlar.** Ziyouz va kh-davron.uzʼdagi maʼlumotlar (jumladan «Diydor» teatr-studiyasi, rejissor Bahodir Yoʻldoshev, N. Umarova iqtibosi) qayta tekshirilmadi. 1934-yilgi qurultoy yili ham tekshirilmadi [umumiy bilim — tekshirilmagan].
+- **Tashpoʻlatov maqolasidagi nomlar.** Maqola sarlavhalarining asl oʻzbekcha nomlari («Let’s save our instrument from death», «How to preserve Uzbek melodies») manbada inglizcha berilgan. Ularning asl nomi aniqlanmagan.
