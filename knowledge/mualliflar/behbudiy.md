@@ -92,7 +92,7 @@ Mahmudxoʻja Behbudiy — Turkiston jadidchilik harakatining asoschisi va yoʻlb
 | 1918 | Qozoqlarga ochiq xat («Haq olinur, berilmas!», «Hurriyat», 26-yanvar); «Ishtirokiyun» | kh-davron.uz; uz.wiki |
 | 1919 (25-mart?) | Shahrisabzda qoʻlga olingan, Qarshida qatl qilingan | Abdurashidov 2024; antologiya |
 | 1920 (aprel) | Turkistonda motam tutilgan; Fitrat, Ayniy va Choʻlpon marsiyalari | Abdurashidov 2024 |
-| 1922 | Pyaskovskiy uni «Oʻzbek teatrining asosini qoʻyib beruvchi» deb atagan | Abdurashidov 2024 |
+| 1922 | Pyaskovskiy: «O‘zbek teatrining asosini qo‘yib beruvchi samarqandlik Mahmudxo‘ja Behbudiydir» | Abdurashidov 2024 |
 | 1926–1937 | Qarshi «Behbudiy» deb atalgan | Abdurashidov 2024 |
 | 2025 | 150 yillik yubiley haqida Prezident qarori | president.uz |
 
@@ -172,8 +172,8 @@ Belgilar: ✅ — bazada asar kartochkasi bor; ◐ — matni bazadagi antologiya
 8. **Tanqid madaniyati.** «Majalla va jaridalarning katta bir xosiyati tanqid, yaʼni saralamoqdur». Jamiyatdagi «xotir qolmasun» kasaliga qarshi chiqqan.
 9. **Milliy nom va oʻzlik.** «Sart» atamasini 24 dalil bilan rad etgan. Etimologik va qiyosiy usulda «xun» misolini keltirgan.
 10. **Siyosiy yoʻl.** Behbudiy moʻtadil, «murosa yoʻli»ni tutgan islohotchi boʻlgan (Qosimov, Abdurashidov orqali). 1906-yilda sotsial-demokratlarga qoʻshilishni «nihoyatda zararlik» degan. 1910-yillar boshida Rossiya davlatiga integratsiya tarafdori boʻlgan: «Davlat mansablarigʻa kirayluk», «Rusiya vatanina va davlatina bilfeʼl sherik boʻlmoq kerakdir». 1917–1918-yillarda muxtoriyat va Turkiston xalqlari birligi gʻoyasiga oʻtgan: «haq olinur, lekin berilmas». Zoʻravonlikni rad etgan.
-11. **Ayollar masalasi.** «Dorulojizin (ayollar universiteti)» misoli keltirilgan («Ehtiyoji millat»). «Padarkush»dagi Domulla: «oʻqumoq barcha musulmonga, erkak va yo xotin boʻlsun, farz edi». Partiya dasturida ayollarga saylov huquqi berilgan, erta nikohga qarshi chiqqan (UzA, 2025, `taʼlim-pedagogika.md`).
-12. **Teatr — «ibratxona».** Sahnani «hech kimni rioya qilmasdan toʻgʻri soʻzlagan» minbar, aktyorlarni «muallimi axloq» deb bilgan (UzA). Teatrdan tushgan daromad maorifga sarflangan.
+11. **Ayollar masalasi.** «dorulojizin (ayollar universiteti)» misoli keltirilgan («Ehtiyoji millat»). «Padarkush»dagi Domulla: «oʻqumoq barcha musulmonga, erkak va yo xotin boʻlsun, farz edi». Partiya dasturida ayollarga saylov huquqi berilgan, erta nikohga qarshi chiqqan (UzA, 2025, `taʼlim-pedagogika.md`).
+12. **Teatr — «ibratxona».** Sahnani «ҳеч кимни риоя қилмасдан тўғри сўзлагувчи ва очиқ ҳақиқатни билдиргувчи» minbar, aktyorlarni «muallimi axloq» deb bilgan (UzA). Teatrdan tushgan daromad maorifga sarflangan.
 
 ---
 
@@ -199,7 +199,7 @@ Behbudiy «Kitobat ul-atfol»da yozuv haqida oʻzi qoida ham bergan: «Xatni kam
 - **Talaffuz boʻyicha yozilgan rus va Yevropa soʻzlari.** Ular koloniyal zamonaviylikning belgisi: «bonka», «duxtur», «zakun / zakunchi», «kontur», «pansiun», «istipendiya», «kurujuklar», «miliuner», «prutest», «injiner», «gimnaziya», «gazet», «podsholik duma», «texnik», «buxgalterlik», «kassa», «plon». «Padarkush»da ular yanada koʻp: «chilen», «pristuf», «barishna», «dyujina», «turma», «interesniy». Behbudiy ruscha soʻzni koʻpincha izoh yoki qavs bilan beradi: «eʼtiroz (prutest)», «Taarruz (hujum)».
 - **Xalq-maishiy soʻzlar va Turkiston koloriti:** «hammollik», «mardikorlik», «muzdurlik», «koʻpkari», «uloq», «alochabof», «adras, beqasam», «tanob», «sajin», «gulkor», «baqqollik», «attorlik», «xirmon», «laʼli», «chilim», «nos», «choyxona», «tanbur».
 - **Oʻz soʻz yasashi va termin taklifi.** «Oʻlchak» (masshtab) shunday termin (Abdurashidov). «Kitobat ul-atfol»da qoida qoʻyilgan: turkiysi bor soʻzning oʻrniga «rusiy va ajnabiy ism» yozilmasin.
-- **Murojaat va kamtarlik leksikasi:** «Kamina», «Faqir», «arz qilurman», «Janobi fazilatpanoh», «Muallim afandilar», «muhtaram qarindoshlar», «Bovurlar!», «Chirogʻlarim!», «Aziz hamshaharlarim, moʻtabar ahli vatanim».
+- **Murojaat va kamtarlik leksikasi:** «Kamina», «Faqir», «arz qilurman», «Janobi fazilatpanoh», «Muallim afandilar», «muhtaram qarindoshlar», «Bovurlar!», «Chirogʻlarim!», «Aziz hamshaharlarim,mo‘tabar ahli vatanim».
 - **Gaspirali taʼsiridagi umumturkiy va usmonlicha unsurlar.** Usmonlicha «oʻlur» (boʻlur maʼnosida; «maʼqul oʻlur»), «vordur», «Ishta» (*işte*), «bizim», «cholishaturgʻon» kabi shakllar asosan 1906–1914-yillardagi tatar va usmonli nashrlariga yozilgan matnlarda uchraydi (Abdurashidov iqtiboslari). Antologiyadagi «Oyna» maqolalarida bu qatlam kuchsizroq. Qiyos qilinsa, Avloniyda usmonlicha qatlam ancha kuchli (antologiya kartochkasi).
 
 ### Sintaksis
@@ -427,7 +427,7 @@ ilmi zamoniy, zamoncha, taraqqiy, maorif, millat, hamiyyat, gʻayrat, agʻniyo, 
 
 > **stilizatsiya namunasi (asl matn emas)** — Behbudiyning 1913–1915-yillardagi «Oyna» publitsistikasi uslubida yozilgan oʻquv namunasi. Unda Behbudiyga tegishli birorta jumla yoʻq.
 >
-> Muhtaram birodarlar! Barchamizgʻa maʼlumdurki, bizni Samarqandda har yil kuz fasli kelganda toʻy mavsumi boshlanur va har mahallada oʻn-oʻn besh toʻy boʻlur. Bir oʻrtahol kishi toʻyiga ming soʻm, boylar besh ming soʻm sarf etar. Muning hosili nadur? Bir kecha osh, bir kecha karnay, ertasi kun qarz. Albatta, munga javob berursizki, ota-bobolarimizdan qolgan odatdur, xalq taʼnasidan qoʻrqamiz. Biz ham dermizki, javobingiz durust, ammo ota-bobolarimiz zamoni oʻtdi, endi zamon boshqadur. Boshqa millatlarning boylari maktab va qiroatxona bino qilurlar, bizniki toʻy ila faxr etar. Oʻn sana muqaddam mahallamizda yigirma kosib bor edi, al-on beshtasi qoldi. Valloh, bu ketish ila yerimiz ham, hunarimiz ham ajnabiylargʻa oʻtar. Xulosa, bizgʻa lozimki, toʻyni kichik qilayluk, ortgan oqchani maktab va muallim yoʻligʻa sarf etayluk. Endi gʻayrat sizlardan, tavfiq Ollodandur.
+> Muhtaram birodarlar! Barchamizgʻa maʼlumdurki, bizni Samarqandda har yil kuz fasli kelganda toʻy mavsumi boshlanur va har mahallada oʻn-oʻn besh toʻy boʻlur. Bir oʻrtahol kishi toʻyiga ming soʻm, boylar besh ming soʻm sarf etar. Muning hosili nadur? Bir kecha osh, bir kecha karnay, ertasi kun qarz va sudxoʻr eshigi. Bola esa maktabsiz, hunarsiz qolur. Albatta, munga javob berursizki, ota-bobolarimizdan qolgan odatdur, xalq taʼnasidan qoʻrqamiz. Biz ham dermizki, javobingiz durust, ammo ota-bobolarimiz zamoni oʻtdi, endi zamon boshqadur. Boshqa millatlarning boylari maktab va qiroatxona bino qilurlar, bizniki toʻy ila faxr etar. Oʻn sana muqaddam mahallamizda yigirma kosib bor edi, al-on beshtasi qoldi. Valloh, bu ketish ila yerimiz ham, hunarimiz ham ajnabiylargʻa oʻtar. Xulosa, bizgʻa lozimki, toʻyni kichik qilayluk, ortgan oqchani maktab va muallim yoʻligʻa sarf etayluk. Endi gʻayrat sizlardan, tavfiq Ollodandur.
 
 ---
 
