@@ -11,7 +11,7 @@
 
 ## 2-sessiya (2026-10-21) — bosqichma-bosqich davom ettirilmoqda
 - [x] 1-bosqich: qolgan 11 ta koʻp boʻlakli kitob kartochkasi (jami 57 ta kartochka) + `04_imlo_qoidalari_1995.md`. Dayjestlar endi `digests.json` da (54 ta; 3 tasi yoʻq — kartochkasini oʻqing).
-- [ ] 2-bosqich: 17 ta web tadqiqot (`manbalar_web/`)
+- [x] 2-bosqich: 17 ta web tadqiqot (`manbalar_web/`)
 - [ ] 3-bosqich: 13 ta muallif profili + fakt tekshiruvi
 - [ ] 4-bosqich: sintez, tanqidchi, README.md, CORE.md
 
