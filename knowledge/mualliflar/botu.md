@@ -28,10 +28,10 @@ Botu (Mahmud Hodiyev) jadidlarning ikkinchi, «yosh» avlodiga mansub. U shoir, 
 - 1921–1927-yillarda Moskva davlat universitetida oʻqigan. Fakulteti haqida manbalar turlicha yozadi: ziyouz, uz.wiki va ru.wiki — iqtisod fakulteti; CentrAsianing bir matni va Fetisov — tarix fakulteti. CentrAsiaga koʻra, u avval Pokrovskiy instituti rabfakida oʻqigan [CA; Fetisov]. Moskvada Akmal Ikromov bilan doʻstlashgan [CA].
 
 ### «Chigʻatoy gurungi» va til islohoti (1919–1922)
-- Botuning 1931-yil 16-fevraldagi koʻrsatmasiga koʻra (N. Karimov keltirgan), uni 1919-yilda Fitrat bilan Ikromov tanishtirgan. Avval u Ikromovning «Izchi to‘da» guruhida boʻlgan, keyin Fitrat tomoniga oʻtgan. 1920-yil boshida Elbekning taklifi bilan «Chigʻatoy gurungi»ga aʼzo boʻlib, texnik kotib vazifasini olgan [Karimov]. Karimov uni «Fitratning yosh maslakdoshlaridan biri» deb ataydi [Karimov].
+- Botuning 1931-yil 16-fevraldagi koʻrsatmasiga koʻra (N. Karimov keltirgan), uni 1919-yilda Fitrat bilan Ikromov tanishtirgan (Botu buni «agar yanglishmasam» degan qayd bilan aytadi). Avval u Ikromovning «Izchi to‘da» guruhida boʻlgan, keyin Fitrat tomoniga oʻtgan. 1920-yil boshida Elbekning taklifi bilan «Chigʻatoy gurungi»ga aʼzo boʻlib, texnik kotib vazifasini olgan [Karimov]. Karimov uni «Fitratning yosh maslakdoshlaridan biri» deb ataydi [Karimov].
 - Gurung qoshidagi imlo toʻdasida Qayum Ramazon, Elbek, Shokirjon Rahimiy, Shorasul Zunnun va Oltoy bilan birga ishlagan [T. Togʻayev, https://www.oriens.uz/media/journalarticles/12_Togayev_Tolqin_Mamanazarovich_72-77.pdf].
 - 1920-yilda arab alifbosini lotin alifbosiga almashtirish tashabbuskorlaridan biri boʻlgan [ziyouz; ru.wiki]. Karimov bu taklifni 1921-yil yanvaridagi til va imlo qurultoyi bilan bogʻlaydi. Unga koʻra, «sekin-asta sovetlar tomoniga o‘ta boshlagan Botu» qurultoyda Fitratga qarshi soʻzga chiqqan, lotin yozuvi haqidagi «o‘sha davr uchun g‘o‘r taklifi hatto muhokama uchun qabul ham qilinmadi» [Karimov].
-- 1922-yilda chiqqan «Oʻzbek yosh shoirlari» toʻplamiga Fitrat, Choʻlpon va Elbek sheʼrlari bilan birga uning sheʼrlari ham kiritilgan [Karimov; muallif-elbek.md].
+- 1922-yilda chiqqan «Oʻzbek yosh shoirlari» toʻplamiga Fitrat va Choʻlpon sheʼrlari bilan birga uning sheʼrlari ham kiritilgan [Karimov]. Elbek sheʼrlari ham shu toʻplamda boʻlgani uz.wiki («Chigʻatoy gurungi», «Elbek») orqali aytiladi [muallif-elbek.md]; Karimov matnida Elbek nomi bu toʻplam bilan birga tilga olinmagan. Nashr yili ham bahsli: Vikipediya — 1922, Uzoqov matnidan 1920-yil chiqadi [muallif-elbek.md, «Ziddiyatli maʼlumotlar» 12].
 
 ### Matbuot va davlat xizmati (1922–1930)
 - 1922-yilda «Fargʻona» gazetasini tashkil etgan va ru.wikiga koʻra 1930-yilgacha uning bosh muharriri boʻlgan [ru.wiki; CA]. Ziyouz bosh muharrirlikni 1928–1930-yillar bilan bogʻlaydi [ziyouz].
@@ -139,7 +139,7 @@ Botu (Mahmud Hodiyev) jadidlarning ikkinchi, «yosh» avlodiga mansub. U shoir, 
 3. **Eski va yangi kurashi, yoshlik.** «Eski qonun, eski yo‘l / Yoshni olg‘a eltmagay.»; «Ko‘nglim yosh, ruhim yosh, kuchim yosh» [Sh]. «Литературная энциклопедия» uning ijodini «новое со старым» kurashi bilan bogʻlaydi (ru.wiki orqali) [web 9.3].
 4. **Ijtimoiy adolat (sinfiy ohang).** «Non tiladi, non tilaydi / Kuch sotuvchi yo‘qsil ellar.»; xonga qarshi «Ezgu bayroq» koʻtariladi [Sh]. Sinfiy tushunchalar rus soʻzlari bilan emas, turkiy soʻzlar bilan ifodalanadi.
 5. **Ayol ozodligi.** «Kichkina armugʻonim», «Sevgan qiz», «Erk so‘zi», «Oloy qizi» sheʼrlari bu mavzuga bagʻishlangan [Sh]. Uning «Hujum» komissiyasi kotibi boʻlgani bu mavzuga biografik asos beradi [ru.wiki; CA].
-6. **Pessimizmni rad etish.** «Kelgusi baxtini ocholmas yig‘i» [Sh]. Ensiklopediya bu motivni oʻzbek adabiyotidagi «безлунные ночи» va «бессолнечные дни» kayfiyatini yengishga chaqiriq deb taʼriflaydi [web 9.3]. Bu Fitratning «Mening kecham»iga «Mening kunduzim» bilan javob berganiga ham mos keladi [Boltaboyev orqali, web 4.10].
+6. **Pessimizmni rad etish.** «Kelgusi baxtini ocholmas yig‘i» [Sh]. Ru.wiki asosiy motivni «призыв к преодолению пессимистических настроений» deb beradi; «безлунные ночи» va «бессолнечные дни» iboralari esa CentrAsia matnida keltirilgan [ru.wiki; CA]. Bu iboralar «Литературная энциклопедия»dan olingani ehtimoli bor, lekin ensiklopediya matni koʻrilmagan [web 9.3]. Bu Fitratning «Mening kecham»iga «Mening kunduzim» bilan javob berganiga ham mos keladi [Boltaboyev orqali, web 4.10].
 7. **Til va yozuv islohoti, turkiy oʻzlik.** U lotin yozuvi tashabbuskori boʻlgan, imlo toʻdasida ishlagan [Karimov; Togʻayev]. Sheʼrlarida «ey turonliklar», «turkistonliklar», «Ulug‘ Tangri» kabi soʻzlar bor, leksikasi sof turkiy [Sh].
 8. **Gʻoyaviy yoʻl.** Milliy Ensiklopediya uning erta sheʼrlarida «Munavvar qori singari milliy istiqlolchilar ta’siri» seziladi, deydi [ziyouz]. Botu esa 1931-yilgi koʻrsatmasida oʻzini Ikromov va Fitrat atrofida koʻrsatadi [Karimov]. Karimovga koʻra, keyinroq u «Fitrat va Cho‘lpondan uzoqlashgan, hatto ularga qarshi kurashgan» [Karimov]. Shunga qaramay, 1930-yilda «burjua millatchisi» sifatida hibsga olingan.
 9. **Maʼrifat.** Maorif komissari oʻrinbosari va savodsizlikni tugatish shtabi aʼzosi boʻlgan [CA]. «Yangi qishloq» hikoyasida muallimga minnatdorchilik bor: «— Muallimdan juda rozimiz, — dedi Qodir.» [ziyouz, hikoya matni].
@@ -330,7 +330,7 @@ Sheʼrlar sanasiz boʻlgani uchun quyidagilar faqat **gipoteza** sifatida berila
 
 ## Boshqa jadidlar bilan aloqalari va taʼsirlar
 
-- **Abdurauf Fitrat.** Botu oʻzining 1931-yilgi koʻrsatmasida Fitratni ilk bor 1918-yilda sakkiz oylik kurslarda koʻrganini aytadi. Ularni 1919-yilda Ikromov tanishtirgan. Keyin u «Chigʻatoy gurungi»ga kirgan [Karimov]. Koʻrsatmada Fitratning gʻoyasi shunday berilgan: «avval — madaniyat, keyin — mustaqillik» [Karimov]. 1921-yilgi qurultoyda u Fitratga qarshi chiqqan, keyin Fitrat va Choʻlpondan «uzoqlashgan, hatto ularga qarshi kurashgan» [Karimov]. Fitratning «Mening kecham» sheʼriga «Mening kunduzim» bilan javob bergan [Boltaboyev orqali, web 4.10]. Fitrat esa «Adabiyot qoidalari»da Botuni oʻziga xos «ifoda»ga ega yozuvchilar qatoriga qoʻygan [Quvvatova].
+- **Abdurauf Fitrat.** Botu oʻzining 1931-yilgi koʻrsatmasida Fitratni ilk bor 1918-yilda sakkiz oylik kurslarda koʻrganini aytadi. Ularni 1919-yilda Ikromov tanishtirgan («agar yanglishmasam» qaydi bilan). Keyin u «Chigʻatoy gurungi»ga kirgan [Karimov]. Koʻrsatmada Fitratning gʻoyasi shunday berilgan: «avval — madaniyat, keyin — mustaqillik» [Karimov]. 1921-yilgi qurultoyda u Fitratga qarshi chiqqan, keyin Fitrat va Choʻlpondan «uzoqlashgan, hatto ularga qarshi kurashgan» [Karimov]. Fitratning «Mening kecham» sheʼriga «Mening kunduzim» bilan javob bergan [Boltaboyev orqali, web 4.10]. Fitrat esa «Adabiyot qoidalari»da Botuni oʻziga xos «ifoda»ga ega yozuvchilar qatoriga qoʻygan [Quvvatova].
 - **Choʻlpon.** «Oʻzbek yosh shoirlari» (1922) toʻplamida ikkalasining sheʼrlari birga chiqqan [Karimov]. Choʻlponning «Buzilgan oʻlkaga» sheʼriga «Tuzalgan oʻlkaga» bilan javob bergani aytiladi. Manbada bu sheʼr Botu va Gʻayratiyga birga tegishli qilib berilgan [web 4.10]. Choʻlponning «Qor» sheʼriyati bilan qiyoslash hali ochiq masala [Sh-kart].
 - **Elbek.** «Gurung» kotibi boʻlgan, Botuni gurungga u taklif qilgan. Imlo toʻdasida birga ishlashgan [Karimov; Togʻayev; muallif-elbek.md].
 - **Akmal Ikromov.** «Izchi to‘da» davrida birga boʻlgan, Moskvada doʻstlashgan. CentrAsia Botuning taqdirini Ikromov va Fayzulla Xoʻjayev taqdiri bilan yonma-yon qoʻyadi [CA; Karimov].
@@ -344,13 +344,13 @@ Sheʼrlar sanasiz boʻlgani uchun quyidagilar faqat **gipoteza** sifatida berila
 ## Ilmiy baholar va tadqiqotlar
 
 - **«Литературная энциклопедия» (1929–1930)**, «Бату» maqolasi: uni «самым крупным и популярным из современных узбекских поэтов» deb atagan. Asosiy motivi — pessimizmni yengish, «новое со старым» kurashi (ru.wiki orqali; asl matn koʻrilmagan) [web 9.3, 10.2].
-- **A. Fitrat, «Adabiyot qoidalari»:** Botuni oʻziga xos «ifoda uslubi»ga ega yozuvchilar qatorida tilga olgan [Quvvatova]. Kitob 1926-yilda chiqqan [umumiy bilim — tekshirilmagan].
+- **A. Fitrat, «Adabiyot qoidalari»:** Botuni oʻziga xos «ifoda uslubi»ga ega yozuvchilar qatorida tilga olgan [Quvvatova]. Kitob 1926-yilda chiqqan [H. Boltaboyev, `../_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt`, 521-satr: «(“Adabiyot qoidalari”, 1926)»].
 - **Oʻzbekiston Milliy Ensiklopediyasi** (1-jild, 2000; ziyouz va uz.wiki orqali): erta sheʼrlarida milliy istiqlolchilar taʼsiri, yangi tuzumga ishonch, hikoyalarida yangi ijtimoiy munosabatlar va bolalar ruhiyati qayd etilgan [ziyouz].
 - **Naim Karimov**, «Oʻzbekistonda adabiy harakatlar»: Botuni «Fitratning yosh maslakdoshlaridan biri» deb ataydi. Uning 1931-yilgi koʻrsatmasini «haqqoniy ma’lumot» deb baholaydi. Lotin yozuvi haqidagi taklifini «g‘o‘r» deb hisoblaydi. Keyinchalik u Fitrat va Choʻlpondan uzoqlashganini yozadi [Karimov].
 - **H. Boltaboyev**: sovet darsliklarida Botu, avvalo, Fitrat va Choʻlponga «javob» sheʼrlari bilan oʻrin olganini koʻrsatadi [web 4.10].
 - **M. Otaxanova**: Botuni «erkin vazn va oq she’r» kabi yangi shakllarni sheʼriyatga olib kirgan shoirlar qatoriga qoʻshadi [Otaxanova].
 - **T. Togʻayev** (2023): Botuni imlo toʻdasining aʼzosi sifatida qayd etadi [Togʻayev].
-- **O. Usmonov** (R. Majidiyga tayanib): 1934-yilgi qurultoy atrofida Fitrat, Choʻlpon, Elbek, Botu va boshqalarning ijodi «sinfiy hushyorlik» bilan taftish qilingan [web 10.6]. **U. Dolimov**: 1937-yil bahorida matbuotda Botu ham «millatchi», «aksilinqilobchi» deb qoralangan [web 10.6].
+- **O. Usmonov** (R. Majidiyning «Gʻalabalar yoʻli» maqolasiga tayanib, «Isteʼdod va burch», 1974): yozuvchilarning «I qurultoy»ida (yili manbada koʻrsatilmagan; 1934 — [umumiy bilim — tekshirilmagan]) Fitrat, Choʻlpon, Elbek, Botu, Gʻulom Zafariy, Shohid Ehsonlarning ijodi «sinfiy hushyorlik» bilan taftish qilingan [`../_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt`, 331-satr]. **U. Dolimov kitobidagi xotira** (birinchi shaxs tilida yozilgan esdalik): 1937-yil bahorida «gazeta va jurnallarda Fitrat, Qodiriy, Cho‘lpon, Elbek, Botu va boshqa yozuvchilarni “millatchi”, “aksilinqilobchi” sifatida qoralovchi maqolalar» chiqqan [`../_holat/chunks/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat__01.txt`, 1041–1042-satrlar].
 - **Mahmudali Yunusov**, «Hayot nafasi»: qatagʻon qilingan Elbek, Botu va Sh. Sulaymonni birinchilardan boʻlib oʻrgangan [uz.wiki «Mahmudali Yunusov», muallif-elbek.md orqali].
 - **B. Sharipov**, «Shoir va jamoatchi» (Toshkent, 1989) — Botu haqidagi monografiya [uz.wiki]. Matni koʻrilmagan.
 - **CentrAsia / V. Fetisov** («Дети Бату», 2015): «выдающегося узбекского поэта, стоящего в одном ряду с классиками узбекской литературы» [CA; Fetisov].
@@ -408,3 +408,35 @@ Boshqa manbalardan:
 - https://www.oriens.uz/media/journalarticles/12_Togayev_Tolqin_Mamanazarovich_72-77.pdf
 
 **Koʻrilmagan, lekin zarur manbalar:** B. Sharipov, «Shoir va jamoatchi» (1989); «Yoz kuni» (1980); «Боту. Танланган асарлар» (2004); N. Mahmudova, «Жизнь — по плечу» (2008); «Литературная энциклопедия», «Бату» maqolasi; M. Yunusov, «Hayot nafasi».
+
+---
+
+## Tekshiruv qaydlari
+
+*Tekshiruv sanasi: 2026-yil 21-oktabr. Usul: har bir daʼvo bazadagi fayllar (`../_holat/chunks/`, `../manbalar_web/`) va ushbu sessiyada qayta ochilgan veb-sahifalar (ru.wiki, uz.wiki, ziyouz biografiyasi, CentrAsia — curl orqali cp1251 dan oʻgirib, proza.ru/Fetisov, N. Karimov maqolasi, Wikisource) bilan solishtirildi.*
+
+**Tuzatilgan yoki aniqlashtirilgan joylar:**
+1. «Oʻzbek yosh shoirlari» (1922): Karimov matnida faqat Fitrat, Choʻlpon va Botu nomlari bor; Elbek nomi u yerda yoʻq. Elbek ishtiroki uz.wiki (muallif-elbek.md orqali) manbasiga koʻchirildi, nashr yili bahsi (1922 / 1920) qoʻshildi.
+2. Ikromov Botuni Fitrat bilan 1919-yilda tanishtirgani haqidagi gap Botu koʻrsatmasida «agar yanglishmasam» qaydi bilan berilgan — bu ehtiyotkorlik ikki joyda qoʻshildi.
+3. «безлунные ночи», «бессолнечные дни» iboralari ru.wikida topilmadi; ular CentrAsia matnida bor. «Литературная энциклопедия»ga toʻgʻridan-toʻgʻri nisbat berish oʻrniga manba aniqlashtirildi.
+4. Fitratning «Adabiyot qoidalari» 1926-yilda chiqqani endi «umumiy bilim» emas: H. Boltaboyev kitobida («“Adabiyot qoidalari”, 1926») tasdiqlandi.
+5. O. Usmonov parchasida «1934-yilgi qurultoy» deyilmagan, faqat «I qurultoy» bor; 1934-yil «umumiy bilim — tekshirilmagan» deb belgilandi. U. Dolimov kitobidagi 1937-yil haqidagi parcha muallifning oʻz bahosi emas, kitobdagi birinchi shaxs xotirasi ekani koʻrsatildi va iqtibos manbadagi kabi berildi.
+
+**Tasdiqlangan asosiy maʼlumotlar (≥2 mustaqil manba):** tugʻilgan sana va joy — 1904-yil 15-may, Toshkent (ziyouz, uz.wiki, ru.wiki, CA); qatl sanasi 1938-yil 9-may (ru.wiki, uz.wiki, CA); rus-tuzem maktabi 1914–1917 va oʻqituvchilar kursi 1918–1920 (ziyouz, uz.wiki, ru.wiki, CA); MDU 1921–1927; «Umid uchqunlari» (1925), ikkinchi toʻplam (1929); «Yangi qishloq» (1928), «Tursun» (1929); lotin alifbosi tashabbusi (1920); maorif xalq komissari oʻrinbosari 1928–1930; reabilitatsiya 1958 (ru.wiki, CA); Toshkentda koʻcha va maktab nomi (ziyouz, ru.wiki); rafiqasi V. P. Vasilyeva, Erkli (3.01.1926, Moskva), Naima (1928, Samarqand) (CA, Fetisov); 1932-yilgi xatdagi ruscha satrlar va «До 1936 года» xatlar (Fetisov, CA); «Qizil qalam» (1926, Samarqand) va aʼzolar roʻyxati (Karimov); Wikisource roʻyxati («Hoshimjon» 1928, «Yangi qishloq» 1928, «Qizil madaniyatchilar g‘alabasi» 1927, «So‘rma»). «Sheʼrlar» saylanmasidan olingan barcha iqtiboslar `../_holat/chunks/botu-sherlar__01.txt` bilan harfma-harf solishtirildi va mos keldi.
+
+**Bahsli boʻlib qolayotganlar (ikkala variant matnda saqlangan):**
+- MDUdagi fakultet: iqtisod (ziyouz, uz.wiki, ru.wiki, CA ikkinchi matni) / tarix (CA birinchi matni, Fetisov).
+- Hibs sanasi: 1930-yil 23-iyul (CA) / 1930-yil avgust (ru.wiki).
+- Qatl joyi: Toshkent (uz.wiki) / koʻrsatilmagan, 1937-yilda Moskvaga etap qilingan (CA); ru.wiki joyni bermaydi.
+- Ikkinchi toʻplam nomi: «Toʻlqin tovushlari» (ziyouz, uz.wiki) / «Tўlqin uchqunlari» (ru.wiki).
+- «Hoshimjon» yili: 1928 (hikoya matni, Wikisource) / 1929 (ziyouz, uz.wiki biografiyasi).
+- «Fargʻona» bosh muharrirligi muddati: 1922–1930 (ru.wiki) / 1928–1930 bilan bogʻliq (ziyouz). Komissar oʻrinbosarligi: 1928–1930 (ziyouz, ru.wiki) / 1929-yil avgustdan «2-й зам.» (CA).
+- «Tuzalgan oʻlkaga» va «Mening kunduzim»: Boltaboyev sovet darsliklarini keltirib, ikkala sheʼrni «Botu va G‘ayratiy»ga birgalikda bogʻlaydi; qaysi sheʼr kimniki ekani manbada ajratilmagan.
+
+**Tekshirilmagan (bitta manbaga tayanadi yoki manba koʻrilmagan):**
+- «из бедной семьи ткача», «Ташкентская советская образцовая школа», Pokrovskiy instituti rabfaki, Ikromov bilan Moskvadagi doʻstlik, «Хайит харом булди», «Наш голос», «Желание желаний» (1985?) — faqat CA.
+- «Литературная энциклопедия» (1929–1930) maqolasining asl matni koʻrilmagan; iqtibos faqat ru.wiki orqali.
+- «Repressiya. 1937–1938 gody» (2005) toʻplamidagi hukm almashtirilgani haqidagi parcha bu sessiyada qayta ochilmadi (web 5.2 orqali).
+- T. Togʻayev, D. Quvvatova va M. Otaxanova maqolalari (PDF) bu sessiyada qayta ochilmadi; maʼlumotlar veb-tadqiqot fayliga tayanadi.
+- B. Sharipov (1989), «Yoz kuni» (1980), «Боту. Танланган асарлар» (2004; tuzuvchilar ru.wikida tasdiqlandi, nashriyot «Sharq» — faqat web fayl orqali), N. Mahmudova «Жизнь — по плечу» (2008), M. Yunusov «Hayot nafasi» (yili manbalarda 1981 / 1983) matnlari koʻrilmagan.
+- A. Khalid «Making Uzbekistan» (2015)da Botu tilga olinishi — [umumiy bilim — tekshirilmagan].

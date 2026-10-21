@@ -48,7 +48,7 @@ Tavallo (Toʻlagan Xoʻjamyorov) — toshkentlik jadid shoiri, hajvchi va publit
 
 ### Matbuotdagi faoliyat (1913–1918)
 
-- Oʻzbek Vikipediyasiga koʻra, Tavallo 1905-yildan «Turkiston viloyatining gazeti», «Sadoi Fargʻona», «Taraqqiy»ga yozgan [UZWIKI]. «Sadoi Fargʻona» 1914-yilda chiqa boshlagan [umumiy bilim — tekshirilmagan], shuning uchun bu sana shubhali. Qosimov va Karimov uning matbuotga chiqishini «10-yillardan» deb belgilaydi. Kitobdagi eng erta sanali matnlar 1913-yilga tegishli [EV-matn].
+- Oʻzbek Vikipediyasiga koʻra, Tavallo 1905-yildan «Turkiston viloyatining gazeti», «Sadoi Fargʻona», «Taraqqiy»ga yozgan [UZWIKI]. «Sadoi Fargʻona» Qoʻqonda 1914-yil 3-aprelda chiqa boshlagan va 1915-yil mayigacha (122 son) chiqqan [Yuz.uz: https://yuz.uz/uz/news/sadoi-fargona-gazetasining-ilk-soni-chop-etilganiga-110-yil-boldi-], shuning uchun «1905» sanasi bu gazetaga nisbatan imkonsiz. Qosimov va Karimov uning matbuotga chiqishini «10-yillardan» deb belgilaydi. Kitobdagi eng erta sanali matnlar 1913-yilga tegishli [EV-matn].
 - **«Oyna» bilan aloqa va ajralish.** 1913-yilda «Oyna»da «Turkistonli qardoshlarima ochiq xat» (6-son) va «Oh-u hasrat» (10-son) bosilgan. «Oyna»ga madhiya ham yozgan, unda radif «koʻzgu» [EV-matn]. 1914-yil 16-martda TVGda bosilgan «Eʼtiroz» maqolasida maqolalari olti oy kechiktirilgani uchun «Oyna»ga endi yozmasligini eʼlon qilgan [EV-matn]. Z. Abdurashidov buni «Oyna» inqirozining boshlanishi deb biladi: «Avval boshida Tavallodan boshlangan yuz o‘girishlar samarqandlik ziyolilarga ham o‘tdi. Hoji Muin, Saidahmad Vasliy Samarqandiy, Siddiqiy Ajziylar “Oyina”dan “qalam”larini to‘xtatdi.» [Abdurashidov].
 - **«Sart» bahsi.** Xuddi shu «Eʼtiroz»da tatar «Vaqt» gazetasi turkistonliklarni «sart» deb kamsitganiga qarshi chiqqan [EV-matn].
 - **Fuzayl Jonboy bilan polemika.** TVG, 1914, 26-, 28-, 32-, 34-sonlar. Tavallo «Haqiqatsiz aftro» va «Ответ Джанбаеву» maqolalarini yozgan [EV-matn].
@@ -67,7 +67,7 @@ Tavallo (Toʻlagan Xoʻjamyorov) — toshkentlik jadid shoiri, hajvchi va publit
 
 - **Mehnat daftarchasiga koʻra** [EV-Qosimov2]: 1918–1919 — Eski va Yangi shahar ijroiya qoʻmitalari aʼzosi; 1919–1922 — Turkiston ChK kollegiyasi aʼzosi; 1922–1923 — Eski Toshkent ijroqoʻmi, shikoyatlar byurosi, Fargʻona revtribunali aʼzosi; 1924 — Tashsoyuz boshqarmasi aʼzosi; 1925–1927 — kustpromsoyuz raisi; 1928 — quruq meva omborida tarjimon; 1929 — sugʻurta uyushmasida instruktor; 1930 — oʻz arizasiga koʻra boʻshagan; 1932–1935 — turli trest va artellarda inspektor va instruktor.
 - **Partiya.** H. Qodiriy: «Inqilobdan soʻng partiya safiga kirib, tashkiliy ishlarda va ayniqsa “Mushtum” jurnalida faol qatnashgan» [H. Qodiriy].
-- **Birinchi qamoq.** 1927-yil 23-oktyabrdan 1928-yil 11-yanvargacha qamoqda boʻlgan. 6500 soʻmlik davlat mulkini talon-toroj qilishda ayblanib, 5 yilga hukm qilingan va partiyadan oʻchirilgan [EV-Qosimov2; EV-Karimov]. Daftarchadagi 2,5 oylik muddat bilan «5 yil» hukmi bir-biriga mos kelmaydi.
+- **Birinchi qamoq.** 1927-yil 23-oktyabrdan 1928-yil 11-yanvargacha qamoqda boʻlgan. 6500 soʻmlik davlat mulkini talon-toroj qilishda ayblanib, 5 yilga hukm qilingan va partiyadan oʻchirilgan [EV-Qosimov2]. Karimovda ayb sanasi va mazmuni boshqacha: «1926-yilda matlubotchilar jamiyatidan 6500 soʻmni oʻgʻirlagani uchun 5 yilga kesilib, partiyadan oʻchirilgan» [EV-Karimov]. Daftarchadagi 2,5 oylik muddat bilan «5 yil» hukmi bir-biriga mos kelmaydi.
 - **«Mushtum» (1924–1930).** Qosimov: «20-yillarda “Mushtum” hajviy jurnalining faollaridan edi. Mazkur jurnal sahifalarida “Magʻzava” imzosi bilan oʻnlab hajviy sheʼrlari chop etilgan» [EV-Qosimov1]. Birinchi sanali matn — «Sharq maktabinda imtihon» (1924-yil 31-may, 3-son), oxirgilari — «Bu ham bir ashula» va «Mushtum kupleti» (1930) [EV-matn].
 - **Qodiriy bilan doʻstlik.** Tavallo Abdulla Qodiriyning uyiga bir necha bor kelgan, Hoji sartaroshning doʻkonidagi shoirlar davrasida (Xislat, Gʻozi Yunus) qatnashgan [H. Qodiriy]. 1928-yil iyulida Qodiriy bilan Qoʻqonga borgan va Afgʻonbogʻda Ismoil Afgʻoniy bilan uchrashgan. Nasrullo Davron: «Tavallo Qodiriydan 11 yosh katta edi» [EV-Davron].
 - **Soʻnggi yillar.** Karimov bu davrni shunday baholaydi: «soʻnib, soʻnibgina qolmay, xor-zor boʻlib yashadi… ayniqsa, sevimli farzandi vafot etganidan keyin alamidan ichkilikka berildi» [EV-Karimov].
@@ -95,7 +95,7 @@ Tavallo (Toʻlagan Xoʻjamyorov) — toshkentlik jadid shoiri, hajvchi va publit
 | 1914, 27-fevral – aprel | «Padarkush» sahnalashtirilishi munosabati bilan teatr sheʼrlari va «Nodon kishilarimizning teatrdan olgʻon taassuroti» (3-aprel) | EV-Karimov; EV-matn |
 | 1914, 22-aprel | Toʻqayga tazmin («Sadoi Turkiston», 4-son) | SHERLAR; EV-matn |
 | 1914, avgust | «Munojot» (podshoh va askar uchun duo, «Sadoi Turkiston», 23-avgust); «Sabzazor» bayozi (22-avgust); «Nashriyot» shirkati (30-avgust) | EV-matn; EV-Manbalar; EV-Qosimov1 |
-| 1914 | Gʻasprinskiy vafotiga marsiyalar (Gʻasprinskiy 1914-yilda vafot etgan [umumiy bilim — tekshirilmagan]) | EV-matn |
+| 1914 | Gʻasprinskiy vafotiga marsiyalar (Gʻasprinskiy 1914-yil 11/24-sentyabrda Boqchasaroyda vafot etgan [https://en.wikipedia.org/wiki/Ismail_Gasprinsky; Britannica]) | EV-matn |
 | 1915 | «Turon» jamiyatida (soʻroqqa koʻra 1915–1919, havaskor artist); Gʻuljadan xabar (6-mart) | UZWIKI; EV-Karimov; EV-matn |
 | 1916 | «Ravnaq ul-islom» toʻplami; «Maktab» shirkati; «Hijob xususinda» («Al-Isloh», 6-son); «Insofdin sof», «Ilm natijalari» (TVG, 27-noyabr) | EV-Manbalar; UZWIKI (Avloniy); EV-matn |
 | 1917 | «Shoʻroyi islom»ga bagʻishlangan sheʼr («Najot», 9-aprel); «Munojot» («Al-Isloh», 7-son); soʻl eserlar partiyasiga kirgan | EV-matn; EV-Karimov |
@@ -142,7 +142,7 @@ Toʻliq bibliografiya hali tuzilmagan. Qosimov «Mushtum»dagi hajviyalar haqida
 | «Toshkandda (Xiva) sinemosi toʻgʻrisida» | gʻazal | 1914 | «Oyna», 17-son | ✓ EV |
 | «Oyna» majallasiga madhiya («koʻzgu» radifli) | gʻazal | 1913–1914 | «Ravnaq ul-islom» | ✓ EV |
 | «Vaqt gʻanimat» | gʻazal | 1914 | «Sadoi Fargʻona», 11-may, 15-son | ✓ EV |
-| «Abyot» | gʻazal-tabrik | 1914 | «Sadoi Fargʻona», 16-iyul, 4-son | ✓ EV |
+| «Abyot» | gʻazal-tabrik | 1914 | «Sadoi Fargʻona», 16-iyul, 4-son (EVdagi koʻrsatkich; 11-may sonining 15-raqamli ekanini hisobga olsak, «4-son» raqami shubhali) | ✓ EV |
 | «Ey doʻst» | gʻazal | 1914 | «Sadoi Turkiston», 20-may, 11-son | ✓ EV |
 | «Munojot» («Podshoho, doimo boʻlsun madadkoring xudo») | gʻazal-duo | 1914 | «Sadoi Turkiston», 23-avgust, 36-son | ✓ EV |
 | «Savqi taraqqiy» | gʻazal | 1914 | «Sadoi Turkiston», 37-son | ✓ EV |
@@ -153,7 +153,7 @@ Toʻliq bibliografiya hali tuzilmagan. Qosimov «Mushtum»dagi hajviyalar haqida
 | Ismoilbek Gʻasprinskiy vafotiga marsiya («Yigʻla, millat...») va tarix | marsiya, tarix-muxammas | 1914 | «Ravnaq ul-islom» | ✓ EV |
 | «Olamga bir nazar» («hanuz» radifli) | musammat-gʻazal | 1915–1916 (Vohidov va Karimov: 1916) | «Ravnaq ul-islom», 9-bet | ✓ EV, SH |
 | «Qalamga xitob» | gʻazal | 1914–1916 | «Ravnaq ul-islom», 10-bet | ✓ EV, SH |
-| «Oʻz vijdoni vujudima xitob» (gazetada: «Vujudimdan bir rijo») | muxammas | 1915 | «Sadoi Fargʻona», 15-may, 121-son (izohga koʻra); «Ravnaq ul-islom», 7–9 | ✓ EV, SH |
+| «Oʻz vijdoni vujudima xitob» (SHda: «Oʻz vijdon-vujudima xitob»; gazetada: «Vujudimdan bir rijo») | muxammas (EV izohida «musaddas» deyilgan, lekin matn 5 misrali bandlardan iborat) | 1915 | «Sadoi Fargʻona», 15-may, 121-son (izohga koʻra); «Ravnaq ul-islom», 7–9 | ✓ EV, SH |
 | «Qarindosh va hamshiralarimiz – mazluma qizlar tilindan» | muxammas (rolli) | 1916 gacha | «Ravnaq ul-islom», 23–24 | ✓ EV, SH |
 | «Hurriyat haqinda tabriknoma» | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
 | «Tamoshobogʻ xususida», «Ibrat bogʻinda» | hajviy gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
@@ -166,7 +166,7 @@ Toʻliq bibliografiya hali tuzilmagan. Qosimov «Mushtum»dagi hajviyalar haqida
 | «Xalqgʻa foydasi tegmaganlar haqida», «Ilmsiz dunyoda yuz yil...» («na sud?» radifli) | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
 | «Erinchoqlar haqida», «Navroʻzlik haqinda», «Aza va motam haqinda» | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
 | «Kapkaz shoirlarina taqlid» | musammat | — | «Ravnaq ul-islom» | ✓ EV |
-| «Uyonmaz ersa millat...», «Darigʻ», «Jahl-u gʻaflat oldi bizni...», «Dunyo ketishiga bir nazar», «Na qilmoq kerak?» | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
+| «Uyonmaz ersa millat...», «Darigʻ», «Jahl-u gʻaflat oldi bizni...», «Dunyo ketishiga bir nazar», «Na qilmoq kerak?» | gʻazal | — («Dunyo ketishiga bir nazar»: 1914) | «Ravnaq ul-islom»; «Dunyo ketishiga bir nazar» EV izohiga koʻra «Ravnaq ul-islom», 46–47 va «Sadoi Turkiston», 1914-yil 19-aprel, 6-son | ✓ EV |
 | «Tilanmak» | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
 | «Turmushimiz xususinda bir gʻazal», «Terskori ishlarimiz haqinda» («teskari» radifli) | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
 | «Toʻy xususida», «Sevinch xabar...» | gʻazal | — | «Ravnaq ul-islom» | ✓ EV |
@@ -597,11 +597,11 @@ millat, milliyat, gʻaflat, bedavo, jaholat, urfon, maorif, taraqqiy, ibrat, gʻ
 | Vafoti | 1937-yil 10-noyabr (otilgan) [EV-Qosimov1; UZWIKI]; 1939 (eski adabiyot; H. Qodiriy izohi); 1913, Sayram (Qayyumiy) | 1939 va 1913 arxiv bilan rad etilgan |
 | Uchlik hukmi | 19-oktyabr [EV-Qosimov1; EV-Karimov]; 19-sentyabr [EV-Qosimov2] | — |
 | Oqlanish | 1968-yil 18-oktyabr [UZWIKI; EV-Qosimov1]; 1969 [EV-Qosimov2] | 1968-yil versiyasi kuchliroq |
-| Matbuotga chiqishi | 1905 [UZWIKI]; 1900-yillar [H. Qodiriy]; «10-yillar» [EV-Qosimov1; EV-Karimov] | sanali ilk matn — 1913 |
+| Matbuotga chiqishi | 1905 [UZWIKI]; «1900-yillardan sheʼrlar yoza boshlagan» (matbuot emas, ijod boshlanishi) [H. Qodiriy]; «10-yillar» [EV-Qosimov1; EV-Karimov] | sanali ilk matn — 1913 |
 | Saryomiy devonining nashri va Saryomiy vafoti | 1332 h. / 1913 [EV-Karimov]; 1914, Saryomiy vafoti 1912 [H. Qodiriy] | — |
 | «Ravnaq ul-islom»dagi sheʼrlar soni | 66 [EV-Manbalar]; «70 tacha» [EV-Qosimov1; UZWIKI] | — |
 | «Turon»dagi faoliyati | 1915-yildan; 1913–1917; 1915–1919 | — |
-| 1927-yilgi hukm | 5 yil [EV-Karimov; EV-Qosimov2]; daftarchaga koʻra 2,5 oy qamoq [EV-Qosimov2] | — |
+| 1927-yilgi hukm | 1927-yil, davlat mulki, 5 yil [EV-Qosimov2]; 1926-yil, matlubotchilar jamiyatidan 6500 soʻm, 5 yil [EV-Karimov]; daftarchaga koʻra 2,5 oy qamoq (1927-yil 23-oktyabr – 1928-yil 11-yanvar) [EV-Qosimov2] | — |
 | Rahbarning yoshi (1937) | 24 [EV-Qosimov1]; 34 [EV-Karimov] | — |
 
 ---
@@ -625,3 +625,30 @@ millat, milliyat, gʻaflat, bedavo, jaholat, urfon, maorif, taraqqiy, ibrat, gʻ
 - «110 yilda xalqqa qaytgan kitob» («Sabzazor» haqida), Yuz.uz: https://yuz.uz/uz/news/110-yilda-xalqqa-qaytgan-kitob
 - Begali Qosimov, «Toʻlagan Xoʻjamyorov — Tavallo (1883–1937)», Ziyouz.uz, 2016 (bevosita ochilmadi, 403): https://ziyouz.uz/ilm-va-fan/adabiyot/milliy-uygonish/begali-qosimov-tulagan-xujamyorov-tavallo-1883-1937/
 - Munavvar qoriga bagʻishlangan baytlar (kirillcha variant, boshqa fayl orqali): https://books.yandex.ru/books/LeJJ50cf/read-online
+
+---
+
+## Tekshiruv qaydlari
+
+*2026-yil 21-oktabr, adversarial tekshiruv.* Asosiy biografik sanalar `_holat/chunks/` dagi matnlar (EV, SHERLAR, H. Qodiriy, Xolboyev, Abdurashidov) bilan harfma-harf solishtirildi. Oʻzbek Vikipediyasi (kirill) qayta ochildi.
+
+**Tasdiqlangan (kamida ikki mustaqil manba):** 1883-yil, Koʻkcha daha, Obi Nazir mahallasi [EV-Qosimov1; EV-Karimov (1937-yil 14-avgustdagi anketa); UZWIKI]; MXX arxivi, 32592-ish, 119 sahifa; 1937-yil 14-avgust hibs, 10-noyabr ijro [EV-Qosimov1; EV-Qosimov2; UZWIKI]; 1968-yil 18-oktyabr oqlanish [EV-Qosimov1; UZWIKI]; 1900-yil Prjevalsk, 1909-yil otasining vafoti [EV-Karimov; UZWIKI; EV-Qosimov2]; «Nashriyot» shirkati 1914-yil 30-avgust, 12 kishi [EV-Qosimov1; EV-Karimov; UZWIKI]; oila aʼzolari [EV-Qosimov1; EV-Karimov; UZWIKI]; «Ravnaq ul-islom» 1916, 1993-yil qayta nashri [EV-Manbalar; EV-Qosimov1; UZWIKI]; 1928-yil iyul oʻrtasidagi Qoʻqon safari [EV-Davron]; «Tavallo Qodiriydan 11 yosh katta edi» [EV-Davron]. Hamid Olimjon, Oybek, Karimov («Uning soʻzi – nayza»), Vohidov, Abdurashidov, Xolboyev iqtiboslari va NKVD maʼlumotnomasidagi gap (uch varianti) manba matnlarida topildi.
+
+**Tuzatildi:**
+1. «Sadoi Fargʻona»ning chiqa boshlagan sanasi endi «[umumiy bilim — tekshirilmagan]» emas: 1914-yil 3-aprel, 1915-yil mayigacha, 122 son (Yuz.uz). Shu sababli UZWIKIdagi «1905-yildan … “Sadoi Fargʻona”» maʼlumoti bu gazeta uchun imkonsiz.
+2. Gʻasprinskiyning vafot sanasi aniqlashtirildi: 1914-yil 11 (eski uslub) / 24-sentyabr (Wikipedia, Britannica).
+3. 1927-yilgi ish: Karimov versiyasi (1926-yil, matlubotchilar jamiyatidan 6500 soʻm) qoʻshildi. Avval ikkala manba bir xil versiyani beradi deb koʻrsatilgan edi, bu notoʻgʻri edi.
+4. «Ziddiyatli maʼlumotlar» jadvalida H. Qodiriyning soʻzi aniqlashtirildi: u «1900-yillardan sheʼrlar yoza boshlagan» deydi, matbuotga chiqish haqida gapirmaydi.
+5. «Oʻz vijdoni vujudima xitob»: SHERLARdagi sarlavha varianti («Oʻz vijdon-vujudima xitob») qayd etildi. EV izohidagi «musaddas» atamasi matn tuzilishiga (5 misrali bandlar) mos kelmasligi koʻrsatildi.
+6. «Dunyo ketishiga bir nazar»ning EV izohidagi gazeta koʻrsatkichi qoʻshildi («Sadoi Turkiston», 1914-yil 19-aprel, 6-son).
+
+**Bahsli yoki tekshirilmagan qolgan masalalar:**
+- Tugʻilgan yil: Wikisource (https://wikisource.org/wiki/Author:Tavallo) **1882–1937** deb beradi, bu NKVD maʼlumotnomasiga mos keladi. Arxiv anketasi va Qosimov **1883** deydi. Profilda 1883 qoldirildi.
+- Uchlik hukmi: 19-oktyabr [EV-Qosimov1; EV-Karimov] yoki 19-sentyabr [EV-Qosimov2]. Ikkinchi manba matni birinchisining deyarli aynan takrori, shuning uchun «sentyabr» koʻchirishdagi xato boʻlishi mumkin, lekin buni tasdiqlab boʻlmadi.
+- Oqlanish: 1968 yoki 1969 [EV-Qosimov2]. Yuqoridagi kabi, 1969 koʻchirish xatosi boʻlishi ehtimoli bor.
+- Gazeta sonlari: «Sadoi Fargʻona», 1914-yil 16-iyul, «4-son» (11-may soni 15-raqamli boʻlgani uchun shubhali). «Sadoi Turkiston»: 19-aprel «6-son» va 22-aprel «4-son» bir-biriga zid. Ikkalasi ham EV izohlarida shunday berilgan, asl gazeta bilan solishtirilmagan.
+- Rahbarning 1937-yildagi yoshi: 24 (1913-yilda tugʻilgan) [EV-Qosimov1] yoki 34 [EV-Karimov].
+- «Ravnaq ul-islom»dagi sheʼrlar soni: 66 [EV-Manbalar] yoki «70 tacha» [EV-Qosimov1; UZWIKI].
+- Abdurashidov iqtibosi («Kimiki sahnada ko‘rsang oni jasorati bu») manbada satrlar orasida boʻlingan, lekin matni toʻgʻri. EVda bu misra «Kimiki sahnada koʻrsang, ani jasorati bu» shaklida berilgan («oni/ani» farqi).
+- «Kapkaz shoirlarina taqlid» va Sobir/«Molla Nasriddin» aloqasi hamon «[umumiy bilim — tekshirilmagan]».
+- Faylning boshidagi «Inglizcha qidiruv Tavallo haqida natija bermadi» degan gap endi toʻliq toʻgʻri emas. Qidiruvda Wikisource sahifasi va «International Journal on Integrated Education» jurnalidagi 2020-yilgi maqola topildi (DOI: 10.31149/ijie.v3i1.33). Maqolaning mazmuni oʻqilmadi.

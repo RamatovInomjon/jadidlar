@@ -28,7 +28,7 @@ Sadriddin Ayniy Buxoro amirligining Gʻijduvon tumanidagi Soktare qishlogʻida t
 - Otasi Said Murodxoʻja savodli dehqon boʻlgan va bolalarining oʻqishini istagan. Bobosi Sayyid Umarxoʻja, onasi Zevar (Shofirkondagi Mahallai Bolodan, en.wiki).
 - «Eski maktab» qissasi shu bolalikning badiiy xotirasi. Unda ota tegirmon charxi yasovchi savodli usta, abjad hisobini va hind raqamlarini biladigan odam sifatida tasvirlangan. Qishloq «uch yuz uylik», «хoʻjalar qishlogʻi» deyiladi (mahalliy kartochka). Bu tasvir veb-manbalardagi «savodli dehqon ota» maʼlumotiga mos keladi.
 - 1884–1887-yillarda qishloq maktabida oʻqigan (ziyouz, uz.wiki). Bashiri xronologiyasiga koʻra, 1884-yilda qishloqning oʻgʻil bolalar maktabiga kirgan, 1887–88-yillarda qizlar maktabiga (otinbibiga) oʻtkazilgan. Bu «Eski maktab»ning XI bobidagi otinbibi maktabi epizodiga toʻgʻri keladi.
-- Ota-onasi vaboda vafot etgan: uz.wiki boʻyicha 1889-yilda, ru.wiki boʻyicha 1890-yilda, u 12 yoshda boʻlganida. Shundan keyin Buxoroga, akasining yoniga koʻchgan.
+- Ota-onasi vaboda vafot etgan: uz.wiki va Bashiri boʻyicha 1889-yilda, ru.wiki boʻyicha 1890-yilda, u 12 yoshda boʻlganida. Shundan keyin Buxoroga, akasining yoniga koʻchgan.
 
 ### Buxoro madrasalari (1890–1907)
 
@@ -52,14 +52,14 @@ Sadriddin Ayniy Buxoro amirligining Gʻijduvon tumanidagi Soktare qishlogʻida t
 - Rus va ingliz Vikipediyalariga koʻra, 1917-yil aprelida u amirga sodiqlik namoyishida qatnashishdan bosh tortgan. Shundan keyin mutaassiblar uni ommaviy ravishda 75 tayoq urgan va Obxona zindoniga tashlagan. Kogon sovetidan kelgan askarlar uni ozod qilgan. Bashiri sanani aniq beradi: «1917, April 9: Imprisonment and severe torture», shundan soʻng Kogon kasalxonasida davolangan. Uz.wiki va tg.wiki 52 kunlik davolanishni qayd etadi.
 - Tojik Vikipediyasi bu voqeani sanasiz beradi va 1909-yilgi maktab faoliyatidan keyin joylashtiradi. Shuning uchun sana manbalarda bir-biriga zid (qarang: `manbalar_web/muallif-ayniy.md`, «Ziddiyatli maʼlumotlar», 3-band).
 - Bashiriga koʻra, 1917-yil iyunida «uzoq muddatga» Samarqandga koʻchgan. 1918-yil aprelida Samarqand mutaassib mullalari tahdidi sababli Toshkentga ketgan va oktabrda qaytgan. 1918-yil oktabrida Samarqanddagi ilk sovet maktablaridan birida muallim boʻlgan.
-- Ukasi Sirojiddin va akasi Muhiddinxoʻja amir buyrugʻi bilan oʻldirilgan (uz.wiki, tg.wiki). Ukasiga «Marsiya» bagʻishlagan. Qatllar 1918-yil martidagi Kolesov yurishidan keyingi qatagʻon paytida boʻlgan [umumiy bilim — tekshirilmagan].
+- Ukasi Sirojiddin va akasi Muhiddinxoʻja amir buyrugʻi bilan oʻldirilgan (uz.wiki, tg.wiki). Ukasiga «Marsiya» bagʻishlagan. Bashiriga koʻra, eng kichik ukasi 1918-yil martida Buxoroga qilingan muvaffaqiyatsiz hujum (Kolesov yurishi) paytida oʻldirilgan. Akasining oʻlimi haqida esa manbalar farq qiladi: Bashiri uni 1922-yil martida bosmachilar oʻldirgan deydi, uz.wiki esa ikkala aka-ukani amir buyrugʻi bilan oʻldirilgan deb beradi (ziddiyat).
 
 ### Inqilob yillari va sovet davri (1917–1954)
 
 - 1917-yilda Behbudiy, Fitrat, Ajziy, Muhammadqul Oʻrinboyev va A. Shomansur bilan birga Samarqanddagi «Hurriyat» gazetasini tashkil etishda qatnashgan (uz.wiki, Behbudiy maqolasi).
 - 1918–1921-yillarda tojik va oʻzbek tillarida marshlar, qoʻshiqlar va sheʼrlar yozgan (ziyouz). Ular «Shuʼlai inqilob» va «Mehnatkashlar tovushi» nashrlarida bosilgan (tg.wiki). Bashiriga koʻra, 1919-yilda Samarqandda «Bolalar yoʻldoshi» bolalar jurnalini chiqarishda qatnashgan.
 - Bashiriga koʻra, 1919-yilda «Tarixi inqilobi Buxoro»ni oʻzbekcha, «Tarixi amironi mangʻit»ni tojikcha yozgan. 1920-yilda «Jallodoni Buxoro»ning oʻzbekcha variantini tugatgan, u 1922-yilda Toshkentdagi «Inqilob» jurnalida bosilgan. 1920-yilning sentabr–oktabrida Samarqandda uylangan. Rafiqasi Salohat jadid Vadud Mahmudning singlisi boʻlgan (ru.wiki, tg.wiki).
-- 1919-yilda Fitratning «Sharq siyosati» risolasiga Behbudiy bilan birga qarshi chiqqan (en.wiki Fitrat maqolasi). Behbudiy vasiyatida Fitrat, Siddiqiy, Vadud Mahmud, Akobir Mahdum va Shakuriy bilan birga Ayniyning ham nomi bor (uz.wiki).
+- Ingliz Vikipediyasidagi Fitrat maqolasiga koʻra, Fitratning Sovet Rossiyasini musulmon dunyosining Britaniyaga qarshi ittifoqchisi deb bilgan qarashi (u «Sharq siyosati», 1919, risolasida bayon etilgan) «Behbudiy, Ayniy va boshqalar»ning qarshiligiga uchragan. Maqola ularning aynan risolaning oʻziga qarshi chiqqanini aytmaydi. Behbudiy 1919-yil boshida qatl etilgani uchun [umumiy bilim — tekshirilmagan] uning 1919-yilgi risolaga munosabat bildirgani shubhali. Behbudiy vasiyatida Fitrat, Siddiqiy, Vadud Mahmud, Akobir Mahdum va Shakuriy bilan birga Ayniyning ham nomi bor (uz.wiki).
 - Buxoro Xalq Sovet Respublikasi davrida qisqa muddat konsullikda, soʻng iqtisodiy idorada ishlagan (uz.wiki). 1923-yilda «Axgari inqilob» (tojikcha) va «Inqilob uchqunlari» (oʻzbekcha) toʻplamlari chiqqan (Bashiri).
 - 1924-yilda «Odina» «Ovozi tojik» gazetasida bosila boshlagan. 1925-yilda Tojikiston hukumati uni «Namunai adabiyoti tojik» antologiyasini tayyorlashga topshirgan, kitob 1926-yilda Moskvada chiqqan (Bashiri). 1926-yildan Tojikiston davlat nashriyotida maslahatchi va adabiy muharrir boʻlgan (uz.wiki).
 - 1927-yilda «Doxunda»ni boshlagan. Roman 1930-yilda (uz.wiki, ru.wiki) yoki 1931-yilda tojik va oʻzbek tillarida (Bashiri) nashr etilgan. 1932-yilda «Gʻulomon»ni oʻzbekcha yozgan («Qullar», 1934-yilda Toshkentda chiqqan), tojikchasi 1935-yilda nashr etilgan (Bashiri; ru.wiki; uz.wiki).
@@ -67,7 +67,7 @@ Sadriddin Ayniy Buxoro amirligining Gʻijduvon tumanidagi Soktare qishlogʻida t
 - 1931-yil 18-iyulda Samarqandda Abdulla Qodiriyga dastxatli roman sovgʻa qilgan (H. Qodiriy, «Otam haqida», mahalliy kartochka).
 - 1934-yilda Sovet yozuvchilarining Birinchi qurultoyida tojik vakili boʻlgan va SSSR Yozuvchilar uyushmasi boshqaruviga saylangan.
 - 1935-yilda «Eski maktab», 1937/1939-yilda «Sudxoʻrning oʻlimi», 1940-yilda «Yetim» chiqqan. 1934–1948-yillarda Firdavsiy, Ibn Sino, Rudakiy, Saʼdiy va Navoiy haqida monografiyalar yozgan. 1938-yilda tojik adabiy tilining izohli lugʻatini tuzgan.
-- 1949–1954-yillarda «Esdaliklar» («Yoddoshtho») ustida ishlagan. 1950-yilda shu asar uchun Stalin mukofotini olgan. Bashiriga koʻra, 1953-yilda «Esdaliklar»ning oʻzbekcha varianti ustida ishlagan.
+- 1949–1954-yillarda «Esdaliklar» («Yoddoshtho») ustida ishlagan. 1950-yilda shu asarning I–II qismlari uchun ikkinchi darajali Stalin mukofotini olgan (ru.wiki; uz.wiki). Bashiriga koʻra, 1953-yilda «Esdaliklar»ning oʻzbekcha varianti ustida ishlagan.
 - 1951-yil 14-apreldan Tojikiston SSR Fanlar akademiyasining birinchi prezidenti boʻlgan. SSSR Oliy Kengashi deputati boʻlgan.
 - 1954-yil 15-iyulda Stalinobodda (Dushanbe) vafot etgan va u yerdagi maqbaraga dafn etilgan. U repressiya qilinmagan. Oʻzbek Vikipediyasiga koʻra, 1930-yillarda jadidlarning Ayniydan boshqa deyarli barcha yirik namoyandalari halok boʻlgan (`jadidchilik-tarixi.md`).
 - Vafotidan keyin «Tojikiston Qahramoni» (1998) unvoni va Oʻzbekistonning «Buyuk xizmatlari uchun» ordeni (2001) bilan taqdirlangan. Samarqanddagi uy-muzeyi 1967-yilda ochilgan.
@@ -79,7 +79,7 @@ Sadriddin Ayniy Buxoro amirligining Gʻijduvon tumanidagi Soktare qishlogʻida t
 | 1878, 15 (27)-aprel | Soktare qishlogʻida (Gʻijduvon) tugʻilgan | uz.wiki; ru.wiki; en.wiki |
 | 1884–1887 | qishloq maktabida oʻqigan | ziyouz; uz.wiki; Bashiri |
 | 1887–1888 | qizlar maktabiga (otinbibiga) oʻtkazilgan | Bashiri; «Eski maktab», XI bob |
-| 1889 / 1890 | ota-onasi vaboda vafot etgan, Buxoroga koʻchgan | uz.wiki (1889); ru.wiki (1890) |
+| 1889 / 1890 | ota-onasi vaboda vafot etgan, Buxoroga koʻchgan | uz.wiki, Bashiri (1889); ru.wiki (1890) |
 | 1890–1900 | Mir Arab, Olimxon, Badalbek, Hoji Zohid, Koʻkaldosh madrasalarida oʻqigan | ziyouz; kh-davron; uz.wiki |
 | 1895 | «Sudxoʻrning oʻlimi» hikoyachisi hujra izlayotgan yil (badiiy-avtobiografik sana) | mahalliy: sudxoʻr kartochkasi |
 | 1896 | «Ayniy» taxallusini olgan («Gul» sheʼri) | uz.wiki; ru.wiki; Shomurodova |
@@ -519,3 +519,32 @@ domla, xalfa, saboq, taxtacha, abjad, maktabxona, uqubatxona, machit, hujra, mul
 - https://zenodo.org/records/20524151 (2026, Ayniy merosi va oʻzbek-tojik adabiy aloqalari tadqiqotlari sharhi; toʻliq oʻqilmagan)
 - https://uzfi.uz/es/news/content/148 («Doxunda» va «Qullar» tarjimalari haqida)
 - https://en.wikipedia.org/wiki/Abdulvohid_Burhonov; https://yuz.uz/uz/news/marifiy-islohot-jonkuyarlari (`boshqa-jadidlar.md`, `taʼlim-pedagogika.md` orqali)
+
+---
+
+## Tekshiruv qaydlari
+
+*2026-yil 21-oktabr, adversar tekshiruv. Tekshirilgan manbalar: ru.wikipedia (Айни, Садриддин), uz.wikipedia (Sadriddin Ayniy), en.wikipedia (Sadriddin Ayni; Abdurauf Fitrat), I. Bashiri xronologiyasi (irajbashiri.com), mahalliy kartochkalar va `_holat/chunks/` dagi matn boʻlaklari.*
+
+**Tuzatilgan / aniqlashtirilgan:**
+
+1. Aka-ukalarining oʻlimi: «1918-yil martidagi qatagʻon» haqidagi [umumiy bilim] belgili jumla Bashiri maʼlumoti bilan almashtirildi (ukasi 1918-yil mart, Kolesov hujumi paytida). Akasining oʻlimi boʻyicha ziddiyat qoʻshildi: Bashiri — 1922-yil mart, bosmachilar qoʻlida; uz.wiki — amir buyrugʻi bilan.
+2. «Sharq siyosati»: en.wiki Behbudiy va Ayniyni Fitratning sovetparast *qarashiga* qarshi chiqqanlar sifatida tilga oladi, risolaning oʻziga emas. Matn shunga moslandi va xronologik shubha (Behbudiy 1919-yil boshida oʻldirilgan) qayd etildi.
+3. Stalin mukofoti: «Esdaliklar»ning I–II qismlari uchun, ikkinchi daraja (ru.wiki; uz.wiki ham ikkinchi darajani beradi).
+4. Ota-onasining vafot yili 1889 Bashiri tomonidan ham tasdiqlandi (matn va xronologiya jadvaliga qoʻshildi).
+
+**Tasdiqlangan (≥2 manba):** tugʻilgan sana 1878-yil 15-aprel va Soktare qishlogʻi (uz.wiki, ru.wiki, Bashiri); vafoti 1954-yil 15-iyul, Stalinobod (uz.wiki, ru.wiki, en.wiki); 1917-yil apreldagi 75 darra/tayoq (ru.wiki, en.wiki, uz.wiki, Bashiri — 9-aprel); Qiziltepa zavodi 1915-yil sentabr – 1916-yil aprel (ru.wiki, en.wiki); 1934-yilgi qurultoy (uz.wiki, en.wiki, Bashiri), boshqaruvga saylangani (uz.wiki); FA prezidentligi 1951-yil 14-apreldan (ru.wiki; uz.wiki 1951–1954); «Tojikiston Qahramoni» 1998 va «Buyuk xizmatlari uchun» ordeni 2001 (ru.wiki, uz.wiki); uy-muzey 1967 (ru.wiki — 1967-yil 19-may, ziyouz); rafiqasi Salohat — Vadud Mahmudning singlisi (ru.wiki); Bashiriga tayangan barcha bandlar (Shakuriy, Sallohxona, 1909-yilgi yopilish, 1916-yil noyabr Xiobon madrasasi, 1918 Toshkent, 1919 tarix asarlari, 1920 «Jallodoni Buxoro», 1922 «Inqilob», 1923 toʻplamlar, 1953 oʻzbekcha «Yoddoshtho») asl sahifa bilan solishtirildi; madrasa yillari va 1934–1948 monografiya yillari (uz.wiki); mahalliy kartochkalardagi 1931-yil 18-iyul dastxat va «Odina» sheʼri (H. Qodiriy kartochkasi).
+
+**Iqtiboslar:** «Eski maktab» va «Sudxoʻrning oʻlimi»dan keltirilgan barcha verbatim iqtiboslar (jumladan «uch yuz uylik», «хoʻjalar qishlogʻi», «Oʻzim yigirma yetti yoshdaman» kontekstidagi 27 yosh) `_holat/chunks/` fayllarida harfma-harf topildi. Behbudiy portreti (Abdurashidov) va «Roman uslubida yozilgan asar» (Boltaboyev) iqtiboslari mahalliy kartochkalarda bor. Kirill yozuvidagi veb-iqtiboslar (Haqqul, Bertels, Moʻminov, Yoʻldoshev) asl sahifa bilan qayta solishtirilmadi.
+
+**Ziddiyatli / tekshirilmagan qolganlar:**
+
+- Bashiri FA tashkil etilgan va Ayniy prezident boʻlgan yilni 1950 deb beradi, ru.wiki va uz.wiki esa 1951; 1951 qabul qilindi. Bashiri vafot sanasini «1954, 15 June» deb yozadi — boshqa barcha manbalar 15-iyul; Bashirida xato boʻlsa kerak.
+- Ota-onaning vafot yili (1889 / 1890), «Doxunda» nashri (1930 / 1931), «Sudxoʻrning oʻlimi» (1937 / 1939) — ziddiyat saqlanadi.
+- Iranica parchalari (1907-yilgi tatar maktabi, Rahim Hoshimning ustozi) — Iranica sahifasi yana 403 qaytardi; qidiruv parchasi «new-method school» ni tilga oladi, lekin 1907 va «tatar bolalari» tafsiloti tasdiqlanmadi.
+- «Tarixi inqilobi Buxoro»ning 1926-yilda Moskvada nashr etilgani — qidiruvda tasdiqlanmadi, [umumiy bilim — tekshirilmagan] belgisi qoldirildi.
+- «Marsiya» (1918) va Behbudiyga marsiyalar (1920) yillari — tekshirilmagan.
+- 52 kunlik davolanish — uz.wiki va tg.wiki asosida (mahalliy `muallif-ayniy.md`); bu safar uz.wiki sahifasidan qayta tasdiq olinmadi.
+- Bedil haqidagi maktub sanasi (1911-yil 3-mart, «Shoʻro», 1912, 2-son) — faqat kh-davron.uz (Haqqul, Shomurodova) asosida.
+- Lugʻat yili 1938 — faqat Shomurodova (kh-davron.uz); ru.wiki va uz.wiki da yoʻq.
+

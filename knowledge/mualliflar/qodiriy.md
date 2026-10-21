@@ -8,7 +8,7 @@
 
 ## Qisqacha
 
-Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va tarjimon. U oʻzbek romanchiligining asoschisi hisoblanadi. Kambagʻal bogʻbon Qodir boboning oʻgʻli boʻlib, eski maktab va rus-tuzem maktabida oʻqigan, yoshligida prikazchik boʻlib ishlagan. Adabiyotga 1914–1915-yillarda jadid matbuoti orqali kirgan: «Yangi masjid va maktab» xabari, maʼrifatparvar sheʼrlar, Behbudiyning «Padarkush»i taʼsirida yozilgan «Baxtsiz kuyov» fojiasi va «Juvonboz» hikoyasi shu davrga tegishli. 1917-yildan keyin sovet matbuotida ishlagan, «Julqunboy» imzosi bilan «felyetonlar qiroli» nomini olgan va 1923-yilda «Mushtum» hajviy jurnalining asoschilaridan biri boʻlgan. «Oʻtkan kunlar» (jurnalda 1922/1923-yildan, kitob holida 1924/1925–1926) birinchi oʻzbek romani sanaladi. «Mehrobdan chayon» (1929) va «Obid ketmon» (1935) undan keyin yaratilgan. 1926-yilda «Yigʻindi gaplar» maqolasi uchun sudlangan, 1937-yil 31-dekabrda hibsga olinib, 1938-yil 4-oktabrda Choʻlpon va Fitrat bilan birga otilgan. 1956/1957-yilda oqlangan, 1926-yilgi ish boʻyicha esa 2023-yil 1-dekabrda oqlangan. **Uslubining mohiyati** shunday: u ogʻzaki qissachilik va mumtoz nasr anʼanasini («biz» deb soʻzlovchi, oʻquvchini yetaklovchi roviy, maqol, sajʼ, aruzli baytlar) Yevropa realistik romani usullari (aniq detal, nutq orqali xarakterlash, kontrast, retrospeksiya, «koʻrsatish») bilan payvand qilgan. Buning natijasida 1920-yillar morfologiyasiga (‑gʻa/‑ka, ‑gʻan/‑kan, ‑liq, ‑dir, ul/mun‑, ersa, emish) tayangan, lekin sheva emas, «xalq ichidan tanlab topilgan» jonli, ravon adabiy til vujudga kelgan. Bu tilda lirik nafosat, achchiq kinoya va xalqona yumor bir sahifada almashib turadi.
+Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va tarjimon. U oʻzbek romanchiligining asoschisi hisoblanadi. Kambagʻal bogʻbon Qodir boboning oʻgʻli boʻlib, eski maktab va rus-tuzem maktabida oʻqigan, yoshligida prikazchik boʻlib ishlagan. Adabiyotga 1914–1915-yillarda jadid matbuoti orqali kirgan: «Yangi masjid va maktab» xabari, maʼrifatparvar sheʼrlar, Behbudiyning «Padarkush»i taʼsirida yozilgan «Baxtsiz kuyov» fojiasi va «Juvonboz» hikoyasi shu davrga tegishli. 1917-yildan keyin sovet matbuotida ishlagan, «Julqunboy» imzosi bilan «felyetonlar qiroli» nomini olgan va 1923-yilda «Mushtum» hajviy jurnalining asoschilaridan biri boʻlgan. «Oʻtkan kunlar» (jurnalda 1922/1923-yildan, kitob holida 1924/1925–1926) birinchi oʻzbek romani sanaladi. «Mehrobdan chayon» (1929) va «Obid ketmon» (1935) undan keyin yaratilgan. 1926-yilda «Yigʻindi gaplar» maqolasi uchun sudlangan, 1937-yil 31-dekabrda hibsga olinib, 1938-yil 4-oktabrda Choʻlpon va Fitrat bilan birga otilgan. 1956/1957-yilda oqlangan, 1926-yilgi ish boʻyicha esa 2023-yil 1-dekabrda oqlangan. **Uslubining mohiyati** shunday: u ogʻzaki qissachilik va mumtoz nasr anʼanasini («biz» deb soʻzlovchi, oʻquvchini yetaklovchi roviy, maqol, sajʼ, aruzli baytlar) Yevropa realistik romani usullari (aniq detal, nutq orqali xarakterlash, kontrast, retrospeksiya, «koʻrsatish») bilan payvand qilgan. Buning natijasida 1920-yillar morfologiyasiga (‑gʻa/‑ka, ‑gʻan/‑kan, ‑liq, ‑dir, ul/mun‑, ersa, emish) tayangan, lekin sheva emas, «xalq ichidan tanlab topib olgan» [Karimov-2024] soʻzlarga tayangan jonli, ravon adabiy til vujudga kelgan. Bu tilda lirik nafosat, achchiq kinoya va xalqona yumor bir sahifada almashib turadi.
 
 ---
 
@@ -22,7 +22,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 
 ### Tugʻilishi va oilasi
 
-- **Tugʻilgan yili.** Qodiriy tarjimayi holida (1924) shunday yozgan: «mustabid Nikolay taxtga o‘tirgan yilida tug‘ulg‘onman» [Karimov-2024]. Nikolay II 1894-yilda taxtga chiqqan [umumiy bilim — tekshirilmagan]. Vikipediyalar va kun.uz 1894-yil 10-aprelni beradi. H. Qodiriyning yozishicha, u «oʻrik gulida», taxminan 10-aprelda tugʻilgan, anketalarda esa 1895, 1896 va 1897-yillar ham uchraydi. 1926-yilgi ayblov xulosasida yoshi 30 deb koʻrsatilgan, bu taxminan 1896-yilga toʻgʻri keladi [N. Karimov, kh-davron.uz].
+- **Tugʻilgan yili.** Qodiriy tarjimayi holida (1924) shunday yozgan: «mustabid Nikolay taxtga o‘tirgan yilida tug‘ulg‘onman» [Karimov-2024]. H. Qodiriy ham Nikolayning taxtga oʻtirgan yilini hisoblab, bu «1894-yilga toʻgʻri keladi» deb yozadi [H. Qodiriy]. Vikipediyalar va kun.uz 1894-yil 10-aprelni beradi. H. Qodiriyning yozishicha, u «oʻrik gulida», taxminan 10-aprelda tugʻilgan, anketalarda esa 1895, 1896 va 1897-yillar ham uchraydi. 1926-yilgi ayblov xulosasida yoshi 30 deb koʻrsatilgan, bu taxminan 1896-yilga toʻgʻri keladi [N. Karimov, kh-davron.uz].
 - **Tugʻilgan joyi.** Toshkent, Beshogʻoch dahasi, Eshonguzar mahallasi [H. Qodiriy]. Ruscha Vikipediyada «старый город» deyilgan.
 - **Otasi.** Qodirmuhammad (Qodir bobo), 1821/1822–1924 [H. Qodiriy]. Uz.wiki 1820–1924 yillarni beradi. Savodsiz kishi boʻlgan. Yoshligida xon-beklar qoʻlida sarboz boʻlgan, keyin baqqollik, soʻng bogʻbonlik qilgan. Uz.wiki uni 1865-yilda Toshkent mudofaasi qatnashchisi deb yozadi. Qodiriy tarjimayi holida «80 yoshlik chol otam» deydi [Karimov-2024]. Uning tarixiy hikoyalari romanlarga material boʻlgan [Karimov-2024]. Ikkala romanning soʻnggi soʻzlarida ham voqea «marhum otam»dan eshitilgan rivoyat sifatida beriladi.
 - **Onasi.** Josiyat bibi, 1936-yil yozida 75 yoshida vafot etgan [H. Qodiriy]. Qodiriy uni Oʻzbekoyimning prototipi deb hazil qilgan [H. Qodiriy].
@@ -45,14 +45,14 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 - **1920.** Kasabalar shoʻrosining sarkotibi [uz.wiki; H. Qodiriy].
 - **1920-yillar.** RosTA devoriy gazetasi, «Ishtirokiyun», «Qizil bayroq», «Turkiston» gazetalari, «Inqilob» va «Kommunist yoʻldoshi» jurnallarida ishlagan [Karimov-2024].
 - **1923.** «Mushtum» jurnalining asoschilaridan biri, birinchi sondagi «Mushtum taʼrifida» bosh maqolasi uniki [uz.wiki «Mushtum»; H. Qodiriy]. Kun.uz maʼlumotiga koʻra jurnalga Qodiriy va Gʻozi Yunus asos solgan, nomini Qodiriy taklif qilgan [matbuot-maktab-teatr.md].
-- **1924.** «Mushtum»ning 4-sonidagi sharjda «Felyetonlar qiroli Julqunboy» deb atalgan [H. Qodiriy; Karimov-2024].
-- **1925-yil 1-noyabr.** Moskvadan qaytgach, «Mushtum»ga ishga kirgan [H. Qodiriy].
+- **1924.** «Mushtum»ning 1924-yil 4-sonidagi sharjda «Felyetonlar qiroli Julqunboy» deb atalgan [H. Qodiriy].
+- **1925-yil 1-noyabr (taxminan).** Moskvadan qaytgach, «Mushtum»ga ishga kirgan. Qodiriyning oʻz soʻzi: «Birinchi noyabrdan boʻlsa kerak, “Mushtum” jurnaliga kirishdim.» [H. Qodiriy].
 - **1930–1931.** Bogʻga koʻchgan, «Barakat» sabzavot shirkatida kotib boʻlgan [H. Qodiriy].
 - **1933–1934.** «Ruscha-oʻzbekcha toʻla soʻzli lugʻat»ning «P» harfini (11 000 soʻz) tuzgan [H. Qodiriy]. Uz.wiki lugʻatni «Qozon, 1934» deb beradi.
 
 ### 1926-yilgi sud
 
-- **Sababi.** «Mushtum»dagi «Yigʻindi gaplar» maqolasi. Hibs sanasi 1926-yil 8-mart. Karimov-2024 hibsni hamkasblarining chaquviga bogʻlaydi.
+- **Sababi.** «Mushtum»dagi «Yigʻindi gaplar» maqolasi (H. Qodiriyga koʻra jurnalning 1926-yil mart sonida). Hibs sanasi 1926-yil 8-mart [Karimov-2024]. Karimov-2024 hibsni hamkasblarining chaquviga bogʻlaydi.
 - **Ayblov.** Oʻzbekiston SSR Jinoyat kodeksining 73-moddasi [kun.uz, 2023].
 - **Hukm.** Sud 1926-yil 15–17-iyunda Samarqandda boʻlgan. 16-iyunda ikki yil ozodlikdan mahrum qilish hukmi chiqqan, 17-iyunda MIK Prezidiumi uni jazodan ozod qilgan [kun.uz; Karimov-2024]. H. Qodiriyning yozishicha, uni Yoʻldosh Oxunboboyev himoya qilgan.
 - **Oqibati.** Shundan keyin matbuotdagi faolligi susaygan [Karimov-2024; H. Qodiriy].
@@ -72,7 +72,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 - **Tergovdagi soʻzlari.** «Menga qo‘yilgan ayblarni boshdanoyoq rad etaman. Haqiqat yo‘lida har qanday, hech qanday jazodan, qiynoqdan qo‘rqmayman.» [Karimov-2024, Sherkon Qodiriy maʼlumoti].
 - **Otilishi.** 1938-yil 4-oktabr, Toshkent, «Olvasti koʻprik» [ru.wiki; kun.uz]. Fitrat va Choʻlpon bilan birga otilgan [uz.wiki].
 - **Yoʻqolgan qoʻlyozmalar.** «Amir Umarxonning kanizi» romani hibsdan keyin yoʻq qilingan deb taxmin qilinadi [en.wiki]. H. Qodiriy esa bu roman tugallanmaganini va materiallari 1945-yilgacha uyda saqlanganini yozadi.
-- **Oqlanish.** 1938-yilgi ish boʻyicha sanalar turlicha: 1957 [kun.uz 2023; ru.wiki; TMA saytida «In 1957, Abdullah Qadiri was officially acquitted»], 1956 [yuz.uz; kun.uz 2018]. Taxminga koʻra jarayon 1956-yilda boshlanib, 1957-yilda rasmiylashgan, lekin buni manbalar ochiq aytmaydi. Karimov-2024 asarlar «1958-yildan» qaytarila boshlaganini yozadi. 1926-yilgi ish boʻyicha Oliy sud 2023-yil 1-dekabrda oqlov chiqargan [kun.uz].
+- **Oqlanish.** 1938-yilgi ish boʻyicha sanalar turlicha: 1957 [kun.uz 2023; yuz.uz 2023 («1957-yilda oqlangan»); ru.wiki; TMA saytida «In 1957, Abdullah Qadiri was officially acquitted»], 1956 [yuz.uz, «Qodiriy maʼrifati...» maqolasi; kun.uz 2018; antologiya kartochkasi: «Uning asarlari 1956-yildan boshlab oqlangan.»]. Taxminga koʻra jarayon 1956-yilda boshlanib, 1957-yilda rasmiylashgan, lekin buni manbalar ochiq aytmaydi. Karimov-2024 asarlar «1958-yildan» qaytarila boshlaganini yozadi. 1926-yilgi ish boʻyicha Oliy sud 2023-yil 1-dekabrda oqlov chiqargan [kun.uz].
 - **Mukofotlar va xotira.** Vafotidan keyin Alisher Navoiy nomidagi Davlat mukofoti (1991) va «Mustaqillik» ordeni (1994) bilan taqdirlangan [uz.wiki]. 2019-yil dekabrida muzeylar ochilgan [Karimov-2024].
 
 ### Xronologiya
@@ -88,7 +88,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 | 1914, oxiri | Rahbarnisaga uylangan | H. Qodiriy |
 | 1914–1915 | «Toʻy», «Ahvolimiz», «Millatimga», «Fikr aylagʻil» sheʼrlari; «Juvonboz» | uz.wiki; Karimov-2024; H. Qodiriy |
 | 1915 | «Baxtsiz kuyov» yozilgan; 14-noyabrda Koleziya teatrida qoʻyilgan | asar matni («1915»); H. Qodiriy |
-| 1915–1916 | «Uloqda» va «Jinlar bazmi» yozilgan | H. Qodiriy; Wikisource («Uloqda» 1916) |
+| 1915–1916 | «Uloqda» va «Jinlar bazmi» yozilgan («Uloqda»ga muallifning 1936-yilgi ilovasi: «Bu hikoya 1915-yilda yozilgan edi») | H. Qodiriy; Karimov-2024, uz.wiki, Wikisource («Uloqda» 1916) |
 | 1917, 21-mart | «Najot»da «Shodmarg» chiqqan | kh-davron.uz; Karimov-2024 |
 | 1917 | Militsiya, «Turon» jamiyati, oziq komiteti | H. Qodiriy |
 | 1919 | «Oziq ishlari» muharriri; «Ishtirokiyun»da Julqunboy felyetonlari | uz.wiki; kh-davron.uz |
@@ -100,7 +100,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 | 1923–1926 | «Kalvak mahzumning xotira daftaridan» 21 sonda | H. Qodiriy |
 | 1924 | Otasi vafot etgan (mart); «Maskov xatlari»; «felyetonlar qiroli» | H. Qodiriy; Karimov-2024 |
 | 1924–1925 | Moskvada oʻqigan | Karimov-2024; H. Qodiriy |
-| 1924/1925–1926 | «Oʻtkan kunlar» uch boʻlimda kitob boʻlib chiqqan (10 000 nusxa, muqovasini Tullya chizgan) | H. Qodiriy (1924–1926); uz.wiki (1925–1926) |
+| 1924/1925–1926 | «Oʻtkan kunlar» uch boʻlimda kitob boʻlib chiqqan (10 000 nusxa; muqovasini Ishtvan Tullya bezagan — uz.wiki «Oʻtkan kunlar» maqolasi H. Qodiriyning 2017-yilgi nashriga tayanib) | uz.wiki «Abdulla Qodiriy» maqolasi (1924–1926); uz.wiki «Oʻtkan kunlar» maqolasi (1925–1926) |
 | 1926, 8-mart | «Yigʻindi gaplar» uchun hibs | Karimov-2024 |
 | 1926, 15–17-iyun | Samarqandda sud; 2 yil, keyin jazodan ozod qilingan | kun.uz; Karimov-2024 |
 | 1926 kuzi – 1928, 15-fevral | «Mehrobdan chayon» yozilgan | H. Qodiriy; asar matni |
@@ -166,7 +166,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 | «Jasorat — ayb emas», «Haqiqat ochib soʻzlashdadir», «Otam va bolshevik», «Ijmoli siyosiy» va boshqalar | maqola, felyeton | 1922 | «Qizil bayroq» va boshqalar | yoʻq |
 | «Mushtum taʼrifida», «Salomnoma», «Chaqiriqlar», «Julqunboy kasal» | bosh maqola, sajʼli hajv | 1923 | «Mushtum» | yoʻq (parchalari H. Qodiriyda) |
 | «Maskov xatlari», «Tarjimai holim», «Toshkand boylari», «Eshonlarimiz» | felyeton, tarjimayi hol | 1924 | «Mushtum» | yoʻq |
-| «Yozishgʻuchilarimizgʻa» («Yozgʻuvchilarimizga»), «Yigʻindi gaplar» | maqola | 1925/1926 | «Mushtum» | yoʻq |
+| «Yozishgʻuchilarimizgʻa» («Yozgʻuvchilarimizga»), «Yigʻindi gaplar» | maqola | 1925/1926 («Yigʻindi gaplar» — 1926, mart soni) | «Mushtum» | yoʻq |
 | «Suddagi nutq» | nutq | 1926 | — | yoʻq (parchalari Karimov-2024 da) |
 | «“Oʻtkan kunlar” ham “Oʻtkan kunlar” tanqidi ustida baʼzi izohlar» | polemik maqola | 1929 | «Sharq haqiqati», 218-son | yoʻq (toʻliq matni H. Qodiriyda) |
 | «Lugʻat pudratchiligi va quruq rasmiyat» | maqola | 1934 (11-avgust) | — | yoʻq |
@@ -517,8 +517,8 @@ Moziy, istibdod, ittifoq, nizo, vijdon, diyonat, gʻarazgoʻy, manfaati shaxsiya
 | Murod Muhammad Doʻst | Hajviyalarda «Go‘yo yozuvchi befarqday tuyuladi, qahramonning o‘zi gapiradi» | «Ibrat», «Sharq yulduzi», 1984/4 (Karimov-2024) |
 | Bahodir Karimov | «oʻzbek romanchilik maktabining asoschisi»; iyjoz, sajʼ va tovush takrorini tahlil qilgan; Qodiriy sheva ishlatmaganini qayd etgan | «Jadidlar: Abdulla Qodiriy», 2024 |
 | Xurshid Doʻstmuhammad | Kontrast usuli, ramziylik, ichki monologni tahlil qilgan; I. Gʻafurovning «bokira romanlar» bahosiga eʼtiroz bildirgan | kh-davron.uz |
-| S. Kleinmichel | Ikki romanda «ertak» yechimi bilan «realistik» yechim birga keladi | 1993; Berlin 1994 (Karimov-2024) |
-| Mark Riz | «Otabek – jadid» | 2020-yilgi tarjima (Karimov-2024) |
+| S. Kleinmichel (Karimov-2024 da «Zigrid Klaynmixel») | Ikki romanda «ertak» yechimi bilan «realistik» yechim birga keladi | 1993-yilgi 279 betlik kitob; «Die Gestalt des Prosaschriftsteller Abdulla Qadiri...», Berlin, 1994 (Karimov-2024) |
+| Mark Riz (Karimov-2024 da «Mark Riiz»; Mark Reese) | «Otabek – jadid» | Karimov-2024 tarjimani «2020-yili» deydi; AramcoWorld (2021) taqrizida inglizcha tarjima «Muloqot Cultural Engagement Program», 2018 deb koʻrsatilgan |
 | Britannica, «Ensiklopedik lugʻat» | Oʻzbek adabiyotiga realizmni olib kirgan; satirik hikoyalari eng yaxshilari qatorida | en.wiki orqali |
 | Adib Xolid | Sovet tarixnavisligi Qodiriyga «highly tendentious biographies» yozgan | muallif-avloniy.md |
 
@@ -553,7 +553,7 @@ Moziy, istibdod, ittifoq, nizo, vijdon, diyonat, gʻarazgoʻy, manfaati shaxsiya
 6. «Ishq davosi avom o‘ylag‘ancha vasl emas – hajrdir.» — «Mehrobdan chayon».
 7. «Oʻgʻul oʻqutmoq yaxshi ham farzdur, toʻygʻa isrof qilmoq bidʼatdur.» — «Baxtsiz kuyov».
 8. «Men qaysi yilda va qaysi oyda tug‘ilg‘onimni bilmayman. Har holda bemavridroq bo‘lsa kerak…» — tarjimayi hol, 1924 [Karimov-2024].
-9. «Bir necha shaxslarning orzusicha, ma’naviy o‘lim bilan o‘ldirildim. Endi jismoniy o‘lim menga qo‘rqinch emasdir.» — sud nutqi, 1926-yil 16-iyun, Samarqand [Karimov-2024].
+9. «Bir necha shaxslarning orzusicha, ma’naviy o‘lim bilan o‘ldirildim. Endi jismoniy o‘lim menga qo‘rqinch emasdir.» — sud nutqi, 1926-yil 15–17-iyundagi sud, Samarqand [Karimov-2024].
 10. «Men to‘g‘rilik orqasida bosh ketsa “ih” deydirgan yigit emasman» — oʻsha nutq [Karimov-2024].
 11. «Menga qo‘yilgan ayblarni boshdanoyoq rad etaman. Haqiqat yo‘lida har qanday, hech qanday jazodan, qiynoqdan qo‘rqmayman.» — 1938-yilgi tergov [Karimov-2024, Sherkon Qodiriy maʼlumoti].
 12. «So‘z so‘ylashda va ulardan jumla tuzishda uzoq andisha kerak, yozg‘uvchining o‘zigina tushunib, boshqalarning tushunmasligi katta ayb.» — «Yozgʻuvchilarimizga» [Karimov-2024].
@@ -611,9 +611,53 @@ Moziy, istibdod, ittifoq, nizo, vijdon, diyonat, gʻarazgoʻy, manfaati shaxsiya
 - Tugʻilgan yil 1894 yoki 1896.
 - «Oʻtkan kunlar»ning jurnalda bosilishi 1922 yoki 1923-yildan boshlanganmi, kitob nashri 1924 yoki 1925-yildanmi.
 - «Jinlar bazmi»: yozilgan yili 1915/1916, bosilgan yili 1921.
-- «Uloqda»: 1915/1916 (bosilgani 1923).
-- «Yigʻindi gaplar»: 1925 yoki 1926.
+- «Uloqda»: muallif ilovasi va H. Qodiriy — 1915; Karimov-2024 (Oybekka tayanib), uz.wiki — 1916; bosilgani 1923 («Bilim oʻchogʻi»).
+- «Yigʻindi gaplar»: mahalliy manbalar (H. Qodiriy, Karimov-2024) va uz.wiki 1926 deydi; 1925 versiyasi tasdiqlanmadi.
 - Oybek risolasi: 1935 yoki 1936.
 - Oqlanish: 1956 yoki 1957.
 - Ikkita «Quyosh bilan ham kurashaman» matni (13-iyul va 3-iyul).
 - Bertels iqtibosining asl manbasi.
+
+---
+
+## Tekshiruv qaydlari
+
+*Tekshiruv 2026-yil 21-oktabrda oʻtkazildi. Har bir iqtibos `_holat/chunks/` dagi matnlar bilan solishtirildi; biografik sanalar mahalliy kartochkalar (H. Qodiriy, Karimov-2024, antologiya) va veb-manbalar (uz.wiki va en.wiki xom matni, yuz.uz 2023, kun.uz, AramcoWorld) bilan qayta koʻrildi.*
+
+### Tuzatilganlar
+
+1. **«Qisqacha» boʻlimi.** «xalq ichidan tanlab topilgan» degan iqtibos manbada yoʻq. Karimov-2024 dagi asl shakli: «xalq ichidan tanlab topib olgan [taʼbirlari]». Matn shunga moslandi.
+2. **Tugʻilgan yil.** «Nikolay II 1894-yilda taxtga chiqqan» degan gap «[umumiy bilim — tekshirilmagan]» deb belgilangan edi. Bu hisob H. Qodiriyning kitobida bor («1894-yilga toʻgʻri keladi»), shuning uchun manbasi koʻrsatildi.
+3. **«Felyetonlar qiroli» (1924).** Bu sharj faqat H. Qodiriyda bor («Mushtum», 1924-yil, 4-son). Karimov-2024 matnida u topilmadi, shuning uchun Karimov-2024 havolasi olib tashlandi. Xronologiya jadvalidagi 1924-yil qatorida ham bu havola faqat H. Qodiriyga tegishli.
+4. **«Mushtum»ga qaytishi.** «1925-yil 1-noyabr» sanasini Qodiriyning oʻzi taxminiy aytgan («Birinchi noyabrdan boʻlsa kerak»). Qatorga shu ehtiyot belgisi qoʻshildi.
+5. **«Yigʻindi gaplar» yili.** H. Qodiriy («“Mushtum”ning 1926-yil mart sonida»), Karimov-2024 («1926-yilda “Mushtum” jurnalida chiqqan») va uz.wiki maqolani 1926-yilga qoʻyadi. «1925 yoki 1926» degan ochiq masala 1926 deb tuzatildi.
+6. **Sud nutqi sanasi.** Karimov-2024 da faqat «1926-yil 15-17-iyunda boʻlib oʻtkan sudda soʻzlagan nutqi» deyilgan. «16-iyun» sanasi manbada yoʻq, oʻrniga «15–17-iyundagi sud» yozildi. 16-iyun hukm chiqqan sana (yuz.uz 2023, uz.wiki).
+7. **«Oʻtkan kunlar» kitob nashri.** Avval «uz.wiki (1925–1926)» deb yozilgan edi. Aslida uz.wiki ikki xil sana beradi: «Abdulla Qodiriy» maqolasida 1924–1926, «Oʻtkan kunlar» maqolasida 1925–1926 (1-boʻlim 1925, 2-boʻlim oʻsha yil, 3-boʻlim 1926). Ikkala sana ham koʻrsatildi. Rassom Ishtvan Tullyaning ismi H. Qodiriy kartochkasining chunk matnida topilmadi. U uz.wiki orqali (H. Qodiriyning 2017-yilgi nashriga havola bilan) beriladi.
+8. **«Uloqda» yili.** Muallifning 1936-yilgi ilovasi va H. Qodiriy 1915-yil deydi: «Bu hikoya 1915-yilda yozilgan edi». Karimov-2024 va uz.wiki esa 1916 deydi. Xronologiya va ochiq masalalarda ikkala versiya manbalari bilan berildi.
+9. **Oqlanish (1938-yilgi ish).** yuz.uz 2023 maqolasi 1957-yilni («1957-yilda oqlangan»), antologiya kartochkasi esa 1956-yilni beradi («Uning asarlari 1956-yildan boshlab oqlangan»). Ikkalasi ham manba sifatida qoʻshildi. Bu masala ziddiyatli boʻlib qolmoqda.
+10. **Mark Riz.** Karimov-2024 «Mark Riiz» deb yozadi va tarjimani «2020-yili» deydi. AramcoWorld taqriziga koʻra Mark Reese tarjimasini 2018-yilda Muloqot Cultural Engagement Program nashr etgan. Ikkala sana ham berildi.
+11. **Kleinmichel.** Karimov-2024 dagi shakli «Zigrid Klaynmixel». Unga koʻra 1993-yilgi kitob 279 betlik, 1994-yilgi maqola Berlinda chiqqan. Bu maʼlumotlar aniqlashtirildi.
+
+### Tasdiqlanganlar (asosiylari)
+
+- **Tugʻilishi.** 1894-yil 10-aprel, Toshkent. Manbalar: en.wiki, uz.wiki infoboksi; H. Qodiriy: «Taxminan oʻninchi aprelda boʻlsa kerak». Ogohlantirish: uz.wiki kirish qismida sanalar almashib ketgan (tugʻilishga «4.10», oʻlimga «10.4» yozilgan). Bu Vikipediyadagi xato.
+- **Hibs va otilish.** Hibs 1937-yil 31-dekabr, otilish 1938-yil 4-oktabr, Toshkent. Manbalar: en.wiki, uz.wiki, yuz.uz, antologiya kartochkasi, Karimov-2024. Joy yuz.uz da «Alvastikoʻprik» deb yozilgan.
+- **1926-yilgi ish.** 73-modda, 16-iyundagi hukm (2 yil), 17-iyunda MIK Prezidiumi qarori bilan jazodan ozod qilingan, 2023-yil 1-dekabrda Oliy sud oqlagan. Manbalar: yuz.uz 2023, uz.wiki. Arizachi yuz.uz da nabirasi «Habibullo Qodiriy», uz.wiki da «Xondamir Qodiriy». Bu ziddiyat profil matniga taʼsir qilmaydi.
+- **«Mushtum».** 1-soni 1923-yil 18-fevralda chiqqan (en.wiki «Mushtum»). Asoschilari Qodiriy va Gʻozi Yunus (kun.uz 2021).
+- **Mukofotlar.** Navoiy mukofoti 1991-yilda, «Mustaqillik» ordeni 1994-yilda berilgan. Manbalar: uz.wiki, en.wiki, antologiya kartochkasi.
+- **Akmal Ikromov.** En.wiki Qodiriyning homiysi Akmal Ikramov hibsga olingach himoyasiz qolganini yozadi.
+- **Oybek.** En.wiki Oybekning 1935-yilgi tanqidiy risolasini qayd etadi. «Abdulla Qodiriyning ijodiy yoʻli» kitobchasini en.wiki «Oybek» maqolasi 1936-yilga qoʻyadi. Nomi H. Qodiriy va Karimov-2024 da bor.
+- **H. Qodiriy maʼlumotlari.** Quyidagilarning hammasi H. Qodiriy matnida topildi: otasining tugʻilgan yili 1821–1822; ota-onasi va aka-ukalarining yillari; 1915-yil 14-noyabrdagi spektakl; 1912-yilda prikazchik boʻlgani («yiliga ellik soʻm»); 1924-yil avgustdan 1925-yil iyungacha Moskvada oʻqigani; «P» harfi («oʻn bir ming soʻzli»); «Mehrobdan chayon» 1929-yil martda 7000 nusxada chiqqani; «Sharq haqiqati», 1929, 218-son; «Obid ketmon» jurnalda 1932-yil noyabridan 1934-yil oxirigacha bosilgani; 1932-yilda uyushmaga qabul qilingani (Rahmat Majidiy xotirasi orqali); Gorkiyning «yaxshi satirachi va romanchisiz» degan soʻzi.
+- **Iqtiboslar.** «Verbatim namunalar» (1–32) va «Mashhur iqtiboslar» (1–20) manba matnlarida harfma-harf topildi. Farq faqat qator uzilishida. Leksik misollar ham topildi: «sroʻk» manbada «sroʻgini» shaklida, «Tirs-turs», «Qaqshagʻir», «Poʻrt-ortir».
+
+### Shubhali yoki tekshirilmagan qolganlar
+
+- **Moskvadagi oʻqish muddati.** Uch xil maʼlumot bor: 1924-yil iyun – 1925-yil iyun (Karimov-2024), 1924-yil avgust – 1925-yil iyun (H. Qodiriy, 71-izoh), 1925–1926 (uz.wiki). Muassasa ham aniq emas. H. Qodiriy 39-izohda Qodiriy 1922-yilda ham Moskvada boʻlganini qayd etadi.
+- **«Oʻtkan kunlar» jurnalda.** uz.wiki boʻyicha 1922-yil, H. Qodiriy boʻyicha 1923–1924-yillarda «Inqilob»da bosilgan. En.wiki romanning oʻzini «1922» deb beradi.
+- **Bertelsning «oltinchi maktab» haqidagi soʻzi.** Faqat H. Qodiriyda (E. Rustamov orqali) uchraydi, asl manbasi topilmadi.
+- **Choʻlponga va Qodiriyga nisbat berilgan aforizmlar.** «Oʻzbek onasi...», «Oʻzbek tili kambagʻal emas...» va «Satru...» Karimov-2024 da manbasiz keltirilgan.
+- **«Yangi masjid va maktab».** H. Qodiriy va uz.wiki 1914-yil 1-aprel, «Sadoyi Turkiston» deb beradi. Gazetaning oʻzi bilan solishtirilmadi.
+- **«Hayo» maqolasi (1914-yil 24-iyun, 50-son).** Karimov-2024 da bor. Muallifi Xolid Said ekani mahalliy matnda tasdiqlanmadi.
+- **Kun.uz 2023 maqolasi.** WebFetch faqat sarlavhani qaytardi, shuning uchun 1926-yilgi ish tafsilotlari yuz.uz 2023 va uz.wiki orqali tasdiqlandi.
+- **Ikki Akmal.** Rus-tuzem maktabidagi sinfdoshi Akmal Akramov (1976-yilda vafot etgan, H. Qodiriy) bilan siyosiy homiysi Akmal Ikromovni (en.wiki) adashtirmaslik kerak.
+- **Ochiq masalalar roʻyxatidagi boshqa bandlar.** Ikkita «Quyosh bilan ham kurashaman» matni, Oybek risolasining yili (1935 yoki 1936) va boshqalar hal boʻlmagan.

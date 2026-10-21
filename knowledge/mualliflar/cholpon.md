@@ -16,7 +16,7 @@ Abdulhamid Choʻlpon XX asr oʻzbek adabiyotining eng yirik siymolaridan biri. U
 
 ### Tugʻilishi, nasabi, oilasi
 
-- **Sana va joy.** 1897-yil, Andijon, Qatorterak mahallasi [Quronov-2024; UzA]. Quronov kitobi shunday ochiladi: «Andijonning Qatorterak mahallasida, Sulaymonqul Mulla Muhammad Yunus o‘g‘li xonadonida 1897-yilda bir o‘g‘il dunyoga keldiki, uning manglayiga XX asr o‘zbek she’riyatining porloq yulduzi bo‘lishdek yuksak saodat va noraso tuzum qurboni bo‘lishdek fojia xat qilingan edi.» [Quronov-2024]. Ruscha Vikipediyaga koʻra, BSE 1893-yilni bergan, ammo rasman 1897-yil qabul qilingan [ru.wiki]. Inglizcha Vikipediya matnida 1893, infoboksda 1897 yozilgan [en.wiki]. Aniq kun va oy hech qaysi manbada yoʻq [Web].
+- **Sana va joy.** 1897-yil, Andijon, Qatorterak mahallasi [Quronov-2024; UzA]. Quronov kitobi shunday ochiladi: «Andijonning Qatorterak mahallasida, Sulaymonqul Mulla Muhammad Yunus o‘g‘li xonadonida 1897-yilda bir o‘g‘il dunyoga keldiki, uning manglayiga XX asr o‘zbek she’riyatining porloq yulduzi bo‘lishdek yuksak saodat va noraso tuzum qurboni bo‘lishdek fojia xat qilingan edi.» [Quronov-2024]. Ruscha Vikipediyaga koʻra, «БСС» (izohda shunday qisqartma bilan) 1893-yilni bergan, ammo rasman 1897-yil qabul qilingan [ru.wiki]. Inglizcha Vikipediya matnida 1893, infoboksda 1897 yozilgan [en.wiki]. Aniq kun va oy hech qaysi manbada yoʻq [Web].
 - **Otasi.** Sulaymonqul Mulla Muhammad Yunus oʻgʻli («Sulaymonqul bazzoz») gazlama savdogari boʻlgan, eski madrasani bitirgan. «Sadoyi Fargʻona»ning Andijondagi obuna va eʼlon vakili edi [Q-kart]. UzA maʼlumotiga koʻra, «Rasvo» taxallusi bilan sheʼr yozgan va devon tuzgan [UzA]. D. Umarov ham buni tasdiqlaydi (`../asarlar/abdulhamid-cholpon-qurboni-jaholat.md`).
 - **Ota-oʻgʻil munosabati (munozarali).** V. Yanning 1933-yilgi kundaligida Choʻlponning shunday soʻzi bor: otasi mutaassib boʻlgan, oʻzi otasidan va mullalardan qochib Toshkentga ketgan. Quronov bunga eʼtiroz bildiradi. Uning dalillari: 1914-yilda ota-oʻgʻil birga gazeta vakili boʻlgan, oʻgʻil rus, tatar, ozarbayjon va hind nashrlariga obuna boʻlgan, qiz tatar qizlar maktabiga berilgan. Quronovning xulosasi: «Shu uchunki, V.Yan bilan “sinfiy mansublik” masalasi ancha qaltis vaqtda suhbatlashgan Cho‘lpon anketalar to‘ldirish uchun tarjimayi holini “zamonabop” tahrir qilishga zarurat sezgan bo‘lishi ehtimol.» [Quronov-2024].
 - **Singlisi.** Foiqaxon Sulaymon qizi sheʼr mashq qilgan va akasi haqida xotira yozgan. «Sulaymonqul – Volai Rasvo. Abdulhamid Cho‘lpon. Foiqa Sulaymon qizi. Sarchashma» kitobiga Choʻlponning ilgari bosilmagan 20 ga yaqin sheʼri kiritilgan [UzA].
@@ -43,7 +43,7 @@ Abdulhamid Choʻlpon XX asr oʻzbek adabiyotining eng yirik siymolaridan biri. U
 ### Sovet hokimiyatining dastlabki yillari (1919–1924)
 
 - **1919.** Andijon uyezd maorif shoʻbasida ishlagan. Noyabrda Toshkentga kelib, «Ishtirokiyun» gazetasida ishlagan [Q-kart]. Fevralda «Goʻzal» sheʼrini yozgan (`../asarlar/abdulhamid-cholpon-sherlar.md`).
-- **1919–1921.** ROSTA Toshkent Eski shahar boʻlimining rahbari boʻlgan [UzA; en.wiki]. 1920-yilda «Turon» teatri direktori va Oʻzbek ilmiy hayʼatining raisi boʻlgan [Q-kart]. 1920-yilda Bokuga borgan [tafakkur.net]. U yerda «Qalandar ishqi» (Boku, 1920) va «Yorugʻ yulduzga» (Bahri Hazar, 1920) sheʼrlarini yozgan. «Turkistonda matbuot» maqolasi Boku, 1920-yil 26-avgust sanasi bilan «Turkistonli Abdulhamid Sulaymon» imzosida «Fuqaro fuyuzoti» jurnalida bosilgan (`../manbalar_web/matbuot-maktab-teatr.md`, https://wikisource.org/wiki/Turkistonda_matbuot).
+- **1919–1921.** ROSTA Toshkent Eski shahar boʻlimining rahbari boʻlgan [UzA; Quronov-2024: «1919–21-yillarda RosTAning Toshkent Eski shahar bo‘limiga rahbarlik qiladi.»]. Inglizcha Vikipediya buni «1919–1920-yillarda *TurkROSTA* gazetasining bosh muharriri» deb beradi [en.wiki]. 1920-yilda «Turon» teatri direktori va Oʻzbek ilmiy hayʼatining raisi boʻlgan [Q-kart]. 1920-yilda Bokuga borgan [tafakkur.net]. U yerda «Qalandar ishqi» (Boku, 1920) va «Yorugʻ yulduzga» (Bahri Hazar, 1920) sheʼrlarini yozgan. «Turkistonda matbuot» maqolasi Boku, 1920-yil 26-avgust sanasi bilan «Turkistonli Abdulhamid Sulaymon» imzosida «Fuqaro fuyuzoti» jurnalida bosilgan (`../manbalar_web/matbuot-maktab-teatr.md`, https://wikisource.org/wiki/Turkistonda_matbuot).
 - **«Chigʻatoy gurungi».** Choʻlpon Fitrat rahbarligidagi bu toʻgarakning faol aʼzosi boʻlgan. Oʻzbekcha Vikipediyaga koʻra, «Til va imlo toʻdasi»ga dastlab Choʻlpon, keyin Elbek rahbarlik qilgan (`../manbalar_web/muallif-elbek.md`). 1921-yil yanvaridagi Imlo qurultoyi 2-majlisi matnini Choʻlpon yozib qoldirgan (`../manbalar_web/adabiyot-poetika-til.md`).
 - **1921–1922.** «Buxoro axbori» muharriri va Buxoro jumhuriyati davlat nashriyoti mudiri boʻlgan (UzA: 1921-yil may – 1922-yil iyun) [Q-kart; UzA]. Bu yerga Fitratning taklifi bilan borgan [tafakkur.net]. «Kleoʻpatra» (1921-yil 14-avgust) shu davrda yozilgan. Bu davrga oid sheʼrlardan biri «Xalq» (Buxoro, 1921).
 - **1922–1923.** «Inqilob» jurnali, «Turkiston» gazetasi, «Mushtum» va «Darxon»da ishlagan. 1923-yil maydan Andijonda «Darxon» gazetasida, uyezd harbiy-inqilobiy qoʻmitasida va Vaqf shoʻbasida ishlagan [UzA; uz.wiki; Q-kart]. «Nonushta» (1923-yil 15-iyun, Andijon) va «Seni koʻb koʻrmasun» (1923-yil iyun) shu paytda yozilgan. «Nashri maorif» jamiyati (1922–1924) asoschilaridan biri boʻlgan (`../manbalar_web/adabiyot-poetika-til.md`).
@@ -65,14 +65,14 @@ Abdulhamid Choʻlpon XX asr oʻzbek adabiyotining eng yirik siymolaridan biri. U
 
 - **Hibs.** 1937-yil 14-iyul [uz.wiki; tafakkur.net]. UzA 13-iyulni beradi [UzA], Quronovda «1937-yil iyulida» deyilgan [Q-kart]. «Odob-axloq kitobi»dagi «1938-yil 14-iyul» sanasi xato boʻlsa kerak. Hibsda qoʻlyozmalar, kundaliklar va «hali tugallanmagan roman qo‘lyozmasi» (ehtimol «Kunduz») olib ketilgan [Q-kart].
 - **Tergov.** 1938-yil 2-oktabrda Fitrat va Choʻlpon yuzlashtirilgan. Protokolda Choʻlponning shunday javobi bor: «Na bevosita, na G‘ulom Zafariy orqali men Said afandidan pul olganim yo‘q, o‘zim ayg‘oqchi bo‘lmaganman, men millatchi edim va bu haqda ko‘rgazma berdim» (O. Usmonov, M. Qarshiboyev maqolasi orqali; `../manbalar_web/muallif-zafariy.md`).
-- **Qatl.** Koʻp manbalar 1938-yil 4-oktabr, Toshkent deydi [uz.wiki; en.wiki; UzA]. Ruscha Vikipediyada 5-oktabr (boshqa manbada 2-oktabr) va Olvasti koʻprik poligoni koʻrsatilgan [ru.wiki]. Quronov paradoksni ataylab bosh harflar bilan beradi: «1938-yil BESHINCHI OKTABRda o‘limga hukm qilinib, TO‘RTINCHI OKTABRda otib tashlandi.» [Quronov-2024]. Anhor.uz maʼlumotiga koʻra, qatl 4-oktabrda bajarilgan, hukm esa 5-oktabrda rasmiylashtirilgan (`../manbalar_web/jadidchilik-tarixi.md`).
-- **Reabilitatsiya va xotira.** 1956-yilda SSSR Oliy sudining Harbiy kollegiyasi uni oqlagan [UzA; ru.wiki]. Asarlari 1980-yillar oxiridan qayta nashr qilina boshlagan [ru.wiki]. 1991-yilda Alisher Navoiy nomidagi Davlat mukofoti, 1999-yilda «Mustaqillik» ordeni berilgan [uz.wiki; ru.wiki]. Andijonda uy-muzeyi va haykali bor. «Choʻlpon» nashriyot-matbaa ijodiy uyi uning nomi bilan ataladi [ru.wiki; UzA].
+- **Qatl.** Koʻp manbalar 1938-yil 4-oktabr, Toshkent deydi [uz.wiki; en.wiki; UzA]. Oʻzbekcha Vikipediya qatl joyini Toshkentdagi Boʻzsuv deb beradi [uz.wiki]. Ruscha Vikipediyada 5-oktabr (infoboksda 2-oktabr ham) va «Алвасти куприк» (Olvasti koʻprik) poligoni koʻrsatilgan [ru.wiki]. UzA ham «ayrim manbalarda 5-oktabr» deydi [UzA]. Quronov paradoksni ataylab bosh harflar bilan beradi: «1938-yil BESHINCHI OKTABRda o‘limga hukm qilinib, TO‘RTINCHI OKTABRda otib tashlandi.» [Quronov-2024]. Anhor.uz maʼlumotiga koʻra, qatl 4-oktabrda bajarilgan, hukm esa 5-oktabrda rasmiylashtirilgan (`../manbalar_web/jadidchilik-tarixi.md`).
+- **Reabilitatsiya va xotira.** 1956-yilda SSSR Oliy sudining Harbiy kollegiyasi uni oqlagan [UzA; ru.wiki]. Inglizcha Vikipediya esa «glasnost davrida» toʻla oqlangan deydi [en.wiki]: bu, ehtimol, adabiy reabilitatsiya (asarlarning qayta nashri) haqida. Asarlari 1980-yillar oxiridan qayta nashr qilina boshlagan [ru.wiki]. 1991-yilda Alisher Navoiy nomidagi Davlat mukofoti [uz.wiki], 1999-yilda «Mustaqillik» ordeni berilgan [uz.wiki; ru.wiki: Prezident farmoni, 1999-yil 24-avgust, UP-2376]. Andijonda uy-muzey ochilgan [uz.wiki, `manbalar_web/muallif-cholpon.md` orqali], Choʻlpon bogʻi va haykali bor [UzA, `manbalar_web/muallif-cholpon.md` orqali]. Toshkentda xotira muzeyi ochilgan va J. Mirtojiyev ishlagan haykal bor [ru.wiki]. Oʻzbekistondagi eng yirik nashriyot uning nomi bilan ataladi [ru.wiki].
 
 ### Xronologiya
 
 | Yil | Voqea | Manba |
 |---|---|---|
-| 1897 (BSE: 1893) | Andijon, Qatorterak mahallasida tugʻilgan | [Quronov-2024]; [ru.wiki] |
+| 1897 (ru.wiki izohi, «БСС»: 1893) | Andijon, Qatorterak mahallasida tugʻilgan | [Quronov-2024]; [ru.wiki] |
 | 1908 | Birinchi sheʼrini «Shuhrat» gazetasiga yuborgan (Xolid) | `manbalar_web/muallif-avloniy.md` |
 | 1908–1912 / 1912–1914 | Madrasa va rus-tuzem maktabi (arxivda tasdiqlanmagan) | [uz.wiki]; [Q-kart] |
 | 1913 | Turk tarixi kitoblarini oʻqigan (Validiy), Gaspiraliga xat yozgan | [Q-kart]; [UzA] |
@@ -154,7 +154,7 @@ Oʻzbekcha Vikipediyaga koʻra, uch jildlik toʻplamning 2-jildiga 13 hikoya kir
 | «Xalil farang» | drama | 1921 (ru.wiki: 1917) | yoʻq |
 | «Yorqinoy» | «6 pardali afsonaviy drama» | 1920; 1921-yilda sahnalashtirilgan; 1926-yilda qayta ishlangan | [ha](../asarlar/abdulhamid-cholpon-yorqinoy.md) |
 | «Oʻldiruvchi» («Qotil») | drama | 1921 | yoʻq |
-| «Sevgi va saltanat» | drama | 1922 (en.wiki: 1920) | yoʻq |
+| «Sevgi va saltanat» | drama | 1922 [uz.wiki] (en.wiki sanasiz beradi) | yoʻq |
 | «Choʻpon sevgisi» | drama | 1922 | yoʻq |
 | «Yana uylanaman», «Qorovul uyqusi», «Uzunquloq bobo» | komediya/pyesa | Moskva davri (1926) | yoʻq |
 | «Mushtumzoʻr», «Hujum» (V. Yan bilan), «Oʻrtoq Qarshiboyev» | pyesa | 1928–1929 | yoʻq |
@@ -195,7 +195,7 @@ Oʻzbekcha Vikipediyaga koʻra, uch jildlik toʻplamning 2-jildiga 13 hikoya kir
 2. **Jaholat — asosiy dushman (1914).** «Qurboni jaholat»da ham, «Doʻxtur Muhammadiyor»da ham qotil shaxs emas, jaholat. Jaholatga qarshi qurol: «toʻp, miltiq, toponcha, xanjar, oʻq-doru yolgʻuz – oʻquv, oʻquv, oʻquv edi!!!» (`asarlar/abdulhamid-cholpon-doxtur-muhammadiyor.md`). Yosh Choʻlpon rus maktabini ham ijobiy koʻradi: Eshmurod «Rusiya maktablarining biriga» kirmoqchi.
 3. **Maʼrifatchilikdan iqtisodiy islohotga.** 1914-yilgi maqolalarda qishloq qoloqligining sababi «johillik»dan qarz, boylarga qaramlik va yersizlikka koʻchadi. Muallif yerni sotmaslikka chaqiradi: «Yozayluk, qarindoshlar, ziroatdan!» va «Biz ham insonmiz, insondek yashayluk!» [Quronov-2024]. Quronov oxirgisini «biz ham millatmiz, millatdek yashayluk!» deb oʻqishni taklif qiladi.
 4. **Istiqlol va taraqqiy.** Quronovning markaziy tezisi: Choʻlponning «manglayiga» shu ikki soʻz «yurak qoni bilan bitilgan» [Quronov-2024]. Sheʼrlarda: «Falokatlar koʻrgan ota-bobolar / Istiqlolning qimmatini bilmagan.», «Qur yangi davlat, yovlar oʻrtansin» (`asarlar/abdulhamid-cholpon-sherlar.md`).
-5. **Turkchilik va muxtoriyat (1917).** «Ozod turk bayrami», Orenburgdagi Boshqird hukumati, Validiy bilan hamkorlik [Q-kart]. «Doʻxtur Muhammadiyor»dagi «turk-totor jaridalari» va Bokuning «maʼnaviy shahar» sifatida koʻrsatilishi ham shu tasavvurga kiradi. «Seni koʻb koʻrmasun»da arabcha «Alloh» oʻrniga turkiy «Tangri» ishlatiladi (talqin, kartochkada).
+5. **Turkchilik va muxtoriyat (1917).** «Ozod turk bayrami», Orenburgdagi Boshqird hukumati, Validiy bilan hamkorlik [Q-kart]. «Doʻxtur Muhammadiyor»dagi «turk-totor jaridalari» va Bokuning maʼnaviy shahar sifatida koʻrsatilishi («Maʼnaviy shahrim boʻlgan Boku») ham shu tasavvurga kiradi. «Seni koʻb koʻrmasun»da arabcha «Alloh» oʻrniga turkiy «Tangri» ishlatiladi (talqin, kartochkada).
 6. **Mustamlakachilikka qarshi pozitsiya.** «Kecha»da: «– Siz-biz sog‘in sigirmiz, bizning shirin sutimiz bor, ruslar va boshqa ajnabiylar bizni emib yotadilar.»; mustamlakachi tilidan «sart», «chakki shu sartiya ichida tug‘ilib qolgansan!» deyiladi. «Oqposhshoning inʼomi»da mahalliy hunardan «ichki Rusiya»da zavod ochish gʻoyasi tugʻiladi: «Vatandosh sanoat rivojlansin.» Mustamlaka siyosati chor davri satirasi niqobi ostida tanqid qilinadi.
 7. **Ayol erki — eng izchil mavzu.** «Kecha»dagi Zebi, «Oydin kechalarda»dagi kelin («Men odam emasmi?»), «Qor qoʻynida lola»dagi qizni eshonga «nazr» qilish, «Novvoy qiz», «Men va boshqalar» («Oʻzbek qizi ogʻzidan»), «Seni koʻb koʻrmasun»dagi urush qurboni ona, «Yorqinoy»dagi qilichli qahramon («Bir xotin kishi bunday ishlarni ming erkakdan yaxshi bajara oladir»). Choʻlpon bu mavzuni didaktika bilan emas, fojia orqali beradi.
 8. **Soxta diniylik va pirparastlik tanqidi.** Razzoq soʻfi va eshon («Kecha»), «Qor qoʻynida lola»dagi zikr va «jazava», «Novvoy qiz»dagi «“moʻmin va soʻfi”» zoʻravon. Lekin din inkor etilmaydi. Quronovga koʻra, Razzoq soʻfi obrazidagi mutelik 1930-yillardagi «marksizmga e’tiqod» mutelikiga qiyos qilinadi [Q-kart].
@@ -278,7 +278,7 @@ Bazadagi nashrlar lotin yozuvida, ammo davr morfologiyasini saqlagan. Shakllar a
   - Kishan, qafas, «toʻrt devor», zindon: tutqunlik ramzlari.
   - Gul va tikan, lola va qor, binafsha, nilufar: yoshlik va qurbonlik.
   - Suv: dengiz–qirgʻoq, Nil–Amu, hovuz.
-- **Allegoriya.** «Novvoy qiz»da dengiz va qirgʻoq: «Dengiz shu qadar buyukligi bilan hamma vaqt qirgʻoqlardan yengiladi.» Finalda u teskari buriladi: «Qirgʻoq agʻdarildi.» «Kleoʻpatra»da «Amu Kleoʻpatrasi» bor. Quronov kaliti boʻyicha «maʼshuqa» istiqlol maʼnosini beradi [Q-kart].
+- **Allegoriya.** «Novvoy qiz»da dengiz va qirgʻoq: «Dengiz shu qadar buyukligi bilan hamma vaqt qirgʻoqlardan yengiladi.» Finalda u teskari buriladi: «Qirgʻoq agʻdarildi.» «Kleoʻpatra»da «Amu Kileoʻpatrasi» bor (manbadagi imlo: «u esa Hazar boʻyi, Amu Kileoʻpatrasidir»). Quronov kaliti boʻyicha «maʼshuqa» istiqlol maʼnosini beradi [Q-kart].
 - **Jonlantirish.** «Achchiq izg‘irin childirmasini qo‘liga olib, g‘ijbangni qizitadi...» («Kecha»); «Kun chiqqan, tigʻlari panjara orqali choʻzilib uy ichiga kirganlar edi.» («Seni koʻb koʻrmasun»); qumgʻon «mushlashadi» («Nonushta»); toʻp «gerdayib» suzadi («Qor qoʻynida lola»).
 - **Xalqona va maishiy oʻxshatishlar.** «Tollarning ko‘m-ko‘k sochpopuklari qizlarning mayda o‘rilgan kokillariday» («Kecha»); «Koʻzidagi marvarid donalari tegirmon doʻlidan tushayotgan bugʻdoy toʻqaloqlari singari» («Meros»); «Novdadek kuyov», «Toshdek qattigʻ bagʻri» («Oydin kechalarda»); «yuzlari qip-qizil anor boʻldi» («Nonushta»).
 - **Sinesteziya va hid poetikasi.** «Kleoʻpatra»da «sevgi hidi», «alam hidi», «oʻlimlik hidi» bor: «Birdan gul oʻlimlik hidini sochdi.»
@@ -603,3 +603,42 @@ Hech kim javob bermadi. Koʻcha qop-qorongʻi, jimjit edi...
 - https://www.degruyterbrill.com/document/doi/10.1515/9781644690482/html (Night and Day, inglizcha tarjima; 2026-10-21 qidiruv parchasi)
 - https://library.oapen.org/handle/20.500.12657/88187 (A. Khalid, *Making Uzbekistan*)
 - https://ziyouz.uz/en/uzbek-literature/40-literature-of-jadids-period/91-abdulhamid-chulpon-1897-1938 (ochib boʻlmadi)
+
+---
+
+## Tekshiruv qaydlari
+
+*2026-yil 21-oktabrdagi adversarial tekshiruv. Iqtiboslar `_holat/chunks/` dagi asl matnlar bilan dastur yordamida solishtirildi; hayotiy sanalar uz.wiki, en.wiki, ru.wiki, UzA va Quronov risolasi bilan qayta tekshirildi.*
+
+### Tuzatilganlar
+
+1. **«BSE: 1893».** Ruscha Vikipediya izohida qisqartma «БСС» deb berilgan, «БСЭ» emas. Matn va xronologiya jadvali shunga koʻra tuzatildi.
+2. **Qatl joyi.** Oʻzbekcha Vikipediyadagi «Boʻzsuv» (Toshkent) qoʻshildi; ruscha Vikipediyadagi joy nomi asl shaklida («Алвасти куприк») berildi; UzA ham «ayrim manbalarda 5-oktabr» deyishi qayd etildi.
+3. **Reabilitatsiya va xotira.** 1991-yilgi Navoiy mukofoti ruscha Vikipediyada yoʻq — manba faqat [uz.wiki] qilib qoldirildi. «Mustaqillik» ordeni farmoni sanasi (1999-yil 24-avgust) ru.wiki boʻyicha qoʻshildi. «Andijonda uy-muzeyi va haykali bor [ru.wiki; UzA]» notoʻgʻri manbalangan edi: ru.wiki Toshkentdagi xotira muzeyi va J. Mirtojiyev haykalini aytadi; Andijondagi uy-muzey uz.wiki, bogʻ va haykal UzA maʼlumoti. Nashriyot haqidagi gap ru.wiki matniga moslandi.
+4. **ROSTA.** Inglizcha Vikipediya bu lavozimni tasdiqlamaydi (u «1919–1920, *TurkROSTA* bosh muharriri» deydi); [en.wiki] havolasi Quronov-2024 bilan almashtirildi, en.wiki varianti alohida koʻrsatildi.
+5. **«Sevgi va saltanat» (en.wiki: 1920).** Inglizcha Vikipediyada bu dramaga sana berilmagan; tuzatildi.
+6. **«Amu Kleoʻpatrasi».** Asl matnda «Amu Kileoʻpatrasidir» shaklida; manbadagi imlo tiklandi.
+7. **«maʼnaviy shahar».** Bu ibora «Doʻxtur Muhammadiyor» matnida yoʻq, qoʻshtirnoqdan chiqarildi; asl ibora («Maʼnaviy shahrim boʻlgan Boku») qoʻshildi.
+
+### Tasdiqlanganlar (qisqacha)
+
+- Tugʻilish 1897, Andijon, Qatorterak (Quronov-2024, UzA, uz.wiki, ru.wiki); en.wiki matnidagi 1893 / infoboksdagi 1897 ziddiyati tasdiqlandi.
+- Hibs: 14-iyul (uz.wiki) / 13-iyul (UzA); «Odob-axloq kitobi»dagi «1938-yil 14-iyul» matnda haqiqatan bor va xato boʻlishi ehtimoli yuqori.
+- Quronov-2024 dagi «BESHINCHI OKTABRda … TO‘RTINCHI OKTABRda» iqtibosi, 300 soʻm, Aynning 1927-yil 14-fevraldagi maqolasi, «Turkestanskiy golos» (1915–1917), «Turon» teatri (1920), Boshqird hukumati raisining kotibi, Mohiroʻya, Soliha, «Joʻr» (1937), 1934-yilgi tanlov, Maqsudov/Rashidov sanalari — chunk matnida bor.
+- Sheʼrlar va hikoyalar ostidagi joy va sanalar («Goʻzal» — Toshkent, 1919, fevral; «Qalandar ishqi» — Boku, 1920; «Kleoʻpatra» — 1921, 14-avgust; «Nonushta» — 1923, 15-iyun; «Novvoy qiz» — 1927, 25-iyun va boshq.) asl matnlar bilan mos.
+- 1938-yil 2-oktabrdagi protokoldan iqtibos `olim-usmonov-jadidlar-gulom-zafariy__01.txt` matnida soʻzma-soʻz bor.
+- Kitoblarga nisbat berilgan qolgan barcha verbatim iqtiboslar asl matnda topildi (ayrimlari faqat qator koʻchishi yoki «/» bilan ajratilgan qismlari boʻyicha).
+
+### Munozarali yoki tekshirilmagan qolganlar
+
+- **Qatl sanasi:** 4-oktabr (uz.wiki, en.wiki, UzA, Quronov) / 5-oktabr (ru.wiki; UzA «ayrim manbalar») / 2-oktabr (ru.wiki infoboksi). Ikki sana farqi hukm va ijro sanalari bilan izohlanadi, lekin hujjatli tasdiq koʻrilmadi.
+- **Reabilitatsiya:** 1956 (UzA, ru.wiki) va «glasnost davrida» (en.wiki) — ikkala versiya saqlandi.
+- **«Buloqlar» yili:** 1922 (Quronov-2024), 1923 (uz.wiki), 1924 (en.wiki). Vadud Mahmudning taqrizi 1923-yil 10-dekabrda chiqqani (Quronov-2024) 1922–1923 ni qoʻllaydi.
+- **«Xalil farang»:** 1921 (uz.wiki) / 1917 (ru.wiki).
+- **Moskva drama studiyasi:** 1924 (uz.wiki) / 1925-yil yoz oxiri (Quronov-2024).
+- **1934-yilgi tanlov:** Quronov «qatnashgani va rag‘batlantirilgani»ni aytadi; inglizcha nashr tavsifidagi qarama-qarshi parcha tekshirilmagan.
+- **Pushkin, «Bulbul va gul» (1936, aruzda):** faqat yuz.uz maqolasi orqali (`manbalar_web/adabiyot-poetika-til.md`); Vikipediyalarda yoʻq.
+- **«Hozirda bizga birdan-bir lozim…»** iqtibosi mahalliy matnda yoʻq, faqat kh-davron.uz orqali.
+- **«Choʻlpon» taxallusi Munavvar qori tavsiyasi bilan (1914)** — faqat UzA («manbalarda qayd etiladi»); ikkinchi mustaqil manba topilmadi.
+- **«Hamlet» — oʻzbek tiliga birinchi Shekspir tarjimasi:** en.wiki Choʻlponni Shekspirni oʻzbekchaga birinchi tarjima qilgan shaxs deydi; tarjima yili tekshirilmagan.
+- tafakkur.net, anhor.uz, FDU maqolasi, Wikisource sahifalari bu tekshiruvda qayta ochilmadi; ularga tayangan maʼlumotlar (Bokuga safar, «Choʻrining isyoni» 1926, «Toʻqliq pattasi» va boshq.) avvalgi holicha qoldirildi.

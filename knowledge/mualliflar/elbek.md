@@ -48,12 +48,12 @@ Elbek (Mashriq Yunusov) — jadidlarning ikkinchi, «yosh» avlodiga mansub shoi
 - 1932-yilda Yozuvchilar uyushmasi tashkiliy qoʻmitasiga aʼzo boʻlgan [web]. H. Qodiriy uni «SSSR Yozuvchilar uyushmasining aʼzosi» deb ataydi [H. Qodiriy].
 
 ### Doʻstlik doirasi va safarlar
-- 1927-yilning erta yozida Abdulla Qodiriy va oilasi bilan Chimkentga borgan [H. Qodiriy]. 1929-yil yozida Qodiriy, Gʻozi Yunus va boshqalar bilan Qoʻqon, Fargʻona, Andijon va Oʻsh boʻylab sayohat qilib, Samarqandga kelgan: «ular bir yarim oy burun Toshkentdan sayohatga chiqishib, Qoʻqon, Fargʻona, Andijon, Oʻsh va qishloqlarni keza-keza oxirgi pullari bilan Samarqandga kirib kelishgan» [H. Qodiriy].
+- 1927-yilning erta yozida Abdulla Qodiriy va oilasi bilan Chimkentga borgan [H. Qodiriy]. Taxminan 1929-yil yozida (manbada: «1929-yil boʻlsa kerak») Qodiriy, Gʻozi Yunus va boshqalar bilan Qoʻqon, Fargʻona, Andijon va Oʻsh boʻylab sayohat qilib, Samarqandga kelgan. Bu maʼlumot Habibulla Qodiriy kitobida keltirilgan shoir Bahrom Ibrohimov (Yoʻqsil) xotirasidan olingan: «ular bir yarim oy burun Toshkentdan sayohatga chiqishib, Qoʻqon, Fargʻona, Andijon, Oʻsh va qishloqlarni keza-keza oxirgi pullari bilan Samarqandga kirib kelishgan» [H. Qodiriy].
 
 ### Taʼqib, hibs, vafot, reabilitatsiya
-- 1927-yilgi madaniyat xodimlari qurultoyida Vadud Mahmud «Cho‘lpon, Fitrat, Elbek va boshqalar qatori ma’naviy kaltaklandi» [Sirojiddin Ahmad, web]. Proletar yozuvchilari qurultoyi atrofida Fitrat, Choʻlpon, Elbek, Botu va boshqalarning ijodi «“sinfiy hushyorlik” bilan taftish qilinib» chiqilgan [Usmonov].
+- 1927-yilgi madaniyat xodimlari qurultoyida Vadud Mahmud «Cho‘lpon, Fitrat, Elbek va boshqalar qatori ma’naviy kaltaklandi» [Sirojiddin Ahmad, web]. Oʻzbekiston shoʻro yozuvchilarining I jumhuriyat qurultoyidagi hisobot maʼruzasidan soʻng (Usmonov R. Majidiyning «Gʻalabalar yoʻli» maqolasiga tayanadi) Fitrat, Choʻlpon, Elbek, Botu va boshqalarning ijodi «“sinfiy hushyorlik” bilan taftish qilinib» chiqilgan [Usmonov].
 - 1937-yil 20-avgustda «Yosh leninchi»da J. Shaʼrifiy shunday yozgan: «Fitratning eng sodiq shogirdi Elbek aksilinqilobchilarning qonli lagerida turib, partiyaga va sovetlarga qarshi zaharli she’r, masal, maqolalar yozdi» [Turdiyev]. Dolimov kitobida 1937-yil bahorida matbuotda «Fitrat, Qodiriy, Cho‘lpon, Elbek, Botu va boshqa» yozuvchilar qoralangani aytiladi [Dolimov].
-- **Hibs va hukm.** Vikipediyaga koʻra, 1937-yilda qamalgan va 10 yilga hukm qilingan [uz.wiki]. Halmet (Shamsutdinov 2012, 55-betga tayanib) shunday yozadi: harbiy sudning 1938-yil 4–15-oktyabrdagi majlislarida 70 kishi II toifa boʻyicha 10–15 yilga hukm qilingan, roʻyxatda 70-oʻrinda turgan Elbekka 12 yil berilgan [Halmet 2019]. Ekspertiza xulosasida «Til», «Uygʻon, koʻnglim» va «Ishtirokiyun»da (1919) bosilgan, Halmet turkchada «Cengiz Dede'ye» deb bergan sheʼr ayblov dalili sifatida keltirilgan. Bu sheʼrning oʻzbekcha asl nomi va matni aniqlanmagan [Halmet 2019]. Uzoqov NKVD «Til» sheʼrini ham ishga qoʻshganini yozadi [Uzoqov, 14-bet].
+- **Hibs va hukm.** Vikipediyaga koʻra, 1937-yilda qamalgan va 10 yilga hukm qilingan [uz.wiki]. Halmet (Shamsutdinov 2012, 55-betga tayanib) shunday yozadi: harbiy sudning 1938-yil 4–15-oktyabrdagi majlislarida 70 kishi II toifa boʻyicha 10–15 yilga hukm qilingan, roʻyxatda 70-oʻrinda turgan Elbekka 12 yil berilgan [Halmet 2019]. Halmet keltirgan ekspertiza xulosasi parchasida (Hasanov va boshq., 2013, 126–130-betlardan) «Uygʻon, koʻnglim» (turkchada «Uyğan Yürek») va «Ishtirokiyun»da (1919) bosilgan, Halmet turkchada «Cengiz Dede'ye» deb bergan sheʼr ayblov dalili sifatida keltirilgan. Bu sheʼrning oʻzbekcha asl nomi va matni aniqlanmagan; Halmet parchani Z. Ishonxoʻjayevaning ruscha maqolasidan tarjima qilgan [Halmet 2019, 11-izoh]. «Til» sheʼri Halmetda ekspertiza parchasida emas, muallifning oʻz tahlilida tilga olinadi. Uzoqov NKVD «Til» sheʼrini ham ishga qoʻshganini yozadi [Uzoqov, 14-bet].
 - **Vafoti.** Uzoqov: «Элбек 1939 йил 11 февралда, беаёв қийноқлардан кейин қамоқхонада ҳаёт билан видолашади» [Uzoqov, 6-bet]. Halmet ham 1939-yil 11-fevral sanasini beradi va vafot joyini Magadan deb koʻrsatadi [Halmet 2019]. Vikipediyada 1939-yil 2-noyabr, Magadan [uz.wiki]. Saparova 2025-yilgi maqolasida 1938-yil, Magadan [web].
 - **Reabilitatsiya.** 1957-yil 1-avgust [uz.wiki; Saparova 2024: «Elbek was acquitted 20 years later on August 1, 1957»]. Halmet ham 1957-yilni koʻrsatadi [Halmet 2019].
 - Uzoqovning umumiy xulosasi: «атиги 40 йил яшаб, бор-йўғи 17 йил ижод қилди. Шу қисқа давр мобайнида 30 номда китоб ва тўпламлар чоп эттириб, кўплаб таржима асарлар яратди» [Uzoqov, 19-bet].
@@ -82,7 +82,7 @@ Elbek (Mashriq Yunusov) — jadidlarning ikkinchi, «yosh» avlodiga mansub shoi
 | 1926 | «Anorgul» («Yer yuzi», 15-son); «Koʻzgu»; Yangi alifbo markaziy qoʻmitasiga aʼzo boʻlgan | Uzoqov; uz.wiki |
 | 1927 | «Sezgilar»; Qodiriy bilan Chimkent safari; qurultoyda tanqid qilingan | uz.wiki; H. Qodiriy; web |
 | 1928 | «Turkiston» dostoni; Gʻ. Zafariy bilan «Ashulalar» | uz.wiki; Saparova 2024 |
-| 1929 | «Oʻtmishim», «Paxta», «Bizniki», «Chirchiq»; «Bahor»; Qodiriy bilan Fargʻona vodiysiga sayohat | uz.wiki; Turdiyev; H. Qodiriy |
+| 1929 | «Oʻtmishim», «Paxta», «Bizniki», «Chirchiq»; «Bahor»; Qodiriy bilan Fargʻona vodiysiga sayohat (yili taxminiy: «1929-yil boʻlsa kerak») | uz.wiki; Turdiyev; H. Qodiriy |
 | 1930 | «Batrak kolxozi»; «Mehnat kuylari» | uz.wiki; Saparova 2024 |
 | 1931–1934 | Madaniy qurilish institutida ilmiy xodim | uz.wiki |
 | 1932 | Fargʻona, Ohangaron, Chirchiqqa ekspeditsiya; Yozuvchilar uyushmasi tashkiliy qoʻmitasi aʼzosi | uz.wiki; web |
@@ -325,7 +325,7 @@ Elbekning uslubini **«soddalashtirilgan Chigʻatoy-purist»** uslub deb taʼrif
 **Bazadagi kitoblardan (Elbekning oʻz soʻzlari, boshqa mualliflar keltirgan):**
 1. “Tilimiz orasiga qotishib qolg‘an yot so‘zlarni yozg‘an chog‘imizda ham butunlay o‘z tovushlarimiz bilan yozmog‘imiz kerak” [Boltaboyev, `../_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt`, 438–439-satrlar; Elbek. Yozuv yoʻllari. T., 1921, 29-b.].
 2. “Boshqa ellarning yozuv va alifbolarida ko‘rilgan tartib, intizom, qulaylik bizning yozuvimizda yo‘q. Boshqalarning a lifbolari, yozuvlari tartibli, intizomli, qulay. Bizniki tartibsiz, buzuq ham qiyin” [Boltaboyev, oʻsha joy, 440–441-satrlar; «a lifbolari» manbadagi kabi].
-3. «Mirmashriq Miryunus o‘g‘li (shoir Elbek)» — Ziyo Said bergan imzo shakli [Usmonov, `../_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt`, 184-satr].
+3. «Mirmashriq Miryunus o‘g‘li (shoir Elbek)» — Ziyo Said bir jurnalning «yaqin yozishg‘uchilari» roʻyxatida bergan ism shakli [Usmonov, `../_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt`, 184-satr].
 
 **Wikisource matnlaridan (veb, toʻliq oʻqilgan):**
 4. «Oltindan to‘qulg‘on tor bir qafasda / Yotardi bir qushcha doim qayg‘uda.» [WS: Tutqun qushcha, 1918]
@@ -438,9 +438,9 @@ Elbekning uslubini **«soddalashtirilgan Chigʻatoy-purist»** uslub deb taʼrif
 - **Munavvar qori** — Elbekning oʻqishiga homiylik qilgan. «Nashri maorif»da birga ishlagan [`munavvarqori.md`; web].
 - **Abdulla Avloniy** — Vikipediya va Halmet boʻyicha Elbek 1914-yilda uning usuli jadid maktabida oʻqigan [`avloniy.md`; Halmet 2019].
 - **Gʻulom Zafariy** — «El ashulalari» (1925) va «Ashulalar» (1928) toʻplamlarini birga chiqargan, birga folklor ekspeditsiyalariga borgan [Usmonov; `../manbalar_web/muallif-zafariy.md`].
-- **Abdulla Qodiriy** — doʻsti. 1927-yilda Chimkentga, 1929-yilda Fargʻona vodiysiga birga safar qilgan [H. Qodiriy]. → [qodiriy.md](qodiriy.md)
+- **Abdulla Qodiriy** — doʻsti. 1927-yilda Chimkentga, taxminan 1929-yilda Fargʻona vodiysiga birga safar qilgan [H. Qodiriy; 1929-yilgi safar — Bahrom Ibrohimov xotirasi]. → [qodiriy.md](qodiriy.md)
 - **Vadud Mahmud, Shokirjon Rahimiy, Qayum Ramazon, Gʻozi Yunus, Ashurali Zohiriy, Shorasul Zunnun** — gurung va til ishlari boʻyicha safdoshlari [Boltaboyev; Togʻayev 2022, 2023].
-- **Sadriddin Ayniy** — Toshkentdagi adabiy majlislarda birga qatnashgan [H. Qodiriy]. Saparova 2025-yilgi maqolasida Ayniyning «Eski maktab»i bilan Elbekning «Ot va odam»ini pedagogik jihatdan qiyoslaydi [`ayniy.md`].
+- **Sadriddin Ayniy** — Samarqandda Maʼruf Rasuliyning bogʻida oʻtgan adabiy yigʻinlarda birga qatnashgan (Bahrom Ibrohimov xotirasi) [H. Qodiriy]. Saparova 2025-yilgi maqolasida Ayniyning «Eski maktab»i bilan Elbekning «Ot va odam»ini pedagogik jihatdan qiyoslaydi [`ayniy.md`].
 - **Rus klassiklari** (Krilov, Pushkin, Nekrasov, Lermontov) — tarjimalar orqali masal va xalq ertagi poetikasiga taʼsir koʻrsatgan boʻlishi mumkin [Uzoqov; taʼsir darajasi — talqin].
 - **Xalq ogʻzaki ijodi** — lapar, ashula, ertak, topishmoq. Bu Elbek uslubining asosiy manbalaridan biri [Uzoqov; Saparova 2024].
 - **Keyingi taʼsir.** Ashurali Zohiriy Elbekni «эл болалар адабиётида масалчиликни яратган катта санъаткор» deb ataydi [Uzoqov, 9–10-betlar]. Saparova va U. Amonov uni bolalar adabiyotini oʻqitish metodikasining asoschisi deb hisoblaydi [Saparova 2024].
@@ -457,7 +457,7 @@ Elbekning uslubini **«soddalashtirilgan Chigʻatoy-purist»** uslub deb taʼrif
   - Sotti Husayn Elbekni «so‘llashmakda bo‘lgan yozuvchilar» qatoriga qoʻshgan [web, Karimov orqali].
   - Matbuotda «“yo‘ldan ozgan murtad”» deb atalgan [web].
   - J. Shaʼrifiy, «Elbekning ijodi haqida» («Yosh leninchi», 1937-yil 20-avgust): «Aksilinqilobchilarning gazeta, jurnallari ko‘pincha Elbekning she’risiz chiqmas edi» [Turdiyev].
-  - NKVD ekspertizasi (Z. Ishonxoʻjayeva maqolasi orqali) Elbekni hayvon va oʻsimlik obrazlari orqali yashirin targʻibot qilganlikda, Chigʻatoy-purist tilda yozganlikda va xalqaro soʻzlarga qarshi chiqqanlikda ayblagan [Halmet 2019].
+  - NKVD ekspertizasi (Halmet uni Hasanov va boshq., 2013, 126–130-betlardan keltiradi; Z. Ishonxoʻjayeva maqolasi sheʼr parchasi uchun manba) Elbekni hayvon va oʻsimlik obrazlari orqali yashirin targʻibot qilganlikda, Chigʻatoy-purist tilda yozganlikda va xalqaro soʻzlarga qarshi chiqqanlikda ayblagan [Halmet 2019].
 - **Encyclopaedia Britannica** (qidiruv natijasidagi qisqa matn boʻyicha; sahifaning oʻzi 403 qaytardi): Elbek (Mashriq Yunus Oghli) mintaqa sheʼriyatining eski anʼanalaridan «quite different» vazn va qofiya tizimlarini taklif qilgan (https://www.britannica.com/biography/Elbek) [toʻliq matn tekshirilmagan].
 - **M. Otaxonova:** «Fitrat, Cho‘lpon, Elbek, Botu, Usmon Nosir kabi shoirlar she’riyatimizga erkin vazn va oq she’r kabi yangi shakllarni olib kira boshladi» [`../manbalar_web/adabiyot-poetika-til.md`].
 - **Sh. Turdiyev** («Elbek», «Maʼrifat», 2008): «Til», «Qurolga», «Oʻzbek yigitiga», «Bibixonim madrasasi» Fitrat va Choʻlponning milliy istiqlolchilik asarlariga «hamohang» [Turdiyev].

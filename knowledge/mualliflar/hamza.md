@@ -22,7 +22,7 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 
 - **Sana va joy.** 1889-yil 6-mart (eski uslubda 22-fevral), Qoʻqon [ENWIKI; RUWIKI; UZWIKI; DOLIMOV]. Arboblar.uz va Topwar 7-mart sanasini beradi. Ziyouz va ilmlar.uz sahifalarida «1889.6.3» shaklidagi noaniq yozuv bor [Web]. Sputnik uni Shohimardonda tugʻilgan deydi, bu boshqa barcha manbalarga zid [Web]. Hamzaning oʻz soʻzi: «Mana men shul oiladan 1889 yilda tug‘ulib,» («Tarjimai hol», 1926) [DOLIMOV].
 - **Otasi.** Ibn Yamin Niyoz oʻgʻli tabib boʻlgan, xalq orasida «Hakimcha» deb atalgan, «Hakimzoda» nisbasi shundan [UZWIKI; DOLIMOV]. Uning yillari manbalarda turlicha: 1840–1922 [UZWIKI; ENWIKI], 1836–1920 [DOLIMOV]. Hamzaning oʻzi yozadi: «Otam Niyoz o‘g‘li 1836 yilda tug‘ilib, 16 yoshinda dehqonlig‘in tashlab, Buxoroga borib,» [DOLIMOV]. Otasi Buxoroda tabobat oʻqigan, oʻzbek, tojik va fors tillarini bilgan [UZWIKI]. ENWIKI uni Hindiston va Shinjonga borgan, juda dindor attor deb taʼriflaydi.
-- **Onasi.** Jahonbibi Rabiboy qizi (1858–1903) [UZWIKI].
+- **Onasi.** Jahonbibi Rabiboy qizi (1858–1903) [UZWIKI]. Dolimov keltirgan «Tarjimai hol» izohida esa: «tug‘ilgan yili noma’lum — vafoti 1910 yil» [DOLIMOV]. Sanalar bahsli.
 - Hamza oiladagi toʻrt farzandning eng kichigi boʻlgan. Oila keyinchalik kambagʻallashgan [ENWIKI].
 - **Nikohlari.** 1912-yilda rus ayoli Aksinya (yoki Zoya) Uvarova bilan turmush qurgan. U islomni qabul qilib, Zuhra ismini olgan. Mutaassiblar tahdidi tufayli ajralishgan, Zuhra oʻgʻli Gʻiyos bilan Tambovga ketgan [ENWIKI]. Topwar uchta nikoh haqida yozadi va rus xotinini Kseniya deb ataydi [TOPWAR]. 1922 yoki 1923-yilda Zaynab (Zina) Ahmadjonova (yoki Fayzullina) bilan turmush qurgan. Oʻgʻli Abbos Ikkinchi jahon urushida halok boʻlgan [ENWIKI]. UZWIKI xotinini «Komilaxon», oʻgʻlini «Abbosxon» deb ataydi.
 
@@ -48,28 +48,28 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 - **Haj safari.** Yoʻnalishi Afgʻoniston, Hindiston, Makka, Madina, Shom, Bayrut va Istanbul orqali oʻtgan. Sanasi manbalarda turlicha: 1911 [DOLIMOV], 1913-yil fevral [ENWIKI], 1913–1914 [UZWIKI], 1914-yilda qaytgan [TOPWAR]. [TA]dagi «Tasvirda» (1917-yil, mart) gʻazalida kezilgan joylar sanaladi: «Misr, Istambul, Arab, Shom-u Ajam, Kashmirda».
 - **1914.** Margʻilonda maktab ochgan, uni rasmiylar yopgan. Keyin Qoʻqonda kambagʻal va yetim bolalar uchun bepul maktab ochgan [DOLIMOV]. Topwar Margʻilon maktabini 1916-yilga qoʻyadi [TOPWAR]. Isʼhoqxon toʻra Ibrat 1914–1915-yillarda Hamzaning Margʻilondagi maktabini qoʻllab-quvvatlagan (`../mualliflar/ibrat.md`). Yuz.uz maqolasida yetim bolalar maktabi «Dorul aytom» deb ataladi (`../manbalar_web/taʼlim-pedagogika.md`, qidiruv parchasi).
 - **1914.** «Yengil adabiyot» va «Oʻqish kitobi» darsliklari, 1915-yilda «Qiroat kitobi» chiqqan [KARIMOV-ZIYO; ENWIKI]. Shu yili «Sadoyi Turkiston», «Sadoyi Fargʻona» va «Oyina»da maqolalar bosgan, jumladan «Bidʼatmi, maʼjusiyatmi?» [UZWIKI]. Gaspralining vafotiga «Yavmul-vafot» maqolasi va «Marsiya» sheʼrini yozgan [DOLIMOV; UZWIKI]. Shu yili «Devoni Nihoniy» qoʻlyozmasini tuzgan [KARIMOV-ZIYO].
-- **1915.** Qoʻqonda «Gʻayrat» kitobxonasini tashkil etgan [DOLIMOV]. «Yangi saodat» nashr etilgan. Fevralda Avloniyning «Turon» truppasi Qoʻqonda Hamzaning «Zaharli hayot» pyesasini qoʻygan, ruhoniylar bunga qarshi chiqqan [TOPWAR; `../mualliflar/avloniy.md`]. «Milliy ashulalar» toʻplamlarining birinchilari 1915-yil sentabr–oktabrda Qoʻqonda bosilgan (yuz.uz, `../asarlar/hamza-hakimzoda-niyoziy-sherlar.md` orqali).
+- **1915.** Qoʻqonda «Gʻayrat» kitobxonasini tashkil etgan [DOLIMOV]. «Yangi saodat» nashr etilgan. Fevralda «Turon» truppasi (Topwar uni Behbudiy boshchiligidagi teatr deb ham ataydi) Qoʻqonga kelgan. Topwarga koʻra, Hamza bu spektakldan koʻngli toʻlmagan, soʻng «Zaharli hayot»ni oʻzi yozib, **oʻz truppasi** bilan sahnalashtirgan, ruhoniylar bunga qarshi chiqib, otasidan uni laʼnatlashni talab qilgan [TOPWAR]. Khalidga koʻra, «Zaharli hayot»ni Hamzaning oʻz guruhi 1915-yil oktabrida birinchi marta qoʻygan (`../mualliflar/avloniy.md` orqali). «Turon» truppasi «Zaharli hayot»ni qoʻygani haqidagi avvalgi daʼvo manbada tasdiqlanmadi. «Milliy ashulalar» toʻplamlarining birinchilari 1915-yil sentabr–oktabrda Qoʻqonda bosilgan (yuz.uz, `../asarlar/hamza-hakimzoda-niyoziy-sherlar.md` orqali).
 - **1915–1916.** Munavvar qori Hamzaga uchta xat yozgan (1915-yil 4–5-noyabr; 1916-yil 1- va 17-yanvar). Ularda «Feruzaxonim», «Turdiqul», «Ikki maktub», «Marhabo» asarlari haqida muharrirlik maslahatlari bor. 1916-yil mayda Hamza «Namuna» va «Xoniya» maktablari imtihonlariga taklif qilingan [Xolboyev; `../mualliflar/munavvarqori.md`].
 - **1916.** Mardikorlik voqealari. [TA]dagi «Sogʻinib» va «Salom ayting» mardikor tilidan yozilgan.
 
 ### 1917-yil
 
 - Fevral inqilobidan keyin «Kengash» jurnalini chiqargan: «„Kengash“ isminda jurnal chiqardim.». Keyin «o‘zim alohida tashkilot ochib, „Hurriyat“ jurnali chiqardim.» [DOLIMOV]. Wikisource maʼlumotiga koʻra, «Kengash» Qoʻqonda 3–4 son chiqqan, noshiri muallimlar jamiyati boʻlgan (`../manbalar_web/matbuot-maktab-teatr.md`).
-- «Shoʻroi islom» tashkilotining ozuqa shuʼbasida mirza boʻlgan [UZWIKI]. «Ittihod taʼmin jamiyati»ni tuzgan, mayda Qalandarxonada ishchilar yigʻilishini oʻtkazgan. 1917-yil oktabridan 1918-yil martigacha yashirinib yurgan [DOLIMOV].
-- «Turkiston muxtoriyatina» sheʼri «Ulugʻ Turkiston»da chiqqan (1917 [UZWIKI]; 1918 [DOLIMOV]). «Muxtoriyat yoki avtonomiya» sahna asarini yozgan [KARIMOV-ZIYO]. [TA]da 1917-yilgi «Shundoq qolurmu?!» ashulasi bor.
+- «Shoʻroi islom» tashkilotining ozuqa shuʼbasida mirza boʻlgan [UZWIKI]. «Ittihod taʼmin jamiyati»ni tuzgan, 1917-yil 28-mayda Qalandarxonada ishchilar yigʻilishini oʻtkazgan. 1917-yil oktabridan 1918-yil 10-martigacha Turkiston shahrida yashirinib yurgan [DOLIMOV].
+- «Turkiston muxtoriyatina» sheʼri «Ulugʻ Turkiston»da chiqqan. UZWIKI uni 1917-yil 25-aprel soniga qoʻyadi. Dolimovga koʻra, sheʼr 1917-yil 27-noyabrda Turkiston muxtoriyati eʼlon qilingach yozilgan va gazetaning 1918-yil 11-yanvar sonida bosilgan [DOLIMOV]. Muxtoriyat noyabrda eʼlon qilingani uchun UZWIKIdagi aprel sanasi shubhali. «Muxtoriyat yoki avtonomiya» sahna asarini yozgan [KARIMOV-ZIYO]. [TA]da 1917-yilgi «Shundoq qolurmu?!» ashulasi bor.
 
 ### Sovet davri (1918–1929)
 
-- **1918.** Fargʻona viloyati madaniy-maorif boʻlimida ishlagan [KARIMOV-ZIYO]. Skobelda (Fargʻonada) havaskorlar truppasini tuzgan, uning birinchi spektakli 1918-yil 1-mayda boʻlgan [DOLIMOV; TOPWAR]. «Boy ila xizmatchi», «Tuhmatchilar jazosi», «Kim toʻgʻri?», «Ishchilar hayotidan» pyesalarini yozgan [KARIMOV-ZIYO].
-- **1919.** Turkiston fronti siyosiy boʻlimi qoshidagi «Harbiy musulmon siyosiy truppasi»ning direktori boʻlgan [KARIMOV-ZIYO; RUWIKI].
+- **1918.** Fargʻona viloyati madaniy-maorif boʻlimida ishlagan [KARIMOV-ZIYO]. Hamzaning oʻz soʻziga koʻra, Skobelda (Fargʻonada) «teatr to‘dasi tuzdim» [DOLIMOV]. Topwarga koʻra, havaskorlar truppasining birinchi spektakli 1918-yil 1-mayda boʻlgan [TOPWAR]. Naim Karimov esa bu truppani «Skobil (Farg‘ona) sayyor truppasi» deb ataydi, uning rahbari Gʻafur Musaxonov boʻlgan, Hamza esa unda dramaturg, rejissyor va suflyor sifatida ishlagan [KARIMOV-ZIYO]. Truppa asoschisi masalasi bahsli. «Boy ila xizmatchi», «Tuhmatchilar jazosi», «Kim toʻgʻri?», «Ishchilar hayotidan» pyesalarini yozgan [KARIMOV-ZIYO].
+- **1919.** Turkiston fronti siyosiy boshqarmasi ixtiyoridagi «O‘lka musulmon siyosiy truppasi»da rejissyor boʻlgan [KARIMOV-ZIYO]. RUWIKI Turkiston frontidagi qizil armiya qismlariga xizmat qilgan sayyor truppani tilga oladi, lekin yil koʻrsatmaydi.
 - **1920.** «Dor ush-shafaqa» maktabining mudiri boʻlgan [KARIMOV-ZIYO]. RKP(b) aʼzoligiga oʻtgan [RUWIKI; ENWIKI].
 - **1921.** Buxoroda teatr truppasini boshqargan [KARIMOV-ZIYO]. [TA]dagi «Ruboiylar» (1921-yil, iyul) Fuzuliyga javob tarzida yozilgan.
-- **1921–1924.** Xorazmda kasaba uyushmalarining madaniy-maorif muassasalarini boshqargan. UZWIKIga koʻra, 1923–1924-yillarda Xoʻjaylida qozoq bolalari uchun maktab-internatni boshqargan [KARIMOV-ZIYO; UZWIKI]. [TA]dagi «Ufori buzruk» gʻazali 1922-yilda «Niyoziy» taxallusi bilan yozilgan.
+- **1921–1924.** Xorazmda kasaba uyushmalarining madaniy-maorif muassasalarini boshqargan. UZWIKIga koʻra, 1924-yil iyuligacha Xoʻjaylida qozoq bolalari uchun maktab-internatni boshqargan (boshlanish yili koʻrsatilmagan) [KARIMOV-ZIYO; UZWIKI]. [TA]dagi «Ufori buzruk» gʻazali 1922-yilda «Niyoziy» taxallusi bilan yozilgan.
 - **1924.** Fargʻona maorif qoʻmitasi maorif boʻlimi mudirining oʻrinbosari boʻlgan, Fargʻona sayyor truppasini tuzgan [KARIMOV-ZIYO; DOLIMOV].
 - **1925.** Ishdan boʻshagach, Avval qishlogʻida mahalla rahbari boʻlgan [DOLIMOV].
-- **1926.** Xoʻjaylida bolalar uyini tashkil etgan [RUWIKI; UZWIKI]. 27-fevralda «Oʻzbekiston xalq yozuvchisi» unvonini olgan [DOLIMOV; KARIMOV-ZIYO]. UZWIKI infoboksida bu unvon 1929-yil deb berilgan. «Tarjimai hol»ini yozgan. «Burungi saylovlar» va «Burungi qozilar yoki Maysaraning ishi» pyesalari shu yilga sanaladi [KARIMOV-ZIYO].
+- **1926.** Xoʻjaylida bolalar uyini tashkil etgan [RUWIKI; UZWIKI]. 27-fevralda «Oʻzbekiston xalq yozuvchisi» unvonini olgan [DOLIMOV; KARIMOV-ZIYO; UZWIKI; ENWIKI]. UZWIKI infoboksida bu unvon 1929-yil deb berilgan. RUWIKI unvonni «Народный поэт Узбекской ССР» (xalq shoiri) deb ataydi. «Tarjimai hol»ini yozgan. «Burungi saylovlar» va «Burungi qozilar yoki Maysaraning ishi» pyesalari shu yilga sanaladi [KARIMOV-ZIYO].
 - **1926–1927.** «Paranji sirlaridan bir lavha yoki Yallachilar ishi» (1926 [KARIMOV-ZIYO]; 1927 [ENWIKI; RUWIKI; HAMDAM]) va «Jahon sarmoyasining eng oxirgi kunlari» (1927) pyesalarini yozgan. «Xudosizlar jamiyati»ning oʻzbek boʻlimiga rahbarlik qilgan [ENWIKI].
-- **1928.** May oyida «Tursunoy marsiyasi»ni yozgan [TA]. Avgustda targʻibot ishi uchun Shohimardonga yuborilgan [DOLIMOV; KARIMOV-ZIYO]. Topwarga koʻra, uni Yoʻldosh Oxunboboyev yuborgan [TOPWAR]. UZWIKI Shohimardonga koʻchishni 1925-yilga qoʻyadi.
+- **1928.** May oyida «Tursunoy marsiyasi»ni yozgan [TA]. Avgustda targʻibot ishi uchun Shohimardonga yuborilgan [DOLIMOV; KARIMOV-ZIYO]. Topwarga koʻra, uni Yoʻldosh Oxunboboyev yuborgan [TOPWAR]. UZWIKIga koʻra, 1925-yilda Fargʻonaga ishga borgan, 1928-yilda Shohimardonga yuborilgan.
 
 ### Vafoti va undan keyingi taqdiri
 
@@ -79,7 +79,7 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
   - *ENWIKI talqini.* Hamza Hazrat Ali qabri deb hisoblangan ziyoratgohni buzish uchun guruhni boshlab borgan. Qotillik uchun besh kishi otib tashlangan.
   - *Nabijon Boqiy talqini* («Qizil toshboʻron», 2022): «Qotillik boʻlgan, lekin qotillikni uyushtirganlar boshqa, jazolanganlar boshqa.» [UZWIKI]; «Lekin o‘shanda Hamza bahonasida dindorlar mahv etilgan. Majaqlab, yanchib tashlangan...» (https://www.xabar.uz/uz/madaniyat/hamza-bahonasida-dindorlar-mahv-etilgan-qizil-toshbor).
   - Naim Karimovning «Hamzani kim oʻldirgan yoxud Shohimardonning qora bahori» (1991) maqolasi bor, lekin u ochilmadi (2026-yil 21-oktabrdagi qayta urinishda ham 403). Mazmuni tekshirilmagan.
-- **Ulugʻlash (1929–1991).** Koʻcha (1929), Oʻzbek davlat akademik drama teatri (1931), Qoʻqondagi uy-muzey (1959), Hamza nomidagi Davlat mukofoti (1967–1991), Hamza tumani (1968), metro bekati (1977) uning nomi bilan atalgan [RUWIKI; UZWIKI]. Uning hayoti badiiy asarlarda gavdalantirilgan: Oybek dostoni (1948), Komil Yashin pyesasi (1941) va romani, «Hamza» filmi (1960/1961), «Olovli yoʻllar» teleseriali (1977–1984) [KARIMOV-ZIYO; RUWIKI; ENWIKI].
+- **Ulugʻlash (1929–1991).** Koʻcha (1929), Oʻzbek davlat akademik drama teatri (1931), Qoʻqondagi uy-muzey (1959), Hamza nomidagi Davlat mukofoti (taʼsis etilgan yili: 1967 [UZWIKI]; 1964 [https://en.wikipedia.org/wiki/State_Hamza_Prize]; 1991-yilda bekor qilingan), Hamza tumani (1968), metro bekati (1977) uning nomi bilan atalgan [RUWIKI; UZWIKI]. Koʻcha nomi (1929) faqat UZWIKIda bor. Uning hayoti badiiy asarlarda gavdalantirilgan: Oybek dostoni (1948), Komil Yashin va A. Umariy spektakli (1941), K. Yashin romani (1989), «Hamza» filmi (rejissyor Z. Sobitov; 1960 [KARIMOV-ZIYO], 1961 [RUWIKI]), 16 seriyali «Olovli yoʻllar» filmi (1975–1984 [KARIMOV-ZIYO]; 1977–1984 [umumiy bilim — tekshirilmagan]) [KARIMOV-ZIYO; RUWIKI; ENWIKI].
 - **Qayta baholash (1990–2015).** Shohimardondagi haykal buzilgan. Teatr (2001), Hamza shahri (2012), Hamza tumani (2014) va metro bekati (2015) nomlari oʻzgartirilgan [UZWIKI; RUWIKI; mytashkent.uz]. 2014-yilda «Xalq soʻzi» bahsi boʻlgan (Quronov va Qoʻziyev, pastga qarang). 2019-yilda Fanlar akademiyasi 130 yillik anjuman oʻtkazgan (https://www.academy.uz/uz/page/pdf/hamza-hakimzoda-niyoziy-tavalludiga-bagishlangan-anjuman-bolib-otdi).
 
 ### Xronologiya
@@ -99,16 +99,16 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 | 1911 / 1913–1914 | haj safari: Afgʻoniston, Hindiston, Makka, Madina, Shom, Istanbul (sanasi bahsli) | DOLIMOV; ENWIKI; UZWIKI |
 | 1912 | Aksinya (Zuhra) Uvarova bilan nikoh | ENWIKI |
 | 1914 | Margʻilonda maktab, Qoʻqonda yetimlar uchun bepul maktab; «Yengil adabiyot», «Oʻqish kitobi»; «Devoni Nihoniy» qoʻlyozmasi; «Marsiya» va «Yavmul-vafot» (Gasprali vafotiga); «Bidʼatmi, maʼjusiyatmi?»; «Oʻch»; [TA]dagi «Maktab», «Ramazon» (10-avgust) | DOLIMOV; KARIMOV-ZIYO; UZWIKI; TA |
-| 1915 | «Yangi saodat» nashr etilgan; «Qiroat kitobi»; «Yangi baxt» dostoni; «Gʻayrat» kitobxonasi; «Turon» truppasi Qoʻqonda «Zaharli hayot»ni sahnalashtirgan; «Milliy ashulalar» toʻplamlari chiqa boshlagan | KARIMOV-ZIYO; DOLIMOV; UZWIKI; TOPWAR |
+| 1915 | «Yangi saodat» nashr etilgan; «Qiroat kitobi»; «Yangi baxt» dostoni; «Gʻayrat» kitobxonasi; fevralda «Turon» truppasi Qoʻqonda; «Zaharli hayot» Hamzaning oʻz truppasi tomonidan sahnalashtirilgan (Khalidga koʻra 1915-yil oktabr); «Milliy ashulalar» toʻplamlari chiqa boshlagan | KARIMOV-ZIYO; DOLIMOV; UZWIKI; TOPWAR |
 | 1915-yil noyabr – 1916-yil yanvar | Munavvar qorining «Feruzaxonim» va boshqa asarlar haqidagi xatlari | Xolboyev; `../mualliflar/munavvarqori.md` |
 | 1916 | «Zaharli hayot» Toshkentda nashr etilgan; «Ilm hidoyati», «Mulla Normuhammad domlaning kufr xatosi», «Ochlik qurbonlari»; mardikor qoʻshiqlari, «Erlar / Qizlar», eshon satiralari | KARIMOV-ZIYO; DOLIMOV; TA |
 | 1917 | «Kengash» va «Hurriyat» jurnallari; «Shoʻroi islom»da mirza; «Ittihod taʼmin jamiyati»; «Muxtoriyat yoki avtonomiya»; «Turkiston muxtoriyatina»; «Shundoq qolurmu?!»; oktabrdan yashirinib yurgan | DOLIMOV; UZWIKI; KARIMOV-ZIYO; TA |
-| 1918 | Fargʻonada (Skobel) truppa tuzgan, birinchi spektakl 1-mayda; «Boy ila xizmatchi», «Tuhmatchilar jazosi», «Kim toʻgʻri?»; «Uygʻon» ashulasi | DOLIMOV; TOPWAR; KARIMOV-ZIYO; TA |
+| 1918 | Fargʻonada (Skobel) truppa tuzgan yoki unda ishlagan (bahsli), birinchi spektakl 1-mayda (Topwar); «Boy ila xizmatchi», «Tuhmatchilar jazosi», «Kim toʻgʻri?»; «Uygʻon» ashulasi | DOLIMOV; TOPWAR; KARIMOV-ZIYO; TA |
 | 1918–1920 | «Fargʻona fojiasi» tetralogiyasi (yoʻqolgan) | DOLIMOV; KARIMOV-ZIYO |
-| 1919 | Turkiston fronti «Harbiy musulmon siyosiy truppasi» direktori; «Boy ila xizmatchi» afishasi (25-oktabr); «Xushboʻy gul» | KARIMOV-ZIYO; MELIYEV; RUWIKI |
+| 1919 | Turkiston fronti «O‘lka musulmon siyosiy truppasi»da rejissyor; «Boy ila xizmatchi» afishasi (25-oktabr); «Xushboʻy gul» | KARIMOV-ZIYO; MELIYEV; RUWIKI |
 | 1920 | «Dor ush-shafaqa» maktabi mudiri; RKP(b) aʼzosi | KARIMOV-ZIYO; RUWIKI; ENWIKI |
 | 1921 | Buxoroda teatr truppasi; «Ruboiylar» (Fuzuliyga javob) | KARIMOV-ZIYO; TA |
-| 1921–1924 | Xorazmda madaniy-maorif ishlari; Xoʻjayli internati (1923–1924) | KARIMOV-ZIYO; UZWIKI |
+| 1921–1924 | Xorazmda madaniy-maorif ishlari; Xoʻjayli internati (1924-yil iyuligacha) | KARIMOV-ZIYO; UZWIKI |
 | 1922 | «Ufori buzruk» («Niyoziy» taxallusi) | TA |
 | 1922 / 1923 | Zaynab (Zina) bilan nikoh | ENWIKI |
 | 1924 | Fargʻona maorif boʻlimi mudiri oʻrinbosari; Fargʻona sayyor truppasi | KARIMOV-ZIYO; DOLIMOV |
@@ -144,17 +144,17 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 | «Toshbaqa va chiyon», «Hikoya», «Qimorning boshi», «Toʻgʻrisoʻz bola» | masnaviy shaklidagi masal va hikoyalar | 1914–1915 | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Oʻruk», «Gilos», «Olucha» | mevalar munozarasi | sanasiz | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Ramazon» | ijtimoiy gʻazal | 1914, 10-avgust | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
-| «Marsiya» (Gaspraliga) | marsiya | 1914 | matbuot [DOLIMOV] | yoʻq |
+| «Marsiya» (Gaspraliga) | marsiya | 1914 | «Sadoyi Fargʻona», 1914-yil 28-sentabr [DOLIMOV] | yoʻq |
 | «Yangi baxt» | doston | 1915 | [UZWIKI] | yoʻq |
 | «Milliy ashulalar uchun milliy sheʼrlar majmuasi»: «Oq gul», «Qizil gul», «Atir gul», «Pushti gul», «Sariq gul», «Yashil gul», «Safsar gul»; «Xushboʻy gul» (1919) | ashula sheʼrlari toʻplamlari (7 yoki 8 qism) | 1915–1917 [DOLIMOV]; 1915–1919 [KARIMOV-ZIYO]; 1916–1919 [RUWIKI] | Qoʻqon | yoʻq (alohida); [TA]dagi 1914–1918-yillardagi ashulalarning bir qismi shu toʻplamlardan boʻlishi mumkin [umumiy bilim — tekshirilmagan] |
 | «Bir zarra bormu aql-u hushimiz…», «Erlar / Qizlar», «Bir eshon hazratlari aytalar ekan», «Maktublar» I–IV, «Sogʻinib», «Salom ayting» | satira, munozara, xalq qoʻshigʻi uslubidagi sheʼrlar | 1916 | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Tasvirda» | gʻazal | 1917, mart | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Shundoq qolurmu?!» | ashula | 1917 | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
-| «Turkiston muxtoriyatina» | sheʼr | 1917 [UZWIKI]; 1918 [DOLIMOV] | «Ulugʻ Turkiston» | yoʻq |
+| «Turkiston muxtoriyatina» | sheʼr | 1917-yil 25-aprel soni [UZWIKI]; yozilgan 1917-yil noyabr, bosilgan 1918-yil 11-yanvar [DOLIMOV] | «Ulugʻ Turkiston» | yoʻq |
 | «Uygʻon» | ashula | 1918 | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Ruboiylar» (Fuzuliyga javob) | ruboiy-tazmin | 1921, iyul | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Ufori buzruk» | maqom uchun gʻazal | 1922 | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
-| «Hujum», «Muborak», «Uzilgan chechaklar» | sheʼrlar | 1927–1928 | [UZWIKI] | yoʻq |
+| «Hujum», «Muborak», «Uzilgan chechaklar» | sheʼrlar | 1928 [UZWIKI] | — | yoʻq |
 | «Tursunoy marsiyasi» | marsiya | 1928, may | — | ✔ [TA](../asarlar/hamza-hakimzoda-niyoziy-tanlangan-asarlar.md) |
 | «Yasha, Shoʻro!» | xalq qoʻshigʻi (soʻz va kuy) | — | [ENWIKI] | yoʻq |
 
@@ -172,8 +172,8 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 | asar | janr | yil | nashr joyi | bazada bormi |
 |---|---|---|---|---|
 | «Oʻch» | kichik sahna asari | 1914 [KARIMOV-ZIYO]; taxminan 1915 [DOLIMOV] | — | yoʻq |
-| «Zaharli hayot yoxud Ishq qurbonlari» | 4 pardali drama (fojia) | yozilgan 1915, nashr 1916 | Toshkent, 1916; 1915-yilda Qoʻqonda sahnalashtirilgan | yoʻq |
-| «Feruzaxonim», «Turdiqul», «Ikki maktub», «Marhabo» | sahna asarlari / qoʻlyozmalar (Munavvar qori xatlarida tilga olinadi) | 1915–1916 | — | yoʻq; xatlar → [Xolboyev](../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md) |
+| «Zaharli hayot yoxud Ishq qurbonlari» | 4 pardali drama (fojia) | yozilgan 1915, nashr 1916 | Toshkent, 1916; 1915-yilda Qoʻqonda Hamzaning oʻz truppasi sahnalashtirgan [TOPWAR; Khalid] | yoʻq |
+| «Feruzaxonim», «Turdiqul», «Ikki maktub», «Marhabo» | qoʻlyozmalar (Munavvar qori xatlarida tilga olinadi; xatda «Marhabo» sheʼr, «Turdiqul» va «Ikki maktub» «kitob» deb ataladi [Xolboyev]; «Feruzaxonim»ning janri aniq emas) | 1915–1916 | — | yoʻq; xatlar → [Xolboyev](../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md) |
 | «Ilm hidoyati», «Mulla Normuhammad domlaning kufr xatosi», «Ochlik qurbonlari» | kichik sahna asarlari | 1916 | — | yoʻq |
 | «Loshmon fojiasi» (yoki «Loshman fojialari») | 3 qismli drama, bir parchasi saqlangan | 1916–1918 | — | yoʻq |
 | «Muxtoriyat yoki avtonomiya» | sahna asari | 1917 | — | yoʻq |
@@ -196,7 +196,7 @@ Hamza Hakimzoda Niyoziy shoir, dramaturg, nosir, pedagog, publitsist, bastakor, 
 | «Oʻqish kitobi» | darslik | 1914 | — | yoʻq |
 | «Qiroat kitobi» | darslik | 1915 | — | yoʻq |
 | «Bidʼatmi, maʼjusiyatmi?» | maqola | 1914 | «Oyina» [UZWIKI] | yoʻq |
-| «Yavmul-vafot» | marsiya-maqola (Gasprali vafotiga) | 1914 | [DOLIMOV] | yoʻq |
+| «Yavmul-vafot» | marsiya-maqola (Gasprali vafotiga) | 1914 | «Sadoyi Fargʻona», 1914-yil 24-sentabr [DOLIMOV] | yoʻq |
 | «Bugungi qadrlik kunlar» | maqola | 1917 | «Hurriyat» | yoʻq |
 | «Kengash», «Hurriyat» | jurnallar (muharrir va noshir) | 1917 | Qoʻqon | yoʻq |
 | Kuylar va xalq qoʻshiqlari yozuvlari | musiqa | — | bir qismi «Fargʻona, Buxoro va Xiva qoʻshiqlari» (1931) toʻplamida [RUWIKI] | yoʻq |
@@ -526,15 +526,15 @@ Hamza **ijrochi-muallif** boʻlgan: muallim, hofiz-bastakor, truppa rahbari va a
 
 - **Ismoil Gasprali va tatar-qrim matbuoti.** Hamza 1907-yilda «Vaqt» va «Boqchasaroy» (yaʼni Gaspralining «Tarjimon»i) gazetalarini oʻqigan [DOLIMOV]. ENWIKIga koʻra, aynan «Tarjimon» uni oʻzbek jamiyatining odatlari haqida oʻylashga undagan. 1914-yilda Gaspralining vafotiga «Marsiya» va «Yavmul-vafot» yozgan [DOLIMOV; UZWIKI]. 1908-yilda Namanganda tatar maʼrifatchisi Abdulla Toʻqmullin bilan tanishgan [DOLIMOV].
 - **Munavvar qori Abdurashidxonov.** Hamza uni «пирлардан: муҳтарам устози олий» deb atagan, ular 1908-yil 11-dekabrda tanishgan. 1915–1916-yillarda Munavvar qori Hamzaga uchta xat yozib, «Feruzaxonim», «Turdiqul», «Ikki maktub», «Marhabo» asarlari boʻyicha muharrir sifatida maslahat bergan. U yangi oʻquvchilar uchun «short, interesting tales, such as those about the actions of people and animals» foydaliroq ekanini aytgan (Khalid tarjimasi). 1916-yilda Hamzani imtihonlarga taklif qilgan [Xolboyev; `../mualliflar/munavvarqori.md`; `../manbalar_web/muallif-munavvarqori.md`]. Hamzaning 1914–1915-yillardagi hayvon masallari va «Hissa»li hikoyalari shu tavsiyaga mos keladi. Munavvar qorining «Adibi avval», «Adibi soniy» kitoblarida ham hikoyalar «hissa» bilan tugaydi [Xolboyev]. Bu bevosita taʼsir boʻlishi mumkin, ammo talqin tekshirilmagan.
-- **Abdulla Avloniy.** Hamza Avloniyning «Shuhrat» gazetasini oʻqigan [UZWIKI]. Avloniyning «Turon» truppasi 1915-yil fevralida Qoʻqonda Hamzaning «Zaharli hayot» pyesasini qoʻygan [TOPWAR; `../mualliflar/avloniy.md`]. Khalid ikkalasini musiqa uchun maxsus sheʼr yozgan mualliflar sifatida birga tilga oladi (`../manbalar_web/muallif-avloniy.md`). UzA Qodiriyning «Baxtsiz kuyov» pyesasini xato ravishda Hamzaga nisbat beradi (`../mualliflar/avloniy.md`).
+- **Abdulla Avloniy.** Hamza Avloniyning «Shuhrat» gazetasini oʻqigan [UZWIKI]. Avloniy tuzgan «Turon» truppasi 1915-yil boshida Qoʻqonga gastrolga kelgan. Topwarga koʻra, Hamza shundan keyin «Zaharli hayot»ni yozib, oʻz truppasi bilan sahnalashtirgan [TOPWAR; `../mualliflar/avloniy.md`]. «Turon» bu pyesani qoʻygani tasdiqlanmadi. Khalid ikkalasini musiqa uchun maxsus sheʼr yozgan mualliflar sifatida birga tilga oladi (`../manbalar_web/muallif-avloniy.md`). UzA Qodiriyning «Baxtsiz kuyov» pyesasini xato ravishda Hamzaga nisbat beradi (`../mualliflar/avloniy.md`).
 - **Isʼhoqxon toʻra Ibrat.** 1914–1915-yillarda Hamzaning Margʻilondagi maktabini qoʻllab-quvvatlagan (`../mualliflar/ibrat.md`).
-- **Obidjon Mahmudov.** Hamza bu ilk jadid idorasida mirza boʻlib ishlagan [ENWIKI].
+- **Obidjon Mahmudov.** Hamza ilk oʻzbek jadidlaridan biri boʻlgan Obidjon Mahmudovning idorasida mirza boʻlib ishlagan [ENWIKI].
 - **Muhiddin qori Yoqubov.** ENWIKIga koʻra, Hamza u bilan 1918-yilda oʻzbek teatr truppasiga asos solgan.
 - **Gʻulom Zafariy.** Zafariyning doʻstlar doirasida Hamza ham bor. Ikkalasi ham 1928-yilda oʻldirilgan aktrisa Tursunoy Saidazimova voqeasiga munosabat bildirgan: Zafariy oʻz asarida, Hamza «Tursunoy marsiyasi»da (`../asarlar/olim-usmonov-jadidlar-gulom-zafariy.md`).
 - **Fitrat.** Boltaboyev risolasida B. Qosimovga tayanib yozilishicha, Hamza ham bir muddat Istanbuldagi «Doru-l-voizin» madrasasida oʻqigan, Fitrat esa u yerda dars bergan (`../asarlar/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md`). Shaxsiy muloqotlari haqida bazada maʼlumot yoʻq.
 - **Choʻlpon.** Suvon Meliyevga koʻra, Komil Yashin «Boy ila xizmatchi»ni 1939-yilda qayta tiklaganda Choʻlponning «Kecha va kunduz» romanidan material qoʻshgan [MELIYEV]. Choʻlpon 1934-yildan keyin Hamza nomidagi teatrda ishlagan (`../mualliflar/cholpon.md`). «Burungi qozilar»da «Choʻlponim!» degan bir murojaat bor. Bu xatomi yoki ataylab qilingan ishorami, aniq emas [BQ, «Tadqiqot uchun izohlar» 8].
 - **Mumtoz anʼana.** Fuzuliy taʼsiri «Ruboiylar» (1921) tazminida ochiq koʻrinadi, oʻgʻuzcha shakllar ham shu taʼsir bilan bogʻlanishi mumkin [TA]. RUWIKIga koʻra, ilk sheʼrlarida Muqimiy va Furqat taʼsiri bor.
-- **Jadid adabiyotidagi oʻrni.** Ulugʻbek Hamdam jadidlar orasidagi «vazifa taqsimoti»ni shunday koʻradi: Behbudiy mafkurada, **Hamza dramada**, Fitrat ilmda, Qodiriy nasrda, Choʻlpon sheʼriyatda [HAMDAM]. Bazadagi boshqa kartochkalarda Hamzaning ayol obrazlari va mulla satirasini Qodiriy («Baxtsiz kuyov», «Tinch ish»), Choʻlpon, Fitrat va Tavallo bilan qiyoslash taklif qilinadi.
+- **Jadid adabiyotidagi oʻrni.** Ulugʻbek Hamdam jadidlar orasidagi vazifa taqsimotini shunday koʻradi («Behbudiy asosan mafkurada, Hamza dramada, Fitrat ilmda, Qodiriy nasrda, Cho‘lpon esa she’riyatda»): Behbudiy mafkurada, **Hamza dramada**, Fitrat ilmda, Qodiriy nasrda, Choʻlpon sheʼriyatda [HAMDAM]. Bazadagi boshqa kartochkalarda Hamzaning ayol obrazlari va mulla satirasini Qodiriy («Baxtsiz kuyov», «Tinch ish»), Choʻlpon, Fitrat va Tavallo bilan qiyoslash taklif qilinadi.
 
 ---
 
@@ -542,13 +542,13 @@ Hamza **ijrochi-muallif** boʻlgan: muallim, hofiz-bastakor, truppa rahbari va a
 
 | kim | qayerda | nima degan | manba |
 |---|---|---|---|
-| **Ulugʻbek Dolimov** | «Milliy uygʻonish davri oʻzbek adabiyoti», Toshkent: Maʼnaviyat, 2004 (kh-davron.uz) | «Hamza Turkiston oʻlkasida jadidchilik harakati shakllanayotgan bir pallada badiiy ijodga kirib keldi»; «U novator ijodkor sifatida badiiy adabiyotning hamma turlarida qalam tebratdi»; «Hamza ijodi mustaqillik, istiqlol tufayligina haqiqiy bahosini olmoqda.» Sovet davrida asarlari «pardoz» qilingani va qayta yozilganini taʼkidlaydi. | DOLIMOV |
+| **Ulugʻbek Dolimov** | maqola, kh-davron.uz («Milliy uygʻonish davri oʻzbek adabiyoti», Toshkent: Maʼnaviyat, 2004 — kitob nomi sahifada koʻrsatilmagan [umumiy bilim — tekshirilmagan]) | «Hamza Turkiston oʻlkasida jadidchilik harakati shakllanayotgan bir pallada badiiy ijodga kirib keldi»; «U novator ijodkor sifatida badiiy adabiyotning hamma turlarida qalam tebratdi»; «Hamza ijodi mustaqillik, istiqlol tufayligina haqiqiy bahosini olmoqda.» Sovet davrida asarlari «pardoz» qilingani va qayta yozilganini taʼkidlaydi. | DOLIMOV |
 | **Naim Karimov** | ziyouz.com maqolasi; 5 jildli «Toʻla asarlar toʻplami» masʼul muharriri (1988–1989) | «Hamza mazkur majmualari (8 bo‘limdan iborat) bilan o‘zbek she’riyatiga yangi mazmun va yangi g‘oyalar olib kirgan»; «Yangi saodat» haqida: «lekin bu asar aslida ma’rifatparvarlik g‘oyalari bilan sug‘orilgan qissa bo‘lib»; keyingi ijodi haqida: Hamza «avval erishgan badiiyat marralarini ham boy bera boshlagan»; sovet davrida «asoschisi sifatida ko‘kka ko‘tarilgan». | KARIMOV-ZIYO; ENWIKI |
 | **Ulugʻbek Hamdam** | «Hamza – yangi oʻzbek adabiyoti asoschilaridan birimi?» (uza.uz, daryo.uz, 2018) | «Hamza ana shu hodisaning boshida turdi va o‘z dramatik asarlari bilan o‘zbek dramaturgiyasiga asos soldi.»; «Hamza ham o‘zbek dramaturgiyasi asoschisi degan unvonga shunchalar haqdor va munosib bo‘lib ko‘rinadi.» Ayrim sheʼrlarining shoshilinch va notekis ekanini aytadi. | HAMDAM |
 | **Suvon Meliyev** | «“Boy ila xizmatchi” yoki tiklangan nusxa muammosi» (1989) | Komil Yashinning tiklashida Hamzaning boshqa asarlaridan va Choʻlpon romanidan material qoʻshilganini koʻrsatadi: «tiklangan nusxa faqat tiklangan davri mahsuli va shu davrning hujjati sifatida tan olinishi darkor.»; «Adabiyotdagi erkinlik birinchi navbatda tanqid erkinligidir.» | MELIYEV |
 | **Miraziz Aʼzam** | (UZWIKI parafrazi) | Komil Yashin Hamza ijodini targʻib qilishda katta rol oʻynagan, lekin uni «buzib koʻrsatishga ham oʻz hissasini qoʻshgan». | UZWIKI |
-| **Muhammad Quronov** | «Tarixiy haqiqatni qaror toptirish – muhim maʼnaviy vazifa», «Xalq soʻzi», 2014-yil 28-avgust | «sho‘ro davrida nashr qilingan tadqiqotlarda Hamza haqida rost gapdan ko‘ra, yolg‘on va uydirma ko‘p.» | https://www.ozodlik.org/a/26554151.html |
-| **Rauf Qoʻziyev** | Quronovga javob (2014) | «Hamza merosini unutish mumkin emas» | https://www.ozodlik.org/a/26554151.html |
+| **Muhammad Quronov** | «Tarixiy haqiqatni qaror toptirish – muhim maʼnaviy vazifa», «Xalq soʻzi», 2014-yil 28-avgust | Ozodlik bayonida (bevosita iqtibos emas): «sho‘ro davrida nashr qilingan tadqiqotlarda Hamza haqida rost gapdan ko‘ra, yolg‘on va uydirma ko‘p.» Gazeta sanasi (28-avgust) Ozodlik sahifasida tasdiqlanmadi. | https://www.ozodlik.org/a/26554151.html |
+| **Rauf Qoʻziyev** | Quronovga javob (2014) | Ozodlik bayonida (bevosita iqtibos emas): «Hamza merosini unutish mumkin emas» | https://www.ozodlik.org/a/26554151.html |
 | **Nabijon Boqiy** | «Qizil toshboʻron» (hujjatli roman, «Yangi asr avlodi», 2022) | «Hamzaning oʻlimiga dindorlarning aloqasi yoʻq.» | UZWIKI; xabar.uz |
 | **Edward Allworth** | «Uzbek Literary Politics» (1964); «“Shohimardon”: Forging a link in the Chain of Soviet Uzbek literary orthodoxy», *Central Asian Survey* (1984 [umumiy bilim — tekshirilmagan]) | Hamza sovetlar uchun oʻlimidan keyin foydaliroq boʻlgan, chunki uning oʻlimi «shahid» haqidagi rivoyatga xizmat qilgan. Ayrim muhojirlar uni «isloh qilingan jadid» deb biladi. | ENWIKI; https://www.tandfonline.com/doi/abs/10.1080/02634938408400455 |
 | **Adeeb Khalid** | *The Politics of Muslim Cultural Reform* (1998) va keyingi ishlar (1999, 2015) | Zamonaviy Oʻrta Osiyo adabiyotini Hamzasiz tasavvur qilish qiyin (1999). Hamza 1929-yilda oʻlmaganida qatagʻon qilingan boʻlardi degan daʼvoni keltiradi (2015). Sovet tarixnavisligi Hamza, Avloniy va Qodiriyni «highly tendentious biographies» bilan taqdim etgan. Hamzaning keskin tilini Behbudiy va Munavvar qorining ehtiyotkor ohangi bilan qiyoslaydi. | ENWIKI; `../manbalar_web/muallif-avloniy.md`; `../manbalar_web/muallif-munavvarqori.md` |
@@ -639,3 +639,27 @@ Hamza **ijrochi-muallif** boʻlgan: muallim, hofiz-bastakor, truppa rahbari va a
 23. A. F. Gʻuney dissertatsiyasi (2007), Marmara universiteti (2026-yil oktabrda koʻrildi): https://openaccess.marmara.edu.tr/entities/publication/3497997a-1471-4268-9166-513e38506573
 24. S. Baratova (oriens.uz, faqat qidiruv parchasi): https://oriens.uz/media/journalarticles/41_Sevara_Baratova_300-304.pdf
 25. A. Khalid, *The Politics of Muslim Cultural Reform* (1998): http://ark.cdlib.org/ark:/13030/ft8g5008rv
+
+---
+
+## Tekshiruv qaydlari
+
+*2026-yil 21-oktabrdagi adversarial tekshiruv.* Kitoblardan olingan barcha «…» iqtiboslar (TA, SH, BQ) `_holat/chunks/` dagi matnlar bilan dastur yordamida harfma-harf solishtirildi: hammasi manbada bor. «Mubtalo qildi bani» (1907), «Bu falak» va «Iqbolim» (1911), «Maktab», «Oʻqi!», «Ilm ista» (1914), «Ramazon» (1914-yil, 10-avgust), «Tasvirda» (1917-yil, mart), «Uygʻon» (1918), «Ufori buzruk» (1922), «Tursunoy marsiyasi» (1928-yil, may) sanalari [TA] matnida tasdiqlandi. Munavvar qorining xatidan iqtibos va 1916-yil 7–12-maydagi imtihonga taklif [Xolboyev] matnida, «Doru-l-voizin» haqidagi maʼlumot Boltaboyev risolasida tasdiqlandi. Veb-manbalardan UZWIKI, RUWIKI, ENWIKI, DOLIMOV, KARIMOV-ZIYO, TOPWAR, MELIYEV, HAMDAM va Ozodlik sahifalari qayta ochildi.
+
+**Tuzatildi:**
+1. **«Zaharli hayot» va «Turon».** Avval «Turon» truppasi 1915-yil fevralida Hamzaning «Zaharli hayot»ini qoʻygan deyilgan edi. Topwarda bunday gap yoʻq: unda «Turon» kelgani, Hamza spektakldan koʻngli toʻlmagani, keyin «Zaharli hayot»ni oʻz truppasi bilan qoʻygani aytiladi. Khalidga koʻra, birinchi spektakl 1915-yil oktabrida boʻlgan. Hayot yoʻli, xronologiya, dramaturgiya jadvali va Avloniy bandida tuzatildi.
+2. **1919-yilgi lavozim.** «Harbiy musulmon siyosiy truppasi direktori» oʻrniga Karimovdagi «O‘lka musulmon siyosiy truppasida rejissyor» yozildi. RUWIKI bu lavozimga yil bermaydi.
+3. **Skobel truppasi.** 1-may sanasi faqat Topwarda bor, Dolimovdan olib tashlandi. Karimovning versiyasi qoʻshildi: truppa rahbari Gʻ. Musaxonov boʻlgan, Hamza unda dramaturg, rejissyor va suflyor sifatida ishlagan.
+4. **«Turkiston muxtoriyatina».** «1918 [DOLIMOV]» aniqlashtirildi: Dolimovga koʻra, sheʼr 1917-yil noyabrida yozilgan va 1918-yil 11-yanvarda bosilgan. UZWIKI 1917-yil 25-aprel sanasini beradi.
+5. **UZWIKIga notoʻgʻri nisbat berilgan gaplar.** UZWIKI Shohimardonga koʻchishni 1925-yilga qoʻymaydi: 1925-yil Fargʻonaga, 1928-yil Shohimardonga. Xoʻjayli internati «1923–1924» emas, «1924-yil iyuligacha». «Hujum» va boshqa sheʼrlar 1927–1928 emas, 1928-yil.
+6. **Onasi.** Dolimovdagi variant qoʻshildi: tugʻilgan yili nomaʼlum, vafoti 1910-yil. UZWIKI 1858–1903-yillarni beradi.
+7. **Davlat mukofoti.** Taʼsis etilgan yil bahsli: 1967 [UZWIKI], 1964 [ENWIKI, State Hamza Prize]. 1991-yilda bekor qilingan.
+8. **Badiiy asarlar.** Karimovdan qoʻshildi: K. Yashin romani 1989-yilda chiqqan, «Olovli yoʻllar» 1975–1984-yillarda olingan, «Hamza» filmi rejissyori Z. Sobitov.
+9. **Unvon nomi.** RUWIKIdagi «народный поэт» varianti qoʻshildi. ENWIKI va UZWIKI «xalq yozuvchisi» deydi.
+10. **Kichik tuzatishlar.** Qalandarxonadagi yigʻilish 1917-yil 28-mayda boʻlgan. Hamza 1918-yil 10-martigacha Turkiston shahrida yashiringan. «Marsiya» 1914-yil 28-sentabrda, «Yavmul-vafot» 24-sentabrda «Sadoyi Fargʻona»da bosilgan. Munavvar qori xatida «Marhabo» sheʼr deb ataladi, sahna asari emas. Obidjon Mahmudov haqidagi jumla aniqlashtirildi.
+11. **Iqtibos maqomi.** Quronov va Qoʻziyev soʻzlari Ozodlik muxbirining bayoni sifatida belgilandi, ular bevosita iqtibos emas. Hamdamdagi «vazifa taqsimoti» uning soʻzi emas edi: qoʻshtirnoq olib tashlandi va asl jumla berildi.
+
+**Bahsli boʻlib qolganlar:** tugʻilgan kun (6 yoki 7-mart); otasining yillari (1840–1922 yoki 1836–1920); haj sanasi (1911, 1913 yoki 1913–1914); Margʻilon maktabi (1914 yoki 1916); madrasa yillari (1896 yoki 1899); unvon yili UZWIKI infoboksida (1929); «Devoni Nihoniy»dagi sheʼrlar soni (214, 177 yoki 197); «Paranji sirlari…» yili (1926 yoki 1927); «gul» toʻplamlari soni va yillari; Xoʻjayli bolalar uyi (1926), ayni paytda Dolimovga koʻra Hamza 1925-yil avgustdan Avval qishlogʻida ishlagan; oʻlim sabablari va aybdorlar.
+
+**Tekshirilmagan:** Allworthning *Central Asian Survey*dagi maqolasi va yili (sahifa ochilmadi, 403); Dolimov kitobining nomi va nashri; Karimovning 1991-yilgi maqolasi va aniq.uz sud materiallari; Arboblar.uz, Sputnik, Eurasia Expert, mytashkent.uz, academy.uz, gov.uz, Gʻuney dissertatsiyasi va oriens.uz maʼlumotlari bu safar qayta ochilmadi; xabar.uz sahifasi boʻsh qaytdi; Hamdam maqolasining daryo.uz nashri (kh-davron.uz: 2018-yil 17-mart, manba uza.uz); Munavvar qori xatlarining aniq sanalari (Xolboyev matnida sana yoʻq, `munavvarqori.md`ga tayanadi); Ibratning Margʻilon maktabini qoʻllab-quvvatlagani (`ibrat.md`ga tayanadi).
+

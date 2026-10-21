@@ -542,3 +542,41 @@ ilmi zamoniy, zamoncha, taraqqiy, maorif, millat, hamiyyat, gʻayrat, agʻniyo, 
 - https://ru.wikisource.org/wiki/Аскалонский_злодей_(Лесков)
 - https://islamansiklopedisi.org.tr/recaizade-mahmud-ekrem
 - https://president.uz/oz/lists/view/7797
+
+---
+
+## Tekshiruv qaydlari
+
+*Tekshiruv sanasi: 2026-yil 21-oktabr. Usul: fayldagi «…» ichidagi barcha iqtiboslar (200 dan ortiq) `_holat/chunks/` papkasidagi Behbudiy matnlari, antologiya va Abdurashidov risolasi bilan avtomatik solishtirildi (apostrof shakllari normallashtirilgan holda). Asosiy biografik sanalar Abdurashidov 2024 matni, antologiya tarjimai holi, asar kartochkalari va veb-manbalar bilan qiyoslandi.*
+
+### Tuzatilganlar
+
+1. **Haj/safar marshruti (1914).** Avval «Quddus (21-iyun)» deyilgan edi. Abdurashidovda: «Yana Istanbulga qaytib, 21 iyunda suv yo‘li bilan Quddusga yo‘l oladi». Yaʼni 21-iyun Quddusga yetib borilgan emas, yoʻlga chiqilgan sana. Matn tuzatildi.
+2. **«Oyna» mualliflarining ketishi.** Avval «1915-yildan Tavallo, Hoji Muin, Vasliy va Ajziy…» deyilgan edi. Abdurashidov aniq yil bermaydi, faqat jurnalning «so‘nggi sonlari»da avval Tavallo, keyin samarqandlik ziyolilar «qalam»larini toʻxtatganini yozadi. Yil olib tashlandi.
+3. **«Bir vafolik zaifaning xususida»dagi «mazkur» soni.** Avval «76 marta» deyilgan edi. Bazadagi matnda (`chunks/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida__01.txt`) bu soʻz alohida soʻz sifatida 91 marta uchraydi. Raqam tuzatildi. «va» uchun «kamida 496» (hisobda 524) va «bechora» uchun «100 dan ortiq» (hisobda 124) degan maʼlumotlar toʻgʻri chiqdi.
+4. **Nijniy Novgorod qurultoyi.** Rossiya musulmonlarining III qurultoyi 1906-yil 16–21-avgustda (eski uslub) boʻlgani haqidagi maʼlumot qoʻshildi (TDV va dialnet, qidiruv parchalari). Abdurashidovdagi «23-avgust» tasdiqlanmadi.
+5. **Qatl sanasi.** Ingliz Vikipediyasida 25-mart vafot sanasi sifatida berilgani qoʻshildi (Abdurashidovda 25-mart hibs sanasi).
+6. **Fitrat sheʼrining sarlavhasi.** Ikki shakl bor: «Behbudiyning sag‘anasini izladim» (Abdurashidov 2024) va «Behbudiyning sagʻanasin izladim» (wikisource.org). Ikkalasi ham koʻrsatildi.
+
+### Tasdiqlanganlar (asosiylari)
+
+- Barcha verbatim iqtiboslar (Behbudiy matnlari, Abdurashidov, antologiya, «Padarkush», tarjima-moslashtirmalar) manba matnlarida harfma-harf topildi (apostrof shakllari bundan mustasno). Qavs ichidagi nashriyot tiklashlari, masalan «(ng)», ham manbaga mos keladi.
+- Abdurashidov 2024 matnida quyidagilar tasdiqlandi: 19-yanvar 1875 (Hoji Muin) va 30-yanvar 1874 (S. Ahmedov); Baxshitepa va Yomini mahallasi; onasi 1893-yilda, otasi 1894-yilda vafot etgani; toʻrt oʻgʻil va bir qiz; Chashmaob va Kobud volostlari; 1916-yilgacha muftilik; 1899–1900 haji va «1318» iqtibosi; 1903–1904-yillarda Moskva va Peterburg; 1903-yilda Halvoyi va Rajabamin maktablari; darsliklar yillari (1904, 1905, 1905, 1908, 1908, 1909); «Kitobat ul-atfol»ning 18 moddasi va 1914-yilgi 2-nashri; kutubxona (11.09.1908, «Yangi rasta», 27 bob, 3 soʻm, 200/225 jild, 1910-yilgi «kofirxona» fatvosi, 1914-yil boshidan keyin hovliga koʻchirilgan); nashriyot 1908–1915; «Samarqand» gazetasi (1913, apreldan, haftada 2 marta, 45 son); «Oyna» (20.08.1913 – 15.06.1915, 68 son, toʻrt tilli nom); Toshkentdagi spektakl (27.02.1914, Kolizey); 1917-yil 16–23-aprel va 26-noyabr; 25-mart 1919; 1920-yil apreli; Qarshi 1926–1937-yillarda; «Tarjimon»dagi 26 xabar, 4 maktub va hokazo.
+- Antologiya tarjimai holi: Qozon va Ufa (1903–1904), 300 ga yaqin maqola, Muhammadqul va Mardonqul, «Oyna» sonlari va betlari (21-son 390–391; 41-son 970–972; 1913, 1-son 12–14; 1914, 32-son; 1915, 13-son).
+- Leskovning «Аскалонский злодей» qissasi 1889-yilda nashr etilgan (ru.wikisource: «Опубл.: 1889»).
+- 2025-yil 3-yanvardagi Prezident qarori (president.uz, kun.uz, fledu.uz).
+- Allworthning «The Beginnings of the Modern Turkestanian Theater» maqolasi *Slavic Review*da chiqqan (cambridge.org).
+
+### Bahsli yoki tekshirilmagan maʼlumotlar
+
+- **Tugʻilgan sana**: 19-yanvar 1875, 20-yanvar 1875, 30-yanvar 1874 va «1874 yil mart». Bahsli boʻlib qoladi. Hijriy 1291-yil 10-zulhijjani milodiy sanaga oʻgirish [umumiy bilim — tekshirilmagan].
+- **Nijniy qurultoyi**: 1906 yoki 1907. Behbudiyning oʻzi keltirgan hijriy 1325-yil 1907-yilga toʻgʻri keladi. Qurultoyning hujjatli sanasi esa 1906-yil.
+- **Samarqanddagi ilk spektakl**: 15-yanvar 1914 (Xolid, Qosimov) yoki 25-yanvar 1914 (ziyouz, en.wiki). Veb-qidiruvda mustaqil tasdiq topilmadi.
+- **25-mart 1919**: hibs sanasimi (Abdurashidov, Qosimov) yoki qatl sanasimi (en.wiki). Iranicada aytilgan «ikki oylik qiynoq» faqat qidiruv parchasidan olingan, sahifa ochilmadi (403).
+- **«Ishtirokiyun» gazetasini tashkil qilish (1918)** va **1907-yilgi «Turkiston madaniy muxtoriyati» loyihasi** faqat uz.wikipedia’ga tayanadi. Ikkinchi mustaqil manba topilmadi.
+- **1937-yildagi taqiq va 1956-yilgi tiklanish** faqat ru.wikipedia’ga tayanadi.
+- **Darsliklar yillari boʻyicha en.wiki variantlari** («Muntaxab» 1903, «Tarixi islom» 1904, «Rusiya jugʻrofiyasi» 1908) Abdurashidov va antologiyaga zid. Asosiy matnda mahalliy manbalar sanasi qoldirildi.
+- **Samoylovichning «Dramaticheskaia literatura sartov» (1916)** maqolasi va **Dudoignon taqrizi** faqat `muallif-behbudiy.md`dagi havolalar orqali olingan. Mustaqil tekshirilmadi.
+- **Adib Xolid iqtiboslari** («most respected Jadid», «first playwright», «counterpart») `manbalar_web/` qaydlaridan olingan. Kitob matni bilan qayta solishtirilmadi.
+- **«O‘zbek adabiyoti» (Qozon, 1929) kirill iqtibosi** va **UzA’dagi teatr haqidagi kirill iqtibosi** veb-manbadan olingan. Ular qayta ochib tekshirilmadi.
+- **«Oq yelpogʻichli chinli xotun»ning ochilish jumlasi** WebFetch orqali olingan. Harfma-harf tekshirilmagan, bu maʼlumot «Manbalar» boʻlimida allaqachon qayd etilgan.

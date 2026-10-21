@@ -19,7 +19,7 @@ Abdurauf Fitrat buxorolik shoir, nosir, dramaturg, publitsist, adabiyotshunos, t
 - **Toʻliq ismi:** Abdurauf Abdurahim oʻgʻli Fitrat (uz.wiki; Boltaboyev). Rus Vikipediyasi sarlavhasida «Abdurahmon oʻgʻli» deyilgan, lekin shu maqolaning matnida otasi Abdurahim deb berilgan (`muallif-fitrat.md`, 1-boʻlim).
 - **«Fitrat»** soʻzi «tugʻma isteʼdod, insonga Alloh bergan yaratuvchilik qobiliyati» maʼnosini anglatadi (Boltaboyev 2024).
 - **«Mijmar»** («choʻgʻdon», xushboʻy narsa tutatiladigan idish) taxallusi bilan talabalik yillarida gʻazallar yozgan. Bu maʼlumotning manbasi Hoji Neʼmatulloh Muhtaramning «Tazkiratu-sh-shuaro» asari (Dushanbe, 1975), u Boltaboyev orqali keltirilgan. Ingliz Vikipediyasi ham buni tasdiqlaydi.
-- Oʻzbek Vikipediyasiga koʻra, Istanbul dorilfununining oʻqituvchilari unga «Fitrat — Donishmand» unvonini bergan.
+- Oʻzbek Vikipediyasiga koʻra, Istanbul dorilfununining oʻqituvchilari unga «Fitrat — Donishmand» taxallusini bergan (uz.wiki «taxallus» deydi, «unvon» emas; boshqa manbada tasdigʻi topilmadi).
 - Boshqa yashirin imzolari haqida oʻqilgan manbalarda maʼlumot topilmadi. «Qalandar» imzosi Fitratniki emas, Choʻlponniki: Choʻlpon shu imzo bilan «Abo Muslim»ga taqriz yozgan.
 
 ### Tugʻilishi va oilasi
@@ -27,7 +27,7 @@ Abdurauf Fitrat buxorolik shoir, nosir, dramaturg, publitsist, adabiyotshunos, t
 - **Tugʻilgan joyi:** Buxoro. Bunda barcha manbalar bir xil.
 - **Tugʻilgan yili:** 1886-yil. Buni en.wiki, zamin.uz, yuz.uz va Boltaboyev («hijriy 1304») beradi. 1937-yil 22-iyuldagi mahbus anketasida ham 1886-yil yozilgan (zamin.uz). Uz.wiki infoboksi va ru.wiki 1885-yilni ham keltiradi. Ingliz Vikipediyasiga koʻra, Fitratning oʻzi 1884-yilni koʻrsatgan.
 - **Otasi** Abdurahimboy sarrof, keyinroq savdogar boʻlgan. Boltaboyev uni «savdogarchilik bilan mashg‘ul bo‘lgan ziyoli shaxs» deb taʼriflaydi. Oʻzbek Vikipediyasiga koʻra, u 1918-yilgacha Qashgʻarda yashagan.
-- **Onasi** Bibijon. Toʻliq ismi manbalarda turlicha: uz.wiki va yuz.uz «Nastarbibi», ru.wiki va Boltaboyev «Mustafbibi / Mustafo-bibi» deydi. Boltaboyevga koʻra, «noziktab’ ayol» boʻlgan va oʻgʻlida sheʼrga havasni uygʻotgan. Uz.wiki uning oʻgʻlini Navoiy, Uvaysiy, Zebunniso, Bedil va Fuzuliy sheʼrlari bilan tanishtirganini yozadi.
+- **Onasi** Bibijon. Toʻliq ismi manbalarda turlicha: yuz.uz «Nastarbibi»; uz.wiki matnida «Mustab Bibi», infoboksida «Nastarbibi» va «Mustafbibi»; ru.wiki «Мустафо-биби (Бибиджон)»; Boltaboyev «Mustaf bibi (oilada uni Bibijon deb atashgan)». Boltaboyevga koʻra, «noziktab’ ayol» boʻlgan va oʻgʻlida sheʼrga havasni uygʻotgan. Uz.wiki uning oʻgʻlini Navoiy, Uvaysiy, Zebunniso, Bedil va Fuzuliy sheʼrlari bilan tanishtirganini yozadi.
 - **Ukasi** Abdurahmon Kogon bosmaxonasida harf teruvchi boʻlgan va Istanbuldagi akasiga pul yuborib turgan (singlisi Mahbuba Rahim qizining xotirasi).
 - **Singlisi** Mahbuba Rahim qizi 1920-yillarning shoirasi boʻlgan. Uning xotiralari Fitrat biografiyasining muhim manbalaridan biri.
 - **Nikohlari.** Uz.wiki uchta nikohni keltiradi: birinchi xotini bilan ajrashgan, ikkinchisi vafot etgan, uchinchisi Fotima Burhonova. En.wiki 1920-yillarning oxirida Fotimaxonga uylanganini, keyin Hikmat ismli xotini va Sevar ismli qizi bilan yashaganini aytadi. **Hikmatoy Fitratova (Qandova)** 1912-yilda tugʻilgan va 1932-yilda Fitratga turmushga chiqqan. Qizi **Sevara** 1937-yilda yetti yoshda boʻlgan (zamin.uz).
@@ -48,7 +48,7 @@ Abdurauf Fitrat buxorolik shoir, nosir, dramaturg, publitsist, adabiyotshunos, t
 
 ### Samarqand va Toshkent (1917–1920)
 
-- **«Hurriyat»** gazetasining muharriri boʻlgan. Sonlari manbalarda turlicha: 26–85 (Boltaboyev) yoki 27–87 (uz.wiki). Gazeta 1917-yil 15-apreldan Mardonqul Muhammadzoda muharrirligida chiqqan, Fitrat iyuldan muharrir boʻlgan (Boltaboyev). Gazetada uning oʻttizdan ortiq maqolasi, sochmasi va sheʼri chiqqan. Birinchi imzoli maqolasi «Ittifoq boʻlayluk». «Buxoroda inqilob» turkumining birinchi qismi chiqqach, gazeta yopilgan.
+- **«Hurriyat»** gazetasining muharriri boʻlgan. Sonlari manbalarda turlicha: 26–85 (Boltaboyev) yoki 27–87 (uz.wiki). Gazeta 1917-yil 15-apreldan Mardonqul Muhammadzoda muharrirligida chiqqan, Fitrat iyuldan muharrir boʻlgan (Boltaboyev). En.wiki muharrirlik boshlanishini 1917-yil avgust (27-son) deydi, ru.wiki esa 1918-yil martigacha davom etganini yozadi. Gazetada uning oʻttizdan ortiq maqolasi, sochmasi va sheʼri chiqqan. Birinchi imzoli maqolasi «Ittifoq boʻlayluk». «Buxoroda inqilob» turkumining birinchi qismi chiqqach, gazeta yopilgan.
 - 1917-yil 27-noyabrda eʼlon qilingan Turkiston muxtoriyatini «milliy laylatulqadrimiz» deb olqishlagan.
 - 1917-yil oxirida Usmonxoʻja oʻgʻli bilan birga Yosh buxoroliklarning islohot dasturini tuzgan. Dastur amir boshchiligidagi konstitutsiyaviy monarxiyani nazarda tutgan (en.wiki).
 - 1918-yil martida Toshkentga koʻchgan. Shu yili **«Chigʻatoy gurungi»**ni tuzgan. Turkiston Xalq dorilfununida Adabiyot va falsafa shoʻbasini boshqargan, bunga Munavvarqori taklif qilgan (Boltaboyev). Botuning 1931-yilgi koʻrsatmasiga koʻra, Fitrat bu paytda «chig‘atoy tili va chig‘atoy adabiyotini targ‘ib qilar edi» va «avval — madaniyat, keyin — mustaqillik» deb aytar edi (`muallif-botu.md`, N. Karimov orqali).
@@ -67,7 +67,7 @@ Abdurauf Fitrat buxorolik shoir, nosir, dramaturg, publitsist, adabiyotshunos, t
 
 ### Moskva (1923–1924) va soʻnggi oʻn yil (1924–1937)
 
-- Moskvada «Uchqun» va «Buxarskaya jizn» nashrlarida ishlagan. Lazarev institutida dars bergan va professor unvonini olgan, degan maʼlumot bor (ru.wiki, Boltaboyev). **Adib Xolid buning hujjatli dalili yoʻqligini aytadi.** Shu yillarda «Abulfayzxon», «Bedil», «Qiyomat» va «Shaytonning Tangriga isyoni» yozilgan.
+- Moskvada «Uchqun» va «Buxarskaya jizn» nashrlarida ishlagan. Lazarev institutida dars bergan va professor unvonini olgan, degan maʼlumot bor (Boltaboyev; ru.wiki Lazarev nomini tilga olmaydi, «Moskvadagi Sharq tillari instituti»da 1924-yilda professor boʻlgan deydi). **Adib Xolid buning hujjatli dalili yoʻqligini aytadi.** Shu yillarda «Abulfayzxon», «Bedil», «Qiyomat» va «Shaytonning Tangriga isyoni» yozilgan.
 - 1924-yil sentabrida Oʻrta Osiyoga qaytgan. 1927–1937-yillarda Samarqanddagi Oliy pedagogika institutida va Toshkentdagi Til va adabiyot institutida ishlagan. Hamid Olimjon unda adabiyot tarixi va sheʼr ilmidan saboq olgan.
 - Qoʻlyozma toʻplash ekspeditsiyalarida qatnashgan. Toʻplagan qoʻlyozmalari 1934-yilda Davlat ommaviy kutubxonasiga topshirilgan (ru.wiki).
 - **Tanqid kampaniyasi.** 1929-yil 13–15-mayda J. Boyboʻlatovning «Oʻzbek adabiyoti va chigʻatoizm» maqolasi chiqqan. Fitrat «Yopishmagan gajaklar» (1929) va «Boshqarmaga ochiq xat» (1931-yil 4-may) bilan javob bergan. 1932-yildan keyin matbuotdan chetlatilgan (en.wiki). 1928-yilda «Xudosizlar» jurnalida chiqqan hikoyalarida Boltaboyev «zamoni bilan murosasozlik ruhi»ni koʻradi.
@@ -116,7 +116,7 @@ Abdurauf Fitrat buxorolik shoir, nosir, dramaturg, publitsist, adabiyotshunos, t
 | 1927 | «Eng eski turk adabiyoti namunalari», «Sanʼatning manshai», «Sharqda shaxmat» | uz.wiki; Boltaboyev |
 | 1928 | «Oʻzbek adabiyoti namunalari», 1-jild. «Xudosizlar»dagi hikoyalar | uz.wiki; en.wiki |
 | 1929 | Boyboʻlatov polemikasi, «Yopishmagan gajaklar» | Boltaboyev |
-| 1930 | «Amir Olimxonning hukmronlik davri», «“Farhod-u Shirin” dostoni toʻgʻrisida» | uz.wiki; Boltaboyev |
+| 1930 | «Amir Olimxon va uning hukmronlik davri», «“Farhod-u Shirin” dostoni toʻgʻrisida» | uz.wiki; Boltaboyev |
 | 1931, 4-may | «Boshqarmaga ochiq xat» | Boltaboyev |
 | 1934 / 1936 | «Toʻlqin» librettosi | uz.wiki; en.wiki |
 | 1936 (1935) | «Aruz haqida» | uz.wiki; Boltaboyev |
@@ -149,7 +149,7 @@ Edvard Olvort 1911–1937-yillarga oid Fitratning 191 ta matnini roʻyxatga olga
 | «Qon» | 5 pardali fojia | 1920 / 1921 | matni yetib kelmagan | yoʻq |
 | «Hind ixtilolchilari» | 5 pardali drama | 1921 yozilgan, 1923 nashr | Berlin | **ha** → [../asarlar/abdurauf-fitrat-hind-ixtilolchilari.md](../asarlar/abdurauf-fitrat-hind-ixtilolchilari.md) |
 | «Bedil (Bir majlisda)» | munozara-dialog | 1923 | — | yoʻq |
-| «Qiyomat» | «xayoliy hikoya» | 1923–1924. Uz.wiki boʻyicha 1930-yilda qayta ishlangan | — | yoʻq |
+| «Qiyomat» | «xayoliy hikoya» | 1923–1924. Uz.wiki boʻyicha 1930-yilda qayta ishlangan; Kleynmixelga koʻra (en.wiki orqali) birinchi marta 1935-yilda qayta ishlangan | — | yoʻq |
 | «Abulfayzxon» | 5 pardali tarixiy fojia | 1924 | Moskva, «Markaziy Sharq nashriyoti». «Sharq yulduzi», 1989, 1-son | **ha** → [../asarlar/abdurauf-fitrat-abulfayzxon.md](../asarlar/abdurauf-fitrat-abulfayzxon.md) |
 | «Shaytonning Tangriga isyoni» | sheʼriy kichik drama | 1924 | Moskvada yozilgan | yoʻq |
 | «Roʻzalar» | hikoya / risola (?) | 1924 yoki 1930 | — | yoʻq |
@@ -181,7 +181,7 @@ Edvard Olvort 1911–1937-yillarga oid Fitratning 191 ta matnini roʻyxatga olga
 | «Tilimiz» | maqola | 1919, 12-iyun | «Ishtirokiyun», 32-son | yoʻq (Wikisource) |
 | «“Tadrij”ga qarshu» | maqola | 1920 | «Tong» | yoʻq |
 | «Tilimizning adabiyligi» | qurultoy nutqi | 1921 | — | yoʻq |
-| «Amir Olimxonning hukmronlik davri» | tarixiy-siyosiy kitob (forscha) | 1930 | — | yoʻq |
+| «Amir Olimxon va uning hukmronlik davri» (Boltaboyev shu nomda keltiradi) | tarixiy-siyosiy kitob (forscha [umumiy bilim — tekshirilmagan]) | 1930 | — | yoʻq |
 
 ### Ilmiy asarlar (adabiyotshunoslik, tilshunoslik, sanʼatshunoslik)
 
@@ -190,7 +190,7 @@ Edvard Olvort 1911–1937-yillarga oid Fitratning 191 ta matnini roʻyxatga olga
 | «Sheʼr va shoirliq» | adabiy-nazariy maqola | 1919 | «Ishtirokiyun» | yoʻq |
 | «“Zahhoki moron” munosabati ila», «“Halima” operasi haqinda» | taqrizlar | 1919, 1920 | «Ishtirokiyun» | yoʻq |
 | «Oʻzbek tili qoidalari toʻgʻrisida bir tajriba: Sarf» | grammatika | 1924 / 1925 – 1930 (6 nashr) | Toshkent, Samarqand | yoʻq |
-| «Nahv» | sintaksis | 1925 (5 nashr) | — | yoʻq |
+| «Nahv» | sintaksis | 1925 (uz.wiki). Boltaboyev «Ikkinchi kitob: Nahv»ning 1927-yilgi nashrini keltiradi. «5 nashr» maʼlumoti tekshirilmagan | Samarqand–Toshkent (1927-yilgi nashr) | yoʻq |
 | «Qutadgʻu bilig» haqida tadqiqot | tadqiqot | 1925 | — | yoʻq |
 | «Adabiyot qoidalari» | adabiyot nazariyasi darsligi | 1926. Boltaboyev qayta nashri 1995 | Toshkent | yoʻq |
 | «Oʻzbek klassik musiqasi va uning tarixi» | musiqashunoslik | 1926 / 1927 | — | yoʻq |
@@ -223,7 +223,7 @@ Fitrat haqidagi tadqiqot: H. Boltaboyev, «Jadidlar. Abdurauf Fitrat» (Toshkent
 9. **Siyosiy evolyutsiya.** (a) 1910–1916-yillarda Fitrat isloh tarafdori va monarxiyaga sodiq. «Hind sayyohi»da «bir odil… amir va tadbirkor… vazir» orzu qilinadi, «Oila» amirga duo bilan ochiladi. (b) 1917-yilda Buxoro amirligiga qarshi chiqadi, muxtoriyatni «milliy laylatulqadr» deb kutib oladi. «Behbudiyning sagʻanasin izladim»da amirni «kirli toj» deb ataydi. (c) 1919–1923-yillarda mustamlakachilikka qarshi turadi va Turon gʻoyasini ilgari suradi. «Sharq siyosati»da Sovet Rossiyasi bilan Britaniyaga qarshi ittifoqni yoqlaydi. «Hind ixtilolchilari»ning finali: «Yashasun Hinduston, yashasun istiqlol!». (d) 1924-yildan keyin taxt va zulm instituti haqida umuminsoniy, allegorik xulosalar chiqaradi («Abulfayzxon»). Senzura davrida «murosasozlik» qiladi.
 10. **Turkchilik, til va milliy oʻzlik.** «Temur bila Chingiz qoni toshdi tomrimizdan» («Yurt qaygʻusi»). Fitratning fikricha, turk tili «dunyoning eng boy, eng baxtsiz» tili («Tilimiz», 1919). Barmoq vazni milliy vazn. Fitrat 1936-yilda oʻzini «birinchi o‘zbek millatchisi» deb atagan («Aruz haqida»). Boltaboyev «Chigʻatoy gurungi»ni «panturkizm» emas, oʻzbek tili va imlosini isloh qilish tashkiloti deb talqin qiladi.
 11. **Sheʼr va sanʼat nazariyasi.** Fitratning sheʼr haqidagi formulasi: «Chin she’r yurak sezgularini ko‘rsatmakdir. Vazn va qofiya esa, so‘zning bezagidir». U sheʼrni «tizim» (vaznli) va «sochim» (vaznsiz) sheʼrga ajratadi. «Adabiyot qoidalari»da «ifoda uslubi»ni har bir yozuvchining shaxsiy belgisi deb tushuntiradi (Quvvatova orqali, `adabiyot-poetika-til.md`).
-12. **Diniy qarashlar evolyutsiyasi.** Bu masala munozarali. Adib Xolid Fitratning yoʻlini antiklerikalizmdan skeptitsizm va dinsizlikka qarab borgan deb biladi. Hamid Olimjon (1936) uni «dahriy ham emas, mutaassib dinchi ham emas» deb taʼriflagan. Boltaboyev «Qiyomat» va «Shaytonning Tangriga isyoni»ning ateistik talqinlarini rad etadi.
+12. **Diniy qarashlar evolyutsiyasi.** Bu masala munozarali. Adib Xolid Fitratning yoʻlini antiklerikalizmdan skeptitsizm va dinsizlikka qarab borgan deb biladi. D. Jumayevaning bayoniga koʻra, Hamid Olimjon (1936) uni «dahriy ham emas, mutaassib dinchi ham emas» deb taʼriflagan (bu Jumayevaning talqini, Olimjonning asl matnidan tekshirilmagan). Boltaboyev «Qiyomat» va «Shaytonning Tangriga isyoni»ning ateistik talqinlarini rad etadi.
 
 ---
 
@@ -586,10 +586,10 @@ Avval qaysi Fitratni yozayotganingizni aniqlang. **1910-yillardagi** Fitrat riso
 
 ## Boshqa jadidlar bilan aloqalari va taʼsirlar
 
-- **Mahmudxoʻja Behbudiy.** Behbudiy «Munozara»ni turkiy tilga tarjima qilishni tavsiya qilgan va unga «Munozara haqqinda» soʻngsoʻzini yozgan («Turkiston viloyatining gazeti», 1911, 29-sentabr, 73-son). «Nashriyoti Behbudiya» 1913-yilda «Bayonoti sayyohi hindi»ning ruscha tarjimasini chiqargan. Fitrat «Najot yoʻli»da «Oyina» jurnalining 4-sonini tilga oladi. 1917-yilda ikkalasi «Hurriyat»da birga ishlagan. Behbudiy vasiyatida Fitratni ham tilga olgan (uz.wiki). Fitrat Behbudiyni «Otam» deb atab, «Behbudiyning sagʻanasin izladim» marsiyasini yozgan.
+- **Mahmudxoʻja Behbudiy.** Behbudiy «Munozara»ni turkiy tilga tarjima qilishni tavsiya qilgan va unga «Munozara haqqinda» soʻngsoʻzini yozgan («Turkiston viloyatining gazeti», 1911, 29-sentabr, 73-son). «Nashriyoti Behbudiya» 1913-yilda «Bayonoti sayyohi hindi»ning ruscha tarjimasini chiqargan. Fitrat «Najot yoʻli»da «Oyina» jurnalining 4-sonini tilga oladi. 1917-yilda ikkalasi «Hurriyat»da birga ishlagan. Behbudiy vasiyatida Fitratni ham tilga olgan, degan maʼlumot ilgari uz.wiki'ga nisbat berilgan edi, lekin 2026-yil oktabrda uz.wiki va ru.wiki'da bunday gap topilmadi [tekshirilmagan]. Fitrat Behbudiyni «Otam» deb atab, «Behbudiyning sagʻanasin izladim» marsiyasini yozgan.
 - **Sadriddin Ayniy.** Fitratning buxorolik safdoshi. U Fitratning sheʼrlarini «bir devon bo‘lishga arzirli» deb baholagan. «Bayonoti sayyohi hindi»ni «Roman uslubida yozilgan asar» degan va uning taʼsiri «Munozara»dan ham kuchli boʻlganini aytgan. Fitratni «tojik nasrining kashshofi» deb atagan. «Sharq siyosati»ga Behbudiy va Ayniy qarshi chiqqan (en.wiki).
 - **Choʻlpon.** Ular 1917-yil boshida tanishgan va umrbod doʻst boʻlgan (en.wiki). Choʻlpon «Chin sevish»ga (1920) va «Qalandar» imzosi bilan «Abo Muslim»ga (1922) taqriz yozgan. Fitratning taklifi bilan «Buxoro axbori»ga muharrir boʻlgan. Barmoq vazni haqida Fitrat shunday yozgan: «Barmoq vaznida she’rni boshlab Cho‘lpon yozdimi, men yozdimmi, esimda yo‘q». 1938-yil 2-oktabrda ikkalasi turmada yuzlashtirilgan. Ikkalasi bir kunda otilgan.
-- **«Chigʻatoy gurungi» doirasi.** Elbek, Botu, Qayum Ramazon, Shokirjon Rahimiy, Shorasul Zunnun, Gʻozi Yunus, Mannon Uygʻur va boshqalar. 1937-yilgi tanqidda Elbek «Fitratning eng sodiq shogirdi» deb atalgan. Botu keyinchalik Fitratdan uzoqlashgan. Sovet darsliklari uning «Mening kunduzim» sheʼrini Fitratning «Mening kecham» sheʼriga javob sifatida koʻrsatgan. Gʻulom Zafariy haqida Fitrat shunday yozgan: «Bizda operachilik yo‘lida otilg‘an birinchi odim G‘ulom Zafariyning “Halima”sidir» (Usmonov orqali; iqtibos shaklini asl manbadan tekshirish kerak).
+- **«Chigʻatoy gurungi» doirasi.** Elbek, Botu, Qayum Ramazon, Shokirjon Rahimiy, Shorasul Zunnun, Gʻozi Yunus, Mannon Uygʻur va boshqalar. 1937-yilgi tanqidda Elbek «Fitratning eng sodiq shogirdi» deb atalgan. Botu keyinchalik Fitratdan uzoqlashgan. Sovet darsliklari uning «Mening kunduzim» sheʼrini Fitratning «Mening kecham» sheʼriga javob sifatida koʻrsatgan. Gʻulom Zafariy haqida Fitrat shunday yozgan: «Bizda operachilik yo‘lida otilg‘an birinchi odim G‘ulom Zafariyning “Halima”sidir» (Usmonov risolasida aynan shunday; Boltaboyevda «otilgan» shaklida).
 - **Munavvarqori.** 1918-yilda Fitratni dorilfununga taklif qilgan. 1922-yilda talabalarni Germaniyaga yuborish tashabbusida ikkalasining nomi birga tilga olinadi. Botuning 1931-yilgi koʻrsatmasiga koʻra, Fitrat bir paytlar «Munavvar qori guruhining ta’qibidan yashirinib yashardi». Bu maʼlumot qamoqdagi koʻrsatmadan olingan, shuning uchun ehtiyotkorlik bilan qarash kerak.
 - **Fayzulla Xoʻjayev.** Yosh buxoroliklar va BXSR davridagi siyosiy hamkori. 1924–1929-yillarda Fitratni hujumlardan himoya qilgan. Uning bahosiga koʻra, «Sayha»da «Vatan mustaqilligi g‘oyasi birinchi marta yorqin shaklda ifodalab berildi».
 - **Hamid Olimjon.** Fitratning shogirdi va ilk yirik fitratshunos (1936).
@@ -622,7 +622,7 @@ Avval qaysi Fitratni yozayotganingizni aniqlang. **1910-yillardagi** Fitrat riso
 - **Tojik tomoni.** A. Jumayevning (2005) yozishicha, Fitrat «muqaddaslashtirilgan» maqomga ega va uni koʻpincha shahid deyishadi. Rahim Masov va boshqalar esa uni «tojik xoini» deb atagan (en.wiki).
 
 **Xorijiy tadqiqotlar**
-- **Edvard Olvort.** «Uzbek Literary Politics» (1964), «The Preoccupations of ʿAbdalrauf Fitrat, Bukharan Nonconformist» (2000), «Evading Reality: The Devices of ʿAbdalrauf Fitrat» (Brill, 2002). Olvortga koʻra, «Bedil»da Fitrat «Inshalloh», «Bismilloh» kabi diniy undovlardan qochadi va uning birinchi tili Oʻrta Osiyo forschasi boʻlgan. Olvort Fitratni oʻz qarashlaridan voz kechishga majbur boʻlgan internatsionalist deb biladi. «Qiyomat»dagi Allohga hurmatsizlikni Sovet davrida qoʻshilgan deb hisoblaydi.
+- **Edvard Olvort.** «Uzbek Literary Politics» (1964), «The Preoccupations of ʿAbdalrauf Fitrat, Bukharan Nonconformist» (2000), «Evading Reality: The Devices of ʿAbdalrauf Fitrat» (Brill, 2002). Olvortga koʻra, «Bedil»da Fitrat «Inshalloh», «Bismilloh» kabi diniy undovlardan qochadi va uning birinchi tili Oʻrta Osiyo forschasi boʻlgan. Olvort Fitratni oʻz qarashlaridan voz kechishga majbur boʻlgan internatsionalist deb biladi, degan fikr en.wiki'ga nisbat berilgan, lekin u yerda topilmadi [tekshirilmagan]. «Qiyomat»dagi Allohga hurmatsizlikni Sovet davrida qoʻshilgan deb hisoblaydi.
 - **Adib Xolid.** «The Politics of Muslim Cultural Reform» (1998), «Making Uzbekistan» (2015). Xolidga koʻra, Fitrat islomiy islohotchilikdan turkchilikka va dinsizlikka qarab borgan. U Fitratning ruschani bilganiga va professorlik unvoniga shubha bildiradi.
 - **Elen Karrer dʼAnkoss** («Fiṭrat», Encyclopaedia of Islam, 1965): Fitratni jadidchilikning gʻoyaviy yetakchisi deb ataydi.
 - **Ingeborg Baldauf** (Visbaden, 1991): uni «chigʻatoy millati» timsoli deb hisoblaydi va «Shaytonning Tangriga isyoni»ni ekzistensialistik ruhda talqin qiladi.
@@ -700,3 +700,32 @@ Iqtiboslar manbadagi imlo va apostroflar bilan aynan keltirildi.
 - https://nomadit.co.uk/conference/cess2019/paper/50851 («Bayonoti sayyohi hindi» sanasi)
 - https://www.degruyterbrill.com/isbn/9783110774856 (Z. Abdirashidov, 2023)
 - Ochilmagan (403): https://www.iranicaonline.org/articles/fetrat-abd-al-rauf-bokari ; https://ziyouz.uz/en/uzbek-literature/40-literature-of-jadids-period/95-abdurauf-fitrat-1886-1938 (faqat qidiruv parchasi)
+
+---
+
+## Tekshiruv qaydlari
+
+*Tekshiruv sanasi: 2026-yil 21-oktabr. Usul: kitoblardan olingan barcha «…» iqtiboslar `_holat/chunks/` dagi matnlar bilan avtomatik solishtirildi; biografik faktlar Boltaboyev risolasi matni, `manbalar_web/` fayllari va en.wiki, uz.wiki, ru.wiki, kun.uz sahifalari bilan qayta tekshirildi.*
+
+**Tasdiqlangan.** «Verbatim namunalar» (1–27) va «Mashhur iqtiboslar»dagi mahalliy kitoblarga nisbat berilgan barcha iqtiboslar manba matnlarida harfma-harf topildi. Asosiy sanalar ikki va undan ortiq manbada mos keldi: 1886-yilda tugʻilgani (Boltaboyev, en.wiki, uz.wiki; Fitratning oʻzi 1884-yil degan — en.wiki), «Mijmar» taxallusi (Boltaboyev, en.wiki), 1937-yil 24-aprelda hibsga olingani (kun.uz, uz.wiki, en.wiki), 1938-yil 4-oktabrda otilgani va hukm 5-oktabr sanasi bilan rasmiylashtirilgani (en.wiki, uz.wiki, ru.wiki), 4269-raqamli ish (kun.uz), «Hurriyat» 26–85-sonlari (Boltaboyev) va 27–87-sonlari (uz.wiki, en.wiki), «Tong» jurnali 1920-yil 9-aprel (uz.wiki), 1922-yilda Germaniyaga 70 talaba (en.wiki), «Abo Muslim» haqidagi «Qalandar» taqrizi («Turkiston», 1922-yil 21-dekabr — Boltaboyev), Baldauf (Visbaden, 1991) va Komatsu (Anqara, 1993) — Boltaboyev adabiyotlar roʻyxati.
+
+**Tuzatildi.**
+1. Onasining ismi: manbalardagi aniq yozilishlar keltirildi. Uz.wiki matnida «Mustab Bibi» deyilgan, «Nastarbibi» va «Mustafbibi» esa uz.wiki infoboksida; ru.wiki «Мустафо-биби»; Boltaboyev «Mustaf bibi».
+2. «Fitrat — Donishmand»: uz.wiki buni «unvon» emas, «taxallus» deydi.
+3. «Hurriyat» muharrirligining boshlanishi: Boltaboyev — 1917-yil iyul, en.wiki — avgust. Ikkala versiya ham berildi.
+4. Lazarev instituti: ru.wiki Lazarev nomini tilga olmaydi, faqat «Moskvadagi Sharq tillari instituti»ni aytadi. Manba havolasi aniqlashtirildi.
+5. Asar nomi «Amir Olimxonning hukmronlik davri» Boltaboyev matniga koʻra «Amir Olimxon va uning hukmronlik davri» deb tuzatildi.
+6. «Qiyomat» qayta ishlangan yil: uz.wiki 1930 deydi, Kleynmixel (en.wiki orqali) 1935 deydi. Ikkala versiya ham berildi.
+7. «Nahv»: Boltaboyev 1927-yilgi nashrni keltiradi; «5 nashr» maʼlumoti tekshirilmagan deb belgilandi.
+8. «dahriy ham emas, mutaassib dinchi ham emas» iborasi Hamid Olimjonning bevosita iqtibosi emas, D. Jumayevaning bayoni ekani koʻrsatildi.
+9. Gʻulom Zafariy «Halima»si haqidagi Fitrat iqtibosi Usmonov risolasida aynan topildi, shuning uchun «tekshirish kerak» degan izoh olib tashlandi.
+
+**Bahsli yoki tekshirilmagan qolgan maʼlumotlar.**
+- Behbudiy vasiyatida Fitratning tilga olingani: hozirgi uz.wiki va ru.wiki'da topilmadi.
+- Olvortning Fitratni «oʻz qarashlaridan voz kechishga majbur boʻlgan internatsionalist» deb bilishi: en.wiki'da topilmadi. Olvortning «Bedil» va «Qiyomat» haqidagi fikrlari esa en.wiki'da tasdiqlandi.
+- 1957-yil 1-avgustdagi №4Н-07109157 ajrim faqat bitta manbada bor (zamin.uz). Reabilitatsiya yili boshqa manbalarda turlicha: 1956 (en.wiki), 1962 (ru.wiki), 1963 (uz.wiki).
+- Amir Temur maqbarasidagi qasamyod (Vali Qayumxon xotirasi) faqat bitta kun.uz maqolasiga tayanadi (2022-yil 3-may; `taʼlim-pedagogika.md`). Matnda koʻrsatilgan 4269-raqamli ish haqidagi kun.uz maqolasida bu voqea yoʻq. Maʼlumot mustaqil manba bilan tasdiqlanmagan.
+- «1944-yil 3-noyabr» sanasi kun.uz keltirgan hujjatda bor, ammo ilmiy adabiyotda asosiy versiya 1938-yil 4/5-oktabr. Bu sana soxta boʻlishi ehtimoli matnda saqlab qolindi.
+- Hamid Olimjon tadqiqotining nashr maʼlumotlari («Tanlangan asarlar», 3-tom, 1960, 220–261-betlar) va undan olingan iqtibos faqat D. Jumayevaning PDF maqolasiga tayanadi (matnda OCR xatolari bor).
+- Ozod Sharafiddinovning «oʻzbek adabiyotshunosligining otasi» degan bahosi va Samoylovichning bahosi bittadan manbaga tayanadi (qidiruv parchasi yoki yuz.uz).
+- Maorif noziri boʻlgan yil (1921 yoki 1923), Sharq musiqa maktabi ochilgan yil (1921 yoki 1923), Istanbuldan qaytgan yil (1913 yoki 1914) va «Munozara» yozilgan yil (1909 yoki 1911) manbalarda haqiqatan ham turlicha. Bu oʻrinlarda barcha versiyalar saqlandi.

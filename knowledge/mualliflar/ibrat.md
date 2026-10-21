@@ -6,7 +6,7 @@
 
 ## Qisqacha
 
-Isʼhoqxon toʻra Ibrat Fargʻona vodiysi jadidchiligining eng keksa vakillaridan biri. U Namangan yaqinidagi Toʻraqoʻrgʻonda 1862-yilda tugʻilgan va 1937-yilda Andijon qamoqxonasida vafot etgan. Dolimov uni bir jumlada shunday taʼriflaydi: «shoir va olim, noshir va pedagog, sayyoh va shariat-din arbobi». Qoʻqon madrasasini bitirgach, 1885/1886-yilda Toʻraqoʻrgʻonda Turkistondagi ilk usuli savtiya maktablaridan birini ochgan. 1887–1896-yillarda Hijoz, Turkiya, Yevropa va Hindistonda boʻlib, bir necha tilni oʻrgangan. 1898-yildan yigirma yildan ortiq Toʻraqoʻrgʻon va Namangan xalq qozisi boʻlgan. 1908-yilda Fargʻona vodiysidagi birinchi bosmaxonalardan biri boʻlgan «Matbaai Isʼhoqiya»ni ochgan. Merosi turli sohalarni qamraydi. «Lugʻati sitta al-sina» (1901) olti tilli lugʻat, «Jomeʼ ul-xutut» (1912) yozuvlar tarixi, «Tarixi Fargʻona» (1913–1916, 1920-yillarda qayta ishlangan) va «Tarixi madaniyat» (1926) tarix asarlari, «Mezon uz-zamon» islomiy-maʼrifiy risola. Bundan tashqari aruzdagi gʻazal, musaddas va taʼrixlar hamda «Turkiston viloyatining gazeti» va «Oyina»dagi ellikka yaqin maqola yozgan. Ibrat jadidchiligining asosiy belgisi islomiy-fiqhiy tilda ifodalangan islohotchilik. U yangi texnika, usuli jadid maktabi va matbuotni oyat-hadis bilan oqlaydi. «Vatan» va «hurriyat» oʻrniga «ittifoq», «ilmu hunar», «madaniyat», «harakat» soʻzlarini ishlatadi. Uslubida qozi-faqihning arab-forscha izofali kitobiy tili, eski oʻzbek va usmonlicha morfologiya, buzilgan ruscha soʻzlar va maishiy latifalarning kinoyali hajvi qorishib ketgan.
+Isʼhoqxon toʻra Ibrat Fargʻona vodiysi jadidchiligining eng keksa vakillaridan biri. U Namangan yaqinidagi Toʻraqoʻrgʻonda 1862-yilda tugʻilgan va 1937-yilda Andijon qamoqxonasida vafot etgan. Dolimov uni bir jumlada shunday taʼriflaydi: «shoir va olim, noshir va pedagog, sayyoh va shariat-din arbobi». Qoʻqon madrasasini bitirgach, 1885/1886-yilda Toʻraqoʻrgʻonda Turkistondagi ilk usuli savtiya maktablaridan birini ochgan. 1887–1896-yillarda Hijoz, Turkiya, Yevropa va Hindistonda boʻlib, bir necha tilni oʻrgangan. 1898-yildan yigirma yildan ortiq Toʻraqoʻrgʻon va Namangan xalq qozisi boʻlgan. 1908-yilda Fargʻona vodiysidagi birinchi bosmaxonalardan biri boʻlgan «Matbaai Isʼhoqiya»ni ochgan. Merosi turli sohalarni qamraydi. «Lugʻati sitta al-sina» (1901) olti tilli lugʻat, «Jomeʼ ul-xutut» (1912) yozuvlar tarixi, «Tarixi Fargʻona» (1913–1916, 1920-yillarda qayta ishlangan) va «Tarixi madaniyat» (1926) tarix asarlari, «Mezon uz-zamon» islomiy-maʼrifiy risola. Bundan tashqari aruzdagi gʻazal, musaddas va taʼrixlar hamda «Turkiston viloyatining gazeti» va «Oyina» kabi nashrlarda ellikdan ortiq maqola yozgan (Dolimov 2024: «ellikdan oshiq», shundan taxminan 30 tasi TVG da). Ibrat jadidchiligining asosiy belgisi islomiy-fiqhiy tilda ifodalangan islohotchilik. U yangi texnika, usuli jadid maktabi va matbuotni oyat-hadis bilan oqlaydi. «Vatan» va «hurriyat» oʻrniga «ittifoq», «ilmu hunar», «madaniyat», «harakat» soʻzlarini ishlatadi. Uslubida qozi-faqihning arab-forscha izofali kitobiy tili, eski oʻzbek va usmonlicha morfologiya, buzilgan ruscha soʻzlar va maishiy latifalarning kinoyali hajvi qorishib ketgan.
 
 ---
 
@@ -18,7 +18,7 @@ Isʼhoqxon toʻra Ibrat Fargʻona vodiysi jadidchiligining eng keksa vakillarida
 - **Nasabi.** Oila Ahmad Yassaviy avlodidan hisoblanadi va XVIII asr oxirida Toʻraqoʻrgʻon hamda Mullakudung qishloqlariga koʻchib kelgan (Dolimov 2024). Ibrat buni oʻz baytida aytgan:
   > «Ibrat taxallusimdur, ahfodi Hazrati Sulton, Shuhratda – Hoji to‘ra, ma’vosi – To‘raqo‘rg‘on.» («Ilmi Ibrat», 1909, 4-bet; Dolimov 2024 da keltirilgan)
 - **Bobosi** Toʻraxon maxdum Qoʻqon xonligi davrida Toʻraqoʻrgʻonda uzoq yil qozi boʻlgan va «Afsus» taxallusi bilan sheʼr yozgan (Dolimov 2024; uz.wikipedia; «Tazkirai Qayyumiy», Boltaboyeva orqali).
-- **Otasi** Junaydullaxoʻja «besh tanobcha» yerda bogʻdorchilik qilgan va «Xodim» taxallusi bilan sheʼr mashq qilgan. U 1870-yillarning ikkinchi yarmida vafot etgan (Dolimov 2024). Vikipediyaga koʻra, ota-onasi 1870-yillarda ajrashgan.
+- **Otasi** Junaydullaxoʻja «besh tanobcha» yerda bogʻdorchilik qilgan va «Xodim» taxallusi bilan sheʼr mashq qilgan. U 1870-yillarning ikkinchi yarmida vafot etgan (Dolimov 2024). Vikipediyada ham «1870-yillarda otasidan ayrilgan» deyilgan (uz.wikipedia).
 - **Onasi** Huribibi oʻqimishli ayol boʻlgan va uyida qizlar maktabini yuritgan. U husnixat ham oʻrgatgan (Dolimov 2024; Sariboyeva 2021). 1887-yildagi haj safarida Jiddada oʻpka shamollashidan vafot etgan, Ibrat unga marsiya-taʼrix yozgan.
 - **Farzandlari** (Dolimov 2024 boʻyicha): Abbosxon (toʻngʻich oʻgʻli, 1918-yilda bayoz tuzgan, 1922-yilda qizillar «bosmachilarning odami» deb kaltaklab oʻldirgan), Vaqqosxon, Fayozxon, Vasilaxon, Afifaxon va Rotibxon. Rotibxon kenja farzand boʻlib, 1937-yilda «endi besh yoshga to‘lgan» edi. 1963-yilda u otasining hujjatlarini Sharqshunoslik institutiga topshirgan. Ismi D. Alimova maqolasida «Rotifxon» deb yozilgan.
 
@@ -49,7 +49,7 @@ Ibrat qishlogʻiga qaytgach, oʻz masjidida «usuli savtiya» maktabini ochgan. 
 - **1898 va 1900-yil 26-fevral** — senzor N. Ostroumovga lugʻatni nashr qilish haqida ikki maktub yozgan (OʻzR MDA, 1009-fond, 115-ish).
 - **1902** — Toʻraqoʻrgʻonda ochilgan rus-tuzem maktabining homiysi boʻlgan.
 - **1905** — Yevropa usulida hammom qurdirgan, mutaassiblar uni «harom» deb eʼlon qilgan («Tarixi hammom», TVG, 1905, 23-son; Dolimov 2024).
-- **1907** — Munavvarqorining 15-martdagi «Daʼvatnoma»si bilan Toshkentdagi jadid maktablari imtihonlariga borgan. Shu yili Sebzordagi Mulla Husanxoʻja maktabi haqida polemika yozgan va Toʻraqoʻrgʻonda 50 bolalik bepul «Maktabi Isʼhoqiya»ni ochgan. Maktabda parta, doska va globus bor edi, rus tilini Husayn Makayev oʻqitgan, badantarbiya darsi ham oʻtilgan. Xattotlik asari uchun «pocho‘tnoy xalat» bilan taqdirlangan.
+- **1907** — Munavvarqorining 15-martdagi «Daʼvatnoma»si bilan Toshkentdagi jadid maktablari imtihonlariga borgan. Shu yili Sebzordagi Mulla Husanxoʻja maktabi haqida polemika yozgan va iyun oyida Toʻraqoʻrgʻonda 50 bolalik bepul «Maktabi Isʼhoqiya»ni ochgan (Shahidiy, «Tarjumon», 1907, 12-oktabr, 66-son; Dolimov 2024 orqali). Maktabda parta, doska va globus bor edi, rus tilini Husayn Makayev oʻqitgan, badantarbiya darsi ham oʻtilgan. Xattotlik asari uchun «pocho‘tnoy xalat» bilan taqdirlangan.
 - **1908** — Moskva, Peterburg, Orenburg va Ufada boʻlgan. Rizouddin Faxriddin va Fotih Karimiy bilan uchrashgan. Orenburgda Gaufman bosmaxonasidan litografik dastgohni nasiyaga sotib olib, tuyada Toʻraqoʻrgʻonga keltirgan. Noyabr–dekabrda hammom binosida «Matbaai Isʼhoqiya»ni ochgan, emblemasi quyosh ichidagi «ilm» soʻzi edi. Shu yili Ibrohim Davronning u haqidagi «Haq soʻz» maqolasi chiqqan (TVG, 1908, 56-son).
 - **1910** — matbaa Namanganga koʻchirilgan. «Kutubxonai Isʼhoqiya» tashkil topgan. Qozilik saylovi «Polojeniya»sini tanqid qilgan.
 - **1912** — Maktabda qizlar guruhi ochilgan, ularni Fotiha Makayeva oʻqitgan. Namangan–Qoʻqon temir yoʻlining ochilishi haqida reportajlar yozgan.
@@ -61,13 +61,13 @@ Ibrat qishlogʻiga qaytgach, oʻz masjidida «usuli savtiya» maktabini ochgan. 
 - Inqilobni dastlab «samimiy» qabul qilgan. Turkiston Muxtoriyati tor-mor etilgach (1918), hafsalasi pir boʻlgan (Dolimov 2024). 1918-yil 12-mayda ochilgan Turkiston xalq dorilfununining Namangan filialiga rahbarlik qilgan. 1918-yil sentabrida yangi maktab ochib, peshtoqiga «Ziyo bilan yuraman desang dunyoda, / Ilm ol, hunar o‘rgan, qolma piyoda!» deb yozdirgan.
 - 1919-yilda uning tashabbusi bilan Namanganda oʻzbek qizlari uchun birinchi maktab ochilgan (yuz.uz, Alimova).
 - 1920-yillarda «Qoʻrboshilar zamoni» asarini yozgan, u yoʻqolgan. «Tarixi Fargʻona»ni sovet mafkurasiga moslab qayta ishlagan, 1926-yilda «Tarixi madaniyat»ni yozgan.
-- 1929-yilda «quloqlarga aloqador» deb ayblanib, mol-mulki musodara qilingan (Alimova). Lavozimlardan chetlatilgan yili ham bahsli: Dolimovda 1920-yillarning ikkinchi yarmi, UzA va Vikipediyada 1935.
+- 1929-yilda «quloqlarga aloqador» deb ayblanib, mol-mulki musodara qilingan (Alimova). Vikipediyaga koʻra, 1935-yildan «hamma lavozimlardan olib tashlandi» (uz.wikipedia; UzA ham 1935 deydi). Dolimov 2024 da chetlatilish sanasi berilmagan, u faqat «Matbaayi Isʼhoqiya» «sho‘ro hukumatining dastlabki yiliyoq egasidan tortib olingan»ini yozadi.
 - 1932-yilgi zilzila paytida mish-mishlarga qarshi ayollarga maʼruza qilgan.
 - 1937-yil bahorida «nozik» kitoblarini mehmonxona devoriga yashirtirgan. Ular taxminan 30 yildan keyin butun holda topilgan (Mulla Iskandar xotirasi, Dolimov 2024).
 - **Hibs sanasi** manbalarda turlicha: 1937-yil 7-yanvar (Alimova), mart (Dolimov, Vikipediya), aprel (UzA), «erta bahor» (Nasriddinov). Ayblovi «antisovet tashviqot» boʻlgan (podrobno.uz).
 - **Vafoti.** Ibrat Andijon qamoqxonasida sudsiz vafot etgan. Qamoqda qancha yotgani haqida ham maʼlumotlar farq qiladi: Dolimov va Vikipediyada 5–6 oy, Alimovada 2 oy, podrobno.uz da vafot oyi aprel deb berilgan. Dafn joyi nomaʼlum. Hech bir manba uni otib tashlangan demaydi.
 - **1959-yil 2-oktabr** — Andijon viloyat prokuraturasining 3336-raqamli hujjati bilan toʻla oqlangan.
-- Xotirasi abadiylashtirilgan. 1996-yilda muzeyi ochilgan. 2017-yilda nomidagi maktab-internat tashkil etilgan. 2018-yil 3-mayda Toʻraqoʻrgʻonda memorial majmua ochilgan. Namanganda nomidagi davlat chet tillari instituti bor.
+- Xotirasi abadiylashtirilgan. 1996-yilda muzeyi ochilgan. 2017-yilda nomidagi maktab-internat tashkil etilgan. 2018-yil 3-mayda Toʻraqoʻrgʻonda memorial majmua ochilgan. Namanganda uning nomidagi davlat chet tillari instituti 2022-yilda Prezident qarori bilan tashkil etilgan (kun.uz, 2022-yil 10-iyun; president.uz).
 
 ### Xronologiya
 
@@ -102,7 +102,7 @@ Ibrat qishlogʻiga qaytgach, oʻz masjidida «usuli savtiya» maktabini ochgan. 
 | 1920-yillar | «Qoʻrboshilar zamoni» (yoʻqolgan); «Tarixi Fargʻona» qayta ishlangan | Dolimov 2024; Boltaboyeva (1921 koʻchirma) |
 | 1926 | «Tarixi madaniyat» | Dolimov 2024; Boltaboyeva 2025 |
 | 1929 | Mol-mulki musodara qilingan | yuz.uz (Alimova 2021) |
-| 1935 (yoki 1920-yillar 2-yarmi) | Lavozimlardan chetlatilgan | UzA; Dolimov 2024 |
+| 1935 | Lavozimlardan chetlatilgan | uz.wikipedia; UzA |
 | 1937 | Hibs (yanvar / mart / aprel), Andijon qamoqxonasida vafot | Alimova; Dolimov 2024; UzA |
 | 1950 | J. Zokiriy «Mezon uz-zamon» qoʻlyozmasini Ibrat hovlisidan topgan | Mezon uz-zamon, soʻngsoʻz |
 | 1959, 2-oktabr | Toʻla oqlangan | yuz.uz (Alimova 2021) |
@@ -261,7 +261,7 @@ Ibrat uslubi oʻtish davrining uslubi. Unda XIX asr Qoʻqon adabiy-ilmiy anʼana
 
 **Nasr (risola: «Mezon uz-zamon»).** Sharqona risola tuzilishiga ega: muqaddimada maqsad bayon qilinib, «Omin» bilan tugaydi, keyin raqamlangan «mezon»lar keladi. Har bir mezon besh bosqichda quriladi: (1) mavzu eʼlon qilinadi («Bu mezon – ... vazn qilur»); (2) oyat yoki hadis keltirilib, «Yaʼni» bilan sharhlanadi; (3) hayotiy misol yoki latifa beriladi; (4) xalq yoki ulamoga tanbeh beriladi; (5) «Mana...» bilan «hosili mezon» chiqariladi. Matnda oʻziga havolalar bor («Birinchi mezonda aytildi»), muallif birinchi shaxsda guvohlik beradi («banda oʻzum», «Banda ul majlisda edum»). Matn qoralama holida qolgan: ichki havolalar mos kelmaydi, oxiri ochiq.
 
-**Ilmiy nasr (lugʻat, «Jomeʼ ul-xutut», «Tarixi Fargʻona» muqaddimalari).** Usmonlicha davriy jumlalar va sajʼ ustun: «...lisonlar tahsiliga ko‘shish edub va ham dahr elina bir nishon qoldirmak fikrila bir necha muddati madid bir kitob tadvinina jo‘stujo‘ edub va ham olti lisondin murakkab o‘ldug‘i uchun “Lug‘ati sitta al-sina” tasmiya edub, ikki jild ila tartib etdim». Muallif kamtarlik va maqsad formulalarini ishlatadi («izhori hunar yoki musannif qatoriga kirmak... bo‘lmay»), oʻz metodini aniq aytadi («to‘g‘ri va aql kosasig‘a sig‘adurgan so‘zlarni oldim»). Dolimov «Tarixi Fargʻona»ning geografik-etnografik qismlari «Boburnoma» taʼsirida yozilgan deb hisoblaydi.
+**Ilmiy nasr (lugʻat, «Jomeʼ ul-xutut», «Tarixi Fargʻona» muqaddimalari).** Usmonlicha davriy jumlalar va sajʼ ustun: «...lisonlar tahsiliga ko‘shish edub va ham dahr elina bir nishon qoldirmak fikrila bir necha muddati madid bir kitob tadvinina jo‘stujo‘ edub va ham olti lisondin murakkab o‘ldug‘i uchun “Lug‘ati sitta als ina” tasmiya edub, ikki jild ila tartib etdim» (Dolimov 2024 dagi imlo, «als ina» manbadagi terish xatosi). Muallif kamtarlik va maqsad formulalarini ishlatadi («izhori hunar yoki musannif qatoriga kirmak... bo‘lmay»), oʻz metodini aniq aytadi («to‘g‘ri va aql kosasig‘a sig‘adurgan so‘zlarni oldim»). Dolimov «Tarixi Fargʻona»ning geografik-etnografik qismlari «Boburnoma» taʼsirida yozilgan deb hisoblaydi.
 
 **Publitsistika (TVG, «Oyina», 1905–1914).** Bunda gaplar qisqaroq va amaliy. Maqolalarda faktlar (raqamlar, sanalar, nizom moddalari) va «ekan» bilan berilgan kinoya koʻp: «Polojeniyada shariat biladurgan mulladan degan emas ekan. Ularga kim va nima bo‘lishi ham darkor emas ekan.» Parallel takror ham xos: «eski kitoblar... eski domlalar... eski hasharot uyalari». Ruscha ish yuritish soʻzlari («rapurt», «polojeniya», «zakaz») koʻp ishlatiladi. Ayrim maqolalar ruscha sarlavha bilan chiqqan. Matbaa eʼlonlari rasmiy-tijoriy uslubda yozilgan: «Ushbu kundan ibtidoan matbaaimizda zakazlar qabul qilinadur.»
 
@@ -460,9 +460,9 @@ mezon, vazn, hosili mezon, tarozu; tabodili zamon, inqilobi zamon; ashyoi jadida
 
 ## Ilmiy baholar va tadqiqotlar
 
-- **Zamondoshlar.** TVG (1901, 30-son) lugʻat haqida shunday yozgan: «bizning Turkiston viloyatimizda sartiyalardan chuncha til bilib, bul tariqa kitob va lo‘g‘at tasnif qilgan odam yo‘q edi» (Roʻziyeva 2021 orqali). Ibrohim Davron (TVG, 1908, 56-son): «Mana, islom e’tiqodi, farang fikrli, ovrupo qiyofali mo‘min inson. Rahmat anga!» (Dolimov 2024, «Eʼtirof»). Muhsiniy «Devoni Ibrat»ni yuqori baholagan. Sh. Shahidiy 1907-yilda «Tarjumon»da «Maktabi Isʼhoqiya» haqida xabar bergan.
+- **Zamondoshlar.** TVG (Roʻziyevada 1901, 30-son; Dolimovda 1901, 4-avgust, «Xabarlar») lugʻat haqida shunday yozgan: «bizning Turkiston viloyatimizda sartiyalardan chuncha til bilib, bul tariqa kitob va lo‘g‘at tasnif qilgan odam yo‘q edi» (Roʻziyeva 2021 orqali). Dolimov kitobida shu jumla boshqacha imloda: «bizning Tur kiston viloyatimizda sartiyalardan shuncha til bilib, bul tariqa kitob va lug‘at tasnif qilgan odam yo‘q edi». Ibrohim Davron (TVG, 1908, 56-son): «Mana, islom e’tiqodi, farang fikrli, ovrupo qiyofali mo‘min inson. Rahmat anga!» (Dolimov 2024, «Eʼtirof»). Muhsiniy «Devoni Ibrat»ni yuqori baholagan. Abdurauf Oxundzoda Shahidiy (Shahidullin) «Tarjumon»da («Idoraya maktub», 1907, 12-oktabr, 66-son) «Maktabi Isʼhoqiya» haqida xabar bergan (Dolimov 2024).
 - **P. Qayyumiy, «Tazkirai Qayyumiy».** Ibrat haqidagi dastlabki maʼlumotlar shu tazkirada. Unda Ibrat Afsusning nabirasi ekani, hammom, bogʻ va binolar qurdirgani aytilgan. Tugʻilgan yili esa xato berilgan (1876).
-- **J. Zokiriy (1958).** «Mezon uz-zamon» qoʻlyozmasini saqlab qolgan va uni 1918–1919-yillarda yozilgan deb taxmin qilgan. Ibratni ehtiyotkorlik bilan «bir vaqtlar “xalq dushmani” deb eʼlon etilgan asarning egasi» deb atagan.
+- **J. Zokiriy (1958).** «Mezon uz-zamon» qoʻlyozmasini saqlab qolgan va uni 1918–1919-yillarda yozilgan deb taxmin qilgan. Ibratni ehtiyotkorlik bilan «bir vaqtlar “xalq dushmani” deb eʼlon etilgan asarning egasiga toʻgʻri baho berib» degan ibora ichida tilga olgan.
 - **Ulugʻbek Dolimov.** Asosiy ibratshunos olim. Uning ishlari: nomzodlik dissertatsiyasi (1971, «Жизнь и творчество узбекского поэта просветителя Ибрата»), «Isʼhoqxon Ibrat» (Sharq, 1994; Vikipediyada 1984), «Maʼrifat dargʻalari» (B. Qosimov bilan, 1990), «Tanlangan asarlar» (2005), «Mohir publitsist, matbaachi va noshir» (yuz.uz, 2022), «Jadidlar. Isʼhoqxon toʻra Ibrat» (2024). Dolimov «Tarixi Fargʻona»ning ikki variantini aniqlagan. U Ibratni Forobiy, Beruniy, Zamaxshariy bilan qiyoslaydi va uni «universal islohotchi» deb biladi. Mustamlakachilikka qarshi kurashni Ibrat faoliyatining asosiy mazmuni deb talqin qiladi. Uning matnida sovet atamalari bilan mustaqillik davri ritorikasi qatlam-qatlam aralashgan (Dolimov kartochkasi).
 - **Begali Qosimov.** «Milliy uygʻonish» (2002, 292–297-betlar) va jamoaviy «Milliy uygʻonish davri oʻzbek adabiyoti» (2004) kitoblarida Ibratga sahifalar ajratilgan. Ulardagi aniq baholar veb-manbalarda topilmadi.
 - **K. Vohidova.** 2002-yilda Ibratning tarixiy-ilmiy merosi boʻyicha tarix fanlari nomzodligi dissertatsiyasini himoya qilgan. «Tarixi Fargʻona»ning qoʻlyozma nusxalari va variantlarini aniqlashtirgan.
@@ -488,7 +488,7 @@ mezon, vazn, hosili mezon, tarozu; tabodili zamon, inqilobi zamon; ashyoi jadida
 5. «Bizni(ng) xalqni(ng) ixlosi libosga, odamga emas.» — «Mezon uz-zamon», 8-mezon.
 6. «Oʻranmoq kerak, tanballik ila maqsadga erishilmaz. Oʻranung, oʻranung, oʻranung.» — «Mezon uz-zamon», 2-mezon.
 7. «Ibrat taxallusimdur, ahfodi Hazrati Sulton, Shuhratda – Hoji to‘ra, ma’vosi – To‘raqo‘rg‘on.» — «Ilmi Ibrat», 1909, 4-bet (Dolimov 2024).
-8. «Har bir lison safar ahlina yuz oltun barobarinda» — «Jomeʼ ul-xutut», 1912, 5-bet (Dolimov 2024; Roʻziyevada «oltin» shaklida).
+8. «Har bir lison safar ahlina yuz oltun barobarinda» — Dolimov 2024 da manbasiz keltirilgan (Roʻziyevada «oltin» shaklida). Shunga yaqin asl jumla «Lugʻati sitta al-sina» (1901, 2-bet) muqaddimasida bor: «bir lison sayohat ahlina yuz oltun barobarinda ishladiki» (Dolimov 2024). Dolimovdagi «Jomeʼ ul-xutut», 5-bet havolasi esa keyingi iqtibosga («Har bir zavvor va ahli fazl kishini ko‘rsam...») tegishli.
 9. «Biz turkistonliklarga birinchi zarurimiz rusiya xatidurki, muni qozi va mudarrislar inkor qilmaslar.» — «Jomeʼ ul-xutut», 74-bet (Dolimov 2024).
 10. «...adabiymilliyona qilmay, ravshan turkiy qildim.» — «Jomeʼ ul-xutut» muqaddimasi (Dolimov 2024).
 11. «Madaniyatni topadurgan va yurguzadurgan asbobi – ilmdur». — «Tarixi madaniyat», inv. 11616 (Dolimov 2024).
@@ -552,3 +552,45 @@ mezon, vazn, hosili mezon, tarozu; tabodili zamon, inqilobi zamon; ashyoi jadida
 - Hibs va oʻlim sanalari manbalarda turlicha. 1937-yilgi tergov ishini topish kerak.
 - Dolimov «Mezon»dan «I daftar, 36-bet» va «II daftar, 45-bet» deb iqtibos keltiradi. Qoʻlyozma bir necha daftardan iboratmi yoki boshqa tahrir bormi, aniqlash kerak.
 - «Lugʻati sitta al-sina» qayerda bosilgan: «Ilʼin» yoki anaxronistik «Lenin» bosmaxonasida?
+
+---
+
+## Tekshiruv qaydlari
+
+*2026-yil oktabrda oʻtkazilgan qayta tekshiruv. Faktlar mahalliy matnlar (`_holat/chunks/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat__01.txt`, `_holat/chunks/ishoqxon-tora-ibrat-mezon-uz-zamon__01.txt`), asar kartochkalari va veb-manbalar (uz.wikipedia, yuz.uz/Alimova 2021, cyberleninka/Nasriddinov 2021, oriens.uz/Boltaboyeva 2025, kun.uz 2022) bilan solishtirildi.*
+
+### Tuzatilganlar
+
+1. **Otasi haqida.** Avval «Vikipediyaga koʻra, ota-onasi 1870-yillarda ajrashgan» deyilgan edi. Vikipediyada esa «1870-yillarda otasidan ayrilgan» deyilgan, ajrashish haqida gap yoʻq. Bu Dolimovning «1870-yillarning ikkinchi yarmida otasi Junaydulloxo‘ja vafot etadi» degan maʼlumotiga zid emas. Tuzatildi.
+2. **Lavozimdan chetlatilish.** Avval «Dolimovda 1920-yillarning ikkinchi yarmi» deyilgan edi. Dolimov matnida bunday sana yoʻq: 1920-yillarning ikkinchi yarmi u yerda «Tarixi Fargʻona» qayta ishlangan vaqt sifatida tilga olinadi. Faqat 1935-yil (Vikipediya, UzA) qoldirildi, xronologiya jadvali ham tuzatildi.
+3. **Maqolalar soni.** Qisqacha boʻlimdagi «ellikka yaqin» oʻrniga Dolimov matnidagi «ellikdan oshiq», shundan taxminan 30 tasi TVG da, deb yozildi.
+4. **«Tarjumon»dagi xabar muallifi.** «Sh. Shahidiy» emas, Abdurauf Oxundzoda Shahidiy (Shahidullin): «Idoraya maktub», «Tarjumon», 1907, 12-oktabr, 66-son (Dolimov 2024). Xabarga koʻra, «Maktabi Isʼhoqiya» 1907-yil iyun oyida ochilgan. Bu maʼlumot 1907-yil bandiga qoʻshildi.
+5. **«Har bir lison safar ahlina yuz oltun barobarinda».** Bu jumla avval «Jomeʼ ul-xutut», 5-betga nisbat berilgan edi. Dolimovda u manbasiz keladi, 5-bet havolasi esa undan keyingi iqtibosga tegishli. Unga yaqin asl jumla («bir lison sayohat ahlina yuz oltun barobarinda ishladiki») «Lugʻati sitta al-sina» (1901, 2-bet) muqaddimasida bor. Atribusiya tuzatildi.
+6. **TVG taqrizi (1901).** Roʻziyeva orqali olingan iqtibos qoldirildi, yoniga Dolimov matnidagi varianti («shuncha», «lug‘at») va sanasi (1901, 4-avgust) qoʻshildi. Son raqami (30-son) Dolimovda yoʻq.
+7. **Ilmiy nasr iqtibosi** («...lisonlar tahsiliga ko‘shish edub...»). Manbadagi «“Lug‘ati sitta als ina”» terilishi asl holida tiklandi, chunki iqtibos harfma-harf boʻlishi kerak.
+8. **J. Zokiriy iqtibosi.** «asarning egasi» shakli manbada «asarning egasiga» (toʻgʻri baho berib...). Shakli manbaga moslashtirildi.
+9. **Chet tillari instituti.** Institut 2022-yilda Prezident qarori bilan tashkil etilgani qoʻshildi (kun.uz, 2022-yil 10-iyun; president.uz).
+
+### Tasdiqlanganlar (qisqacha)
+
+- Tugʻilgan yil 1862 (1279 h.), Toʻraqoʻrgʻon (Dolimov; Vikipediya; Nasriddinov «March 21, in 1862»). Vafoti 1937, Andijon qamoqxonasi (Dolimov; Vikipediya; yuz.uz; cyberleninka).
+- 1878–1885 Muhammad Siddiq Tunqotar madrasasi; 1887 haj, onasi Huribibi Jiddada vafot etgan; Istanbul, Sofiya, Afina, Rim, Parij; 1892–1896 Bombey va Kalkutta; 1896 Birma, Xitoy, Qashqar orqali qaytish (Dolimov; Vikipediya).
+- 1898 va 1900-yil 26-fevraldagi Ostroumovga maktublar (OʻzR MDA, 1009-fond, 115-ish); lugʻatning 1901-yilda bosilishi (Dolimovda bir joyda «Ilyin», bir joyda anaxronistik «V.I.Lenin bosmaxonasi»).
+- 1905-yildagi hammom (TVG, 1905, 23-son); 1907-yil 15-martdagi Munavvarqori «Daʼvatnoma»si (imtihonlar may oyida, «Xoniya» maktabida); 1908-yilgi Rossiya safari, Gaufman, «Matbaayi Isʼhoqiya» (noyabr–dekabr); 1910-yilda matbaaning Namanganga koʻchirilishi; 1912-yilgi qizlar guruhi (Fotiha Makayeva); 1913-yilgi «At-Tujjorun Namangon» arizasi; 1914–1916 «Uchitel» maktabi; 1918-yil 12-may va sentabr; 1932-yilgi zilzila; 1937-yil mart (Dolimov); Rotibxonning «endi besh yoshga to‘lgan»i; 1922-yilda Abbosxonning oʻldirilishi — Dolimov matnida bor.
+- yuz.uz (Alimova 2021): 1937-yil 7-yanvardagi hibs, «2 oydan soʻng» vafot, 1959-yil 2-oktabr (3336-raqamli hujjat), 1929-yilgi musodara, 1919-yilgi qizlar maktabi, 1996-yilgi muzey binosi, 2017-yil 5-sentabrdagi maktab-internat qarori, birinchi maktabning «olti oy oʻtmay» yopilgani.
+- Boltaboyeva 2025: «Fiqhi Kaydoniy nazmi» 1908, Qozon, inv. 20099, 12690, 16315; «Ilmi Ibrat» inv. 9987; «Jomeʼ ul-xutut» inv. 621; «Tarixi Fargʻona» inv. 11080, 11616, 10117 va 1921-yilgi koʻchirma; «Mezon uz-zamon» inv. 11618, 1916–1925; Komatsu–Bobojonov nashri 2001; «Tarixi madaniyat» 1926, inv. 11616; inv. 11617 va 1963; «Tazkirai Qayyumiy»dagi xato 1876.
+- Mahalliy kitoblarga nisbat berilgan barcha verbatim iqtiboslar («Mezon uz-zamon»dan va Dolimov kitobidan) chunk fayllarida grep bilan topildi. «Mezon» iqtiboslarining mezon raqamlari ham tekshirildi: «Asli illat…» va «Mezon – barobar…» 1-mezonda, «Oʻranmoq kerak» 2-mezonda, «Hosili kalomul…» 5-mezonda, «ixlosi libosga…» va «Yorti mullo…» 8-mezonda.
+
+### Bahsli yoki tekshirilmagan holda qolganlar
+
+- **Hibs sanasi** (7-yanvar / mart / aprel / «erta bahor») va **qamoqda yotgan muddat** (2 oy / 5–6 oy). Manbalar bir-biriga zid, 1937-yilgi tergov ishi koʻrilmagan.
+- **Madrasani tugatgan va birinchi maktabni ochgan yil:** 1885 (Dolimov, Vikipediya) yoki 1886 (yuz.uz, Roʻziyeva).
+- **Qozilik muddati:** «yigirma yildan ortiq» (Dolimov) yoki «oʻn yil» («Mezon»).
+- **«Mezon uz-zamon» sanasi:** 1918–1919 (Zokiriy), 1916–1925 (Boltaboyeva), 1928 (Vikipediya). Komatsu–Bobojonov nashri yili 2001 (Boltaboyeva) yoki 1994 (Sariboyeva).
+- **«Sanʼati Ibrat»:** 1908 (Dolimov, Vikipediya roʻyxati) yoki 1906 (Vikipediya matni). **«Fiqhi Kaydoniy nazmi»:** 1908 (Boltaboyeva) yoki 1916 (Vikipediya).
+- **Dolimovning «Isʼhoqxon Ibrat» monografiyasi:** Dolimov 2024 adabiyotlar roʻyxatida «Sharq, 1994», Vikipediyada «Fan, 1984». Ikki alohida nashr boʻlishi mumkin, tekshirilmagan.
+- **Dolimovning 1971-yilgi nomzodlik dissertatsiyasi** va **«Qutadgʻu bilig» Namangan nusxasining Fitrat orqali oʻtgani** (yuz.uz, Dolimov 2022) Dolimov 2024 matnida topilmadi. Veb-tadqiqot fayliga tayanadi, qayta tekshirilmagan.
+- **«Новый порядок в мактабе» (TVG, 1907, 66-son).** Dolimov bu sarlavha ostida ham gazeta maʼmuriyatining Husanxoʻja maktabi haqidagi xabarini, ham Ibratning tanqidiy jumlasini keltiradi. Maqola muallifi Ibratmi yoki tahririyatmi, aniq emas. «Eski hasharot uyalari» iqtibosini Dolimov «O‘sha manba» deb, yaʼni oʻsha 66-songa havola qilib beradi. Wikisource esa «Eski maktablar xususida» (72-son) matnini beradi. Bu ikkisining munosabati tekshirilmagan.
+- **Prezident sayti, podrobno.uz, EverybodyWiki, Sariboyeva** maʼlumotlari (tillar soni, «antisovet tashviqot» ayblovi, «aprel 1862») qayta ochib koʻrilmadi.
+- **«Tazkirayi Uvaysiya» (1917) va «Tarixi hurriyat»** faqat Vikipediyada uchraydi, ikkinchi manba topilmadi.
+- **«Turkiston qozilari sʼyezdi» rahbarligi** faqat Mulla Iskandarning 1963-yilgi ogʻzaki xotirasiga (Dolimov orqali) tayanadi.
