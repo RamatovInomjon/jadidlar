@@ -3,12 +3,12 @@
 > **Fayl haqida.** Bu tadqiqot fayli internet manbalari va loyiha papkasidagi «Jadidlar» turkumi risolalari (Toshkent, 2024, «Mutolaa» elektron nashri) asosida tuzildi. Har bir faktdan keyin kvadrat qavsda manba URL yoki mahalliy fayl yoʻli berilgan. Ikki manba bir-biriga zid kelgan joylar oxiridagi «Ziddiyatli maʼlumotlar» boʻlimida yigʻilgan. Kitoblardan olingan aynan iqtiboslar manbadagi imlo va apostroflar (‘ ’) bilan saqlangan. Manba matnidan yoki keltirilgan sahifadan emas, umumiy bilimdan olingan gaplar «[umumiy bilim — tekshirilmagan]» deb belgilangan. Baʼzi maʼlumotlar sahifaning oʻzidan emas, qidiruv natijalarining qisqa parchalaridan olingan, ular «(qidiruv parchasi)» deb koʻrsatilgan.
 >
 > Mahalliy manbalar qisqartmasi:
-> - **[Xolboyev 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub`
-> - **[Abdurashidov 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub`
-> - **[Quronov 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub`
-> - **[Karimov 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub`
-> - **[Boltaboyev 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub`
-> - **[Usmonov 2024]** = `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`
+> - **[Xolboyev 2024]** = `Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub`
+> - **[Abdurashidov 2024]** = `Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub`
+> - **[Quronov 2024]** = `Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub`
+> - **[Karimov 2024]** = `Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub`
+> - **[Boltaboyev 2024]** = `Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub`
+> - **[Usmonov 2024]** = `Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`
 
 ---
 
@@ -222,7 +222,7 @@ Behbudiyning «Padarkush» dramasi 1911-yilda yozilgan. Manbalarga koʻra, u 191
 - **2024-yil 30-may:** Prezidentning «Jadidlar merosi davlat muzeyini tashkil etish to‘g‘risida»gi qarori. Muzey Buxorodagi «Hovli Poyon» majmuasida («Xo‘ja Gulrez ko‘chasi 13-uy») joylashadi va Madaniyat va sanʼatni rivojlantirish jamgʻarmasi tizimiga kiradi. Xarajatlari Buxoro viloyati byudjeti va muzeyning oʻz daromadlari hisobidan qoplanadi. Eksponatlar importi 2025-yil 1-yanvargacha bojxona toʻlovlaridan ozod qilingan. Eksponatlar «Milliy merosga mening hissam» aksiyasi orqali yigʻiladi. Masʼullar: G. Umerova va B. Zaripov; nazorat Bosh vazir A. Aripovga yuklangan [https://uza.uz/posts/603428; https://uz.kursiv.media/uz/2024-05-31/buxoroda-jadidlar-merosi-davlat-muzeyi-ochiladi/amp/; https://www.afisha.uz/uz/gorod/2024/05/31/jadidlar]. Muzey ochilganini tasdiqlovchi manba topilmadi.
 - **2024-yil 18-iyul – 2025-yil 3-dekabr:** Toshkentda «Jadidlar: Turkistonga maktublar» multimedia koʻrgazmasi oʻtkazilgan [https://acdf.uz/news/uzbekistan-art-and-culture-development-foundation-concludes-jadids-letters-to-turkestan-multimedia-exhibition] (qidiruv parchasi).
 - **2024-yil 19-iyul:** siyosiy qatagʻon qurbonlarining hayoti va faoliyatini oʻrganish hamda xotirasini abadiylashtirish toʻgʻrisida Prezident qarori qabul qilingan, respublika komissiyasi tuzilgan. 2024-yil 31-avgustdagi marosimda oxirgi uch yilda 1200 dan ortiq nom oqlangani aytilgan [https://anhor.uz/uzl/news/shavkat-mirziyoyev-eng-katta-maktab-eng-katta-tarbiya-tarixning-o-zi/]. UzA (2026) maʼlumotiga koʻra, oxirgi sakkiz yilda 1,2 mingdan ortiq kishi oqlangan [https://uza.uz/ar/posts/qatagon-qurbonlari-xotirasi-tarixiy-adolat-va-milliy-xotira-sabogi_917966].
-- **«Jadidlar» risolalar turkumi.** Loyiha papkasida «Toshkent, 2024» deb belgilangan, «Mutolaa» elektron nashri boʻlgan «Ilmiy-ommabop» turkumning sakkiz risolasi bor: B. Karimov (Qodiriy), D. Quronov (Choʻlpon), H. Boltaboyev (Fitrat), O. Oltinbek (Avloniy), O. Usmonov (Gʻulom Zafariy), S. Xolboyev (Munavvar qori), U. Dolimov (Ibrat), Z. Abdurashidov (Behbudiy) [`/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/`]. Har bir risola Prezident Sh. Mirziyoyevdan epigraf bilan ochiladi. Masalan, Xolboyev risolasida: «“Buyuk ajdodlarimizning muqaddas xotirasi va jasoratlari oldida bosh egamiz. O‘z tarixini bilgan yutadi”» [Xolboyev 2024]. Turkumni rasman belgilagan qaror yoki uning nashriyot maʼlumotlari internetda topilmadi.
+- **«Jadidlar» risolalar turkumi.** Loyiha papkasida «Toshkent, 2024» deb belgilangan, «Mutolaa» elektron nashri boʻlgan «Ilmiy-ommabop» turkumning sakkiz risolasi bor: B. Karimov (Qodiriy), D. Quronov (Choʻlpon), H. Boltaboyev (Fitrat), O. Oltinbek (Avloniy), O. Usmonov (Gʻulom Zafariy), S. Xolboyev (Munavvar qori), U. Dolimov (Ibrat), Z. Abdurashidov (Behbudiy) [`Jadidlar_kitoblari_epub/`]. Har bir risola Prezident Sh. Mirziyoyevdan epigraf bilan ochiladi. Masalan, Xolboyev risolasida: «“Buyuk ajdodlarimizning muqaddas xotirasi va jasoratlari oldida bosh egamiz. O‘z tarixini bilgan yutadi”» [Xolboyev 2024]. Turkumni rasman belgilagan qaror yoki uning nashriyot maʼlumotlari internetda topilmadi.
 - **2026-yil 13-oktabr:** Navoiy nomidagi Milliy kutubxonada yangi nashrlar taqdimoti boʻlgan. Ular orasida «Germaniyada Turkiston adabiyoti» va Sh. Madayevaning «Jadid falsafasi va milliy identiklik» monografiyasi bor [https://gov.uz/oz/academy/news/view/232964] (qidiruv parchasi).
 
 ---
@@ -233,7 +233,7 @@ Behbudiyning «Padarkush» dramasi 1911-yilda yozilgan. Manbalarga koʻra, u 191
 - **Edvard Olvort:** *The Modern Uzbeks: From the Fourteenth Century to the Present* (Hoover, 1990), muharrir sifatida *Central Asia: 120 Years of Russian Rule* (1989). Keyingi tadqiqotlari jadidlar intellektual tarixiga qaratilgan [https://cmeslibrary.sbs.arizona.edu/index.php/node/2064; https://en.wikipedia.org/wiki/Jadid; https://oxussociety.org/publications/paying-tribute-to-the-last-of-the-great-masters-of-central-asian-studies-edward-allworth] (qisman qidiruv parchasi).
 - **Stefan Dyudoyon va Xisao Komatsu** (muharrirlar): *Islam in Politics in Russia and Central Asia (Early Eighteenth to Late Twentieth Centuries)* (London, 2001). Dyudoyonning 2004-yilda *Central Asian Survey* jurnalida jadid harakati va islohot haqida maqolasi chiqqan [https://academics.hamilton.edu/central-asian-history/khalid-resources] (qidiruv parchasi).
 - **Ingeborg Baldauf:** bu ish doirasida uning jadidchilikka oid asarini tasdiqlovchi veb-manba topilmadi.
-- **Oʻzbek olimlari:** Begali Qosimov (*Milliy uyg‘onish: jasorat, ma’rifat, fidoyilik*. – T.: Ma’naviyat, 2002, Xolboyev iqtibosidan) [Xolboyev 2024]; Naim Karimov (*Cho‘lpon*. – Toshkent: Fan, 1991, Quronov iqtibosidan) [Quronov 2024]; Dilmurod Quronov, Hamidulla Boltaboyev, Sotimjon Xolboyev, Ulugʻbek Dolimov, Bahodir Karimov («Jadidlar» turkumi mualliflari) [`/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/`]. Sherali Turdiyev va Shuhrat Rizayevning asarlari bu ishda bevosita koʻrib chiqilmadi.
+- **Oʻzbek olimlari:** Begali Qosimov (*Milliy uyg‘onish: jasorat, ma’rifat, fidoyilik*. – T.: Ma’naviyat, 2002, Xolboyev iqtibosidan) [Xolboyev 2024]; Naim Karimov (*Cho‘lpon*. – Toshkent: Fan, 1991, Quronov iqtibosidan) [Quronov 2024]; Dilmurod Quronov, Hamidulla Boltaboyev, Sotimjon Xolboyev, Ulugʻbek Dolimov, Bahodir Karimov («Jadidlar» turkumi mualliflari) [`Jadidlar_kitoblari_epub/`]. Sherali Turdiyev va Shuhrat Rizayevning asarlari bu ishda bevosita koʻrib chiqilmadi.
 - **Sovet tarixshunosligi:** Rus Vikipediyasi adabiyotlar roʻyxatida Vahobov (1963), Botiyev (1964), Braginskiy (1965) asarlari bor [https://ru.wikipedia.org/wiki/Джадидизм]. Bir oʻzbek maqolasida sovet davridagi «burjua-liberal» taʼrifi va mustaqillikdan keyingi qayta baholash qiyoslangan [https://uz.wikipedia.org/wiki/Jadidchilik].
 
 ---
@@ -344,9 +344,9 @@ Behbudiyning «Padarkush» dramasi 1911-yilda yozilgan. Manbalarga koʻra, u 191
 - «Milliy ittihod» — oyina.uz (ochilmadi, qidiruv parchasi) — https://oyina.uz/uz/article/896
 
 **Mahalliy manbalar (loyiha papkasi)**
-- S. Xolboyev. Jadidlar. Munavvar qori Abdurashidxonov. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub
-- Z. Abdurashidov. Jadidlar. Mahmudxoʻja Behbudiy. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub
-- D. Quronov. Jadidlar. Abdulhamid Choʻlpon. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub
-- B. Karimov. Jadidlar. Abdulla Qodiriy. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub
-- H. Boltaboyev. Jadidlar. Abdurauf Fitrat. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub
-- O. Usmonov. Jadidlar. Gʻulom Zafariy. – Toshkent, 2024 — /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub
+- S. Xolboyev. Jadidlar. Munavvar qori Abdurashidxonov. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub
+- Z. Abdurashidov. Jadidlar. Mahmudxoʻja Behbudiy. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub
+- D. Quronov. Jadidlar. Abdulhamid Choʻlpon. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub
+- B. Karimov. Jadidlar. Abdulla Qodiriy. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub
+- H. Boltaboyev. Jadidlar. Abdurauf Fitrat. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub
+- O. Usmonov. Jadidlar. Gʻulom Zafariy. – Toshkent, 2024 — Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub

@@ -612,12 +612,12 @@ Taassufki, bunday baxshilar kundankunga kamayib bormoqdalar, do‘mbira esa ba�
 
 ### Mahalliy fayllar
 
-- `/home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md` — Usmonov risolasi kartochkasi (asosiy).
-- `/home/user/jadidlar/knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` — risolaning toʻliq matni (barcha verbatim iqtiboslar shu yerdan; EPUB asli: `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`).
-- `/home/user/jadidlar/knowledge/asarlar/habibulla-qodiriy-otam-haqida.md` va `_holat/chunks/habibulla-qodiriy-otam-haqida__01.txt` (406, 454-satrlar), `__02.txt` (1462), `__03.txt` (285, 758–798), `__04.txt` (415, 767–780).
-- `/home/user/jadidlar/knowledge/asarlar/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md` va `_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt` (577–586-satrlar).
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-zafariy.md` — veb-tadqiqot fayli.
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-elbek.md`, `muallif-botu.md`, `jadidchilik-tarixi.md` — yondosh maʼlumotlar.
+- `knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md` — Usmonov risolasi kartochkasi (asosiy).
+- `knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` — risolaning toʻliq matni (barcha verbatim iqtiboslar shu yerdan; EPUB asli: `Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`).
+- `knowledge/asarlar/habibulla-qodiriy-otam-haqida.md` va `_holat/chunks/habibulla-qodiriy-otam-haqida__01.txt` (406, 454-satrlar), `__02.txt` (1462), `__03.txt` (285, 758–798), `__04.txt` (415, 767–780).
+- `knowledge/asarlar/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md` va `_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt` (577–586-satrlar).
+- `knowledge/manbalar_web/muallif-zafariy.md` — veb-tadqiqot fayli.
+- `knowledge/manbalar_web/muallif-elbek.md`, `muallif-botu.md`, `jadidchilik-tarixi.md` — yondosh maʼlumotlar.
 - Bogʻliq profillar: `avloniy.md`, `fitrat.md`, `cholpon.md`, `qodiriy.md`, `hamza.md`, `botu.md` (shu papkada).
 
 ### Veb-manbalar

@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Seni koʻb koʻrmasun»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (kichik hajmli realistik-psixologik novella; muallif qoʻygan ichki sarlavha: «(Fargʻona hayotidan)») · **Yozilgan/nashr:** matn oxirida «1923-yil, iyun» deb sanasi koʻrsatilgan; elektron nashr: «Toshkent, 2024» (EPUB metamaʼlumotida nashriyot sifatida «Mutolaa» qayd etilgan) · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Seni koʻb koʻrmasun.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (kichik hajmli realistik-psixologik novella; muallif qoʻygan ichki sarlavha: «(Fargʻona hayotidan)») · **Yozilgan/nashr:** matn oxirida «1923-yil, iyun» deb sanasi koʻrsatilgan; elektron nashr: «Toshkent, 2024» (EPUB metamaʼlumotida nashriyot sifatida «Mutolaa» qayd etilgan) · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Seni koʻb koʻrmasun.epub
 
 > Hajmi: hikoya matni taxminan 680–700 soʻz (EPUB matnining 29–99-satrlari). Birinchi nashr qayerda chiqqani (gazeta/jurnal nomi) manba faylda koʻrsatilmagan; internet qidiruvida ham bu hikoya haqida aniq maʼlumot topilmadi.
 
@@ -80,7 +80,7 @@ Hikoya bola beshigi (toʻshak) ustidagi ona obrazi bilan ochilib, xuddi shu obra
 
 7. **Taqdir va duo.** Sarlavhadagi xalq iborasi — xalqona dinidorlik va ojizlik ifodasi: odam qoʻlidan hech narsa kelmaganda, faqat Xudoga iltijo qoladi. Hikoya «Tangrimga shukr» bilan boshlanib, «xudoyim … koʻp koʻrmasin» bilan tugaydi — shukrdan iltijoga.
 
-8. **Jadidcha didaktikaning yoʻqligi.** Hikoyada «millat», «taraqqiy», «maorif», «jaholat», «vatan», «hurriyat» kabi jadid kalit soʻzlari **umuman uchramaydi**. Bu Choʻlponning 1920-yillar boshidagi nasrida publitsistik-maʼrifiy hikoyadan («Qurboni jaholat», 1914) [umumiy bilim — tekshirilmagan sana] sof realistik, «koʻrsatuvchi» (telling emas, showing) hikoyaga oʻtishining dalilidir. Muallif xulosa chiqarmaydi, faqat tasvirlaydi.
+8. **Jadidcha didaktikaning yoʻqligi.** Hikoyada «millat», «taraqqiy», «maorif», «jaholat», «vatan», «hurriyat» kabi jadid kalit soʻzlari **umuman uchramaydi**. Bu Choʻlponning 1920-yillar boshidagi nasrida publitsistik-maʼrifiy hikoyadan («Qurboni jaholat», 1914, «Sadoyi Turkiston», 6-son: [kartochka](abdulhamid-cholpon-qurboni-jaholat.md)) sof realistik, «koʻrsatuvchi» (telling emas, showing) hikoyaga oʻtishining dalilidir. Muallif xulosa chiqarmaydi, faqat tasvirlaydi.
 
 ---
 
@@ -305,7 +305,7 @@ Matn lotin yozuviga oʻgirilgan, ammo 1920-yillar fonetik imlosining koʻp belgi
 **Umumiy bilim (manba matnida yoʻq):**
 - Fargʻona vodiysida 1918-yildan 1920-yillar oʻrtasigacha bosmachilik harakati va qizil armiya oʻrtasida qurolli kurash boʻlgan; qoʻrboshilar xalq orasida «bek» deb ham atalgan [umumiy bilim — tekshirilmagan].
 - 1918-yil fevralida Turkiston muxtoriyati (Qoʻqon) tor-mor etilishida arman dashnak qurolli guruhlari ishtirok etgan va keyin vodiyda tinch aholiga zoʻravonlik qilgan [umumiy bilim — tekshirilmagan]. Hikoyadagi «armanlar» shunga ishora boʻlishi mumkin.
-- Choʻlpon 1897-yilda Andijonda tugʻilgan, 1938-yilda qatagʻon qilingan [umumiy bilim — tekshirilmagan]. 1923-yil atrofida u Toshkentda matbuotda faol ishlagan, «Buloqlar» (1923) sheʼriy toʻplami chiqqan [umumiy bilim — tekshirilmagan].
+- Choʻlpon 1897-yilda (ayrim manbalarda 1893) Andijonda tugʻilgan, 1938-yil 4-oktabrda otilgan; «Buloqlar» toʻplamining yili manbalarda 1922, 1923 yoki 1924 deb beriladi ([cholpon.md](../mualliflar/cholpon.md); [01_xronologiya.md](../01_xronologiya.md), 11-boʻlim).
 - Internet qidiruvi (WebSearch, 2026-10-21) Choʻlponning Fargʻona bilan bogʻliqligini (otasi «Sadoyi Fargʻona» gazetasining Andijon muxbiri boʻlgani, Choʻlponning 1919-yilda Fargʻonada chiqqan «Yangi Sharq» gazetasida ishlagani haqida maʼlumot — Wikipedia/uza.uz natijalarida) koʻrsatdi, ammo aynan ushbu hikoya haqida alohida maʼlumot topilmadi.
 
 ---

@@ -1,6 +1,6 @@
 # Abdulla Qodiriy — «Mehrobdan chayon (roman)»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** tarixiy-ijtimoiy roman (satirik-maishiy va lirik-romantik qatlamlar bilan; muallif atamasi — «roʻmon») · **Yozilgan/nashr:** muallif soʻzboshisi «Toshkand, 1928-yil, 5-fevral», soʻnggi soʻz «Toshkand, 15-fevral 1928-yil» deb sanalangan; zamonaviy noshir annotatsiyasiga koʻra roman «1928-yil fevralda yozib tugatilgan» va «birinchi marta 1929-yil Samarqandda bosilib chiqdi»; ushbu nusxa — «Toshkent, 2024» (noshir logotipi: «mutolaa»), elektron shaklga Nargiza Odinayeva keltirgan · **Manba fayl:** /home/user/jadidlar/Jadidlar_kitoblari_epub/Abdulla Qodiriy - Mehrobdan chayon (roman).epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** tarixiy-ijtimoiy roman (satirik-maishiy va lirik-romantik qatlamlar bilan; muallif atamasi — «roʻmon») · **Yozilgan/nashr:** muallif soʻzboshisi «Toshkand, 1928-yil, 5-fevral», soʻnggi soʻz «Toshkand, 15-fevral 1928-yil» deb sanalangan; zamonaviy noshir annotatsiyasiga koʻra roman «1928-yil fevralda yozib tugatilgan» va «birinchi marta 1929-yil Samarqandda bosilib chiqdi»; ushbu nusxa — «Toshkent, 2024» (noshir logotipi: «mutolaa»), elektron shaklga Nargiza Odinayeva keltirgan · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Qodiriy - Mehrobdan chayon (roman).epub
 
 ### Matn qatlamlari: muallif matni va noshir qoʻshimchalari
 

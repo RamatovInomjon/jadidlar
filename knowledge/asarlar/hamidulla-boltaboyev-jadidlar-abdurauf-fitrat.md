@@ -1,6 +1,6 @@
 # Hamidulla Boltaboyev — «Jadidlar: Abdurauf Fitrat»
 
-- **Turi:** jadid haqidagi tadqiqot/xotira (aniqrogʻi — ilmiy-ommabop risola, xotira emas) · **Janr:** «Ilmiy-ommabop» (titulda shunday belgilangan); amalda — biografik ocherk + ijod sharhi + adabiyotshunoslik tadqiqoti qismlari + «Hikmatli soʻzlari» antologiyasi + «Eʼtirof» (iqtiboslar toʻplami) · **Yozilgan/nashr:** titulda «Toshkent / 2024» (elektron nashr «Mutolaa» logotipi bilan; «Ushbu asarni Ismoil Hoshimov elektron shaklga keltirdi»). Matnning oʻzi muallifning avvalgi ishlari («Abdurauf Fitrat», 1992; «Fitrat va jadidchilik», 2007; Fitrat «Tanlangan asarlar»i 5 jildligi, 2000–2008) asosida yigʻilgani koʻrinib turadi · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub
+- **Turi:** jadid haqidagi tadqiqot/xotira (aniqrogʻi — ilmiy-ommabop risola, xotira emas) · **Janr:** «Ilmiy-ommabop» (titulda shunday belgilangan); amalda — biografik ocherk + ijod sharhi + adabiyotshunoslik tadqiqoti qismlari + «Hikmatli soʻzlari» antologiyasi + «Eʼtirof» (iqtiboslar toʻplami) · **Yozilgan/nashr:** titulda «Toshkent / 2024» (elektron nashr «Mutolaa» logotipi bilan; «Ushbu asarni Ismoil Hoshimov elektron shaklga keltirdi»). Matnning oʻzi muallifning avvalgi ishlari («Abdurauf Fitrat», 1992; «Fitrat va jadidchilik», 2007; Fitrat «Tanlangan asarlar»i 5 jildligi, 2000–2008) asosida yigʻilgani koʻrinib turadi · **Manba fayl:** Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub
 
 ---
 

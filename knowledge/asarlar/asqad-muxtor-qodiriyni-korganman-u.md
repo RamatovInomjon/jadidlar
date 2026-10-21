@@ -1,6 +1,6 @@
 # Asqad Muxtor — «Qodiriyni koʻrganman-u...»
 
-- **Turi:** jadid haqidagi tadqiqot/xotira (aniqrogʻi — Abdulla Qodiriy haqidagi xotira-hikoya, miniatyura) · **Janr:** «Hikoya» (titulda shunday belgilangan); amalda — birinchi shaxs tilidan yozilgan memuar-novella, lirik-yumoristik xotira-etyud · **Yozilgan/nashr:** yozilgan sanasi matnda koʻrsatilmagan; ushbu elektron nashr titulida «Toshkent / 2024»; EPUB metamaʼlumotida «Mutolaa» manbasi va 2024-yil 16-iyul sanasi (calibre) qayd etilgan; elektron shaklga keltiruvchi — Muhammad Amin Mirsaidov · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Asqad Muxtor - Qodiriyni koʻrganman-u....epub
+- **Turi:** jadid haqidagi tadqiqot/xotira (aniqrogʻi — Abdulla Qodiriy haqidagi xotira-hikoya, miniatyura) · **Janr:** «Hikoya» (titulda shunday belgilangan); amalda — birinchi shaxs tilidan yozilgan memuar-novella, lirik-yumoristik xotira-etyud · **Yozilgan/nashr:** yozilgan sanasi matnda koʻrsatilmagan; ushbu elektron nashr titulida «Toshkent / 2024»; EPUB metamaʼlumotida «Mutolaa» manbasi va 2024-yil 16-iyul sanasi (calibre) qayd etilgan; elektron shaklga keltiruvchi — Muhammad Amin Mirsaidov · **Manba fayl:** Jadidlar_kitoblari_epub/Asqad Muxtor - Qodiriyni koʻrganman-u....epub
 
 ---
 
@@ -221,7 +221,7 @@ Eslatma: barcha iqtiboslar Asqad Muxtorning oʻz matnidan. Matnda Qodiriyning o�
 
 ---
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 **Matnning oʻzidan:**
 - Hikoyachi (Asqad Muxtor) bolaligida Abdulla Qodiriyni **Margʻilon bozorining beshik rastasidagi choyxonada** koʻrgan.
@@ -243,7 +243,7 @@ Eslatma: barcha iqtiboslar Asqad Muxtorning oʻz matnidan. Matnda Qodiriyning o�
 
 ## Tadqiqot uchun izohlar
 
-1. **Yozilgan sana nomaʼlum.** Matnda sana yoʻq; 2024-yil — faqat elektron nashr yili. Hikoyaning birinchi nashri (davriy matbuot yoki toʻplam) va yili alohida aniqlanishi kerak. Qodiriy 1956-yilda oqlanganidan keyin [umumiy bilim — tekshirilmagan] yozilgan boʻlishi deyarli aniq. Ochiq aytilmagan «taxtdan yiqilish» ishorasi bu matnni sovet senzurasi davrida yoki 1980-yillar oxirida yozilgan boʻlishi mumkinligini koʻrsatadi; bu farazni tekshirish kerak.
+1. **Yozilgan sana nomaʼlum.** Matnda sana yoʻq; 2024-yil — faqat elektron nashr yili. Hikoyaning birinchi nashri (davriy matbuot yoki toʻplam) va yili alohida aniqlanishi kerak. Qodiriy oqlanganidan keyin (1956 yoki 1957 — manbalar turlicha: [qodiriy.md](../mualliflar/qodiriy.md), «Hibs, oʻlim, reabilitatsiya») yozilgan boʻlishi deyarli aniq. Ochiq aytilmagan «taxtdan yiqilish» ishorasi bu matnni sovet senzurasi davrida yoki 1980-yillar oxirida yozilgan boʻlishi mumkinligini koʻrsatadi; bu farazni tekshirish kerak.
 2. **«Qodiriy — umrim, kasbim, taqdirim».** Bu eʼtirof Asqad Muxtorning Qodiriy merosi bilan bogʻliq ishlarini (adabiy-tanqidiy maqolalar, «Oʻtkan kunlar» haqida fikrlar, nashrga tayyorlash, Qodiriyni oqlash jarayonidagi ishtiroki va h.k.) oʻrganishga undaydi. Matnning oʻzida bunday faoliyat koʻrsatilmagan; bu ibora ancha keng maʼnoda (Qodiriy — butun oʻzbek nasrining namunasi sifatida) tushunilishi ham mumkin.
 3. **Qodiriyning shaxmat bilan qiziqishi.** Hikoya Qodiriyning shaxmatni yaxshi bilganiga dalil boʻladi (jahon chempionati partiyasining vaziyatini taxtada tiklagan yoki shunga oʻxshash oʻyinni oʻynagan). Bu Habibulla Qodiriyning «Otam haqida» xotiralari bilan solishtirilishi kerak (shu korpusda mavjud: «Habibulla Qodiriy - Otam haqida.epub»).
 4. **Qodiriy va Margʻilon.** Qodiriyning Margʻilonda boʻlishi (safar, ijodiy ish, «Oʻtkan kunlar»dagi Margʻilon manzaralari bilan bogʻliq taassurotlar) boshqa manbalar bilan tekshirilishi kerak. Matnda uning Margʻilonda nima uchun boʻlgani aytilmaydi.

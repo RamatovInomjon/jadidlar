@@ -6,7 +6,7 @@
 
 - **[UZWIKI]** — https://uz.wikipedia.org/wiki/Tavallo (kirill shakli: https://uz.wikipedia.org/wiki/Тавалло)
 - **[QOSIMOV-ZIYOUZ]** — https://ziyouz.uz/ilm-va-fan/adabiyot/milliy-uygonish/begali-qosimov-tulagan-xujamyorov-tavallo-1883-1937/ (Vikipediya orqali; bevosita ochilmadi)
-- **[EV]** — korpusdagi kitob: /home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub (matni: /home/user/jadidlar/knowledge/_holat/chunks/tavallo-ey-vatan-ezgu-vatan__01.txt, __02.txt). Undagi qismlar:
+- **[EV]** — korpusdagi kitob: Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub (matni: knowledge/_holat/chunks/tavallo-ey-vatan-ezgu-vatan__01.txt, __02.txt). Undagi qismlar:
   - [EV-Rahmonova] — D. Rahmonovaning soʻzboshisi
   - [EV-Qosimov1] — B. Qosimov, «Vatan va millatning oʻtligʻ kuychisi»
   - [EV-Qosimov2] — B. Qosimov, «Ikki taqdir: Tavallo va Hoji Muin» («Uygʻongan millat maʼrifati» kitobidan)
@@ -15,7 +15,7 @@
   - [EV-Vohidov] — E. Vohidov, «Tavalloning armoni»
   - [EV-Manbalar] — «Manbalar haqida maʼlumot»
   - [EV-matn] — Tavalloning kitobdagi oʻz matnlari va ularning manba koʻrsatkichlari
-- **[SHERLAR]** — /home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub (Toshkent, 2024; 8 sheʼr)
+- **[SHERLAR]** — Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub (Toshkent, 2024; 8 sheʼr)
 
 ---
 
@@ -264,7 +264,7 @@ Qosimov: «Maqolalari toʻplangan emas» [EV-Qosimov1]. Bu soʻz 2024-yilgi nash
     - Karimov (NKVD maʼlumotnomasi tarjimasi): «Agar inqilob bizni shunday ahvolga olib kelishini bilganimda, men jon-jahd bilan unga qarshi kurashgan boʻlar edim» [EV-Karimov].
     - Asl matn rus tilida boʻlgan boʻlishi kerak; har bir variant — tarjima. Bu soʻzlar agentura (chaqimchi) maʼlumotlaridan olingan, ularni Tavalloning oʻzi yozgan matn deb qabul qilib boʻlmaydi.
 11. «Mamlakatimiz – xomashyo bozori. Tayyorlash bizdan, isteʼmol qilish esa boshqalardan…» — NKVD maʼlumotnomasidagi gap [EV-Karimov].
-12. Munavvar qori haqida: «Чўқ мунаввар этди оламни Мунаввар қоримиз, / Кўрдимиз равшанлигидан феълимиз, атворимиз» — loyihaning boshqa faylidan olingan: /home/user/jadidlar/knowledge/manbalar_web/muallif-munavvarqori.md; u yerda manba sifatida https://books.yandex.ru/books/LeJJ50cf/read-online koʻrsatilgan (bu fayl uchun qayta tekshirilmadi).
+12. Munavvar qori haqida: «Чўқ мунаввар этди оламни Мунаввар қоримиз, / Кўрдимиз равшанлигидан феълимиз, атворимиз» — loyihaning boshqa faylidan olingan: knowledge/manbalar_web/muallif-munavvarqori.md; u yerda manba sifatida https://books.yandex.ru/books/LeJJ50cf/read-online koʻrsatilgan (bu fayl uchun qayta tekshirilmadi).
 
 ---
 
@@ -324,9 +324,9 @@ Qosimov: «Maqolalari toʻplangan emas» [EV-Qosimov1]. Bu soʻz 2024-yilgi nash
 
 **Korpusdagi kitoblar:**
 
-- «Tavallo. Ey Vatan, ezgu Vatan. Sheʼrlar va xotiralar». Toshkent, 2024 (tabdil va soʻzboshi: D. Rahmonova; xotiralar: E. Vohidov, B. Qosimov, N. Karimov, N. Davron) — /home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub
-- «Tavallo. Sheʼrlar». Toshkent, 2024 (elektron shaklga keltiruvchi: Dilmurod Doʻst) — /home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub
-- Korpusdagi tahlil fayllari: /home/user/jadidlar/knowledge/asarlar/tavallo-ey-vatan-ezgu-vatan.md, /home/user/jadidlar/knowledge/asarlar/tavallo-sherlar.md
+- «Tavallo. Ey Vatan, ezgu Vatan. Sheʼrlar va xotiralar». Toshkent, 2024 (tabdil va soʻzboshi: D. Rahmonova; xotiralar: E. Vohidov, B. Qosimov, N. Karimov, N. Davron) — Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub
+- «Tavallo. Sheʼrlar». Toshkent, 2024 (elektron shaklga keltiruvchi: Dilmurod Doʻst) — Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub
+- Korpusdagi tahlil fayllari: knowledge/asarlar/tavallo-ey-vatan-ezgu-vatan.md, knowledge/asarlar/tavallo-sherlar.md
 
 ---
 

@@ -6,7 +6,7 @@
 >
 > **Iqtiboslar haqida.** Kitoblardan olingan aynan iqtiboslar manbadagi imlo va apostroflari (‘ ’) bilan koʻchirildi va `_holat/chunks/` papkasidagi matnlar bilan solishtirib tekshirildi. Shu sababli iqtiboslar ichidagi imlo (masalan, «o‘», «g‘», «e’lon») fayldagi muallif matnining imlosidan («oʻ», «gʻ», «eʼlon») farq qiladi. Veb-sahifalardan olingan iqtiboslar `manbalar_web/` fayllaridagi shaklida berildi.
 >
-> **Mahalliy kitoblar qisqartmasi** («Jadidlar» ilmiy-ommabop risolalar turkumi, Toshkent, 2024, «Mutolaa» elektron nashri; fayllar `/home/user/jadidlar/Jadidlar_kitoblari_epub/` papkasida):
+> **Mahalliy kitoblar qisqartmasi** («Jadidlar» ilmiy-ommabop risolalar turkumi, Toshkent, 2024, «Mutolaa» elektron nashri; fayllar `Jadidlar_kitoblari_epub/` papkasida):
 > - **[Xolboyev 2024]** — Sotimjon Xolboyev. Jadidlar. Munavvar qori Abdurashidxonov.
 > - **[Abdurashidov 2024]** — Zaynobiddin Abdurashidov. Jadidlar. Mahmudxoʻja Behbudiy.
 > - **[Boltaboyev 2024]** — Hamidulla Boltaboyev. Jadidlar. Abdurauf Fitrat.
@@ -269,7 +269,7 @@ Teatrdan oldingi izlar ham bor. B. O. Pestovskiy 1909-yilda Qorakoʻl yaqinidagi
 
 **«Turon» truppasi.** Avloniy tashabbusi bilan 1913-yilda tuzilgan, Turkistonning birinchi professional teatr jamoasi hisoblanadi [https://uza.uz/ar/posts/abdulla-avloniy-jamiyatdagi-ijtimoiy-illatlarga-qarshi-qanday-kurashgan_876309]. Miyon Buzruk Solihovga koʻra, havaskor tarzda toʻplangan bu toʻda 1914-yil oxirida rasman «Turon toʻdasi» nomini olgan [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf]. Avloniy «Tarjimai holi»da shunday yozgan: «1913-yildan boshlab xalqni ko’zin ochmoq, madaniyatga yaqinlashtirmoq uchun teatruga kirishib, teatru ishlarini yo’lga qo’yuvchilarning boshlug’u bo’lub, Turkistonning bir necha shaharlariga borib o’zbeklar orasida teatruga yo’l ochdim.» [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf]. 1916-yilda qabul qilingan 73 bandli nizom truppaga klub, musiqa kurslari, kutubxona, qiroatxona va boshlangʻich maktablar ochish huquqini bergan [https://uza.uz/ar/posts/abdulla-avloniy-jamiyatdagi-ijtimoiy-illatlarga-qarshi-qanday-kurashgan_876309]. Gʻulom Zafariy 1913-yil oxiridan bu truppada aktyor va rejissor yordamchisi boʻlgan (`mualliflar/zafariy.md`).
 
-**Ilk dramalar.** Samarqand va Toshkentdan keyin Kattaqoʻrgʻon, Qoʻqon, Namangan, Andijon va Buxoro amirligida havaskor truppalar tuzilgan [https://uza.uz/ar/posts/ibratxonaga-aylangan-tomoshagoh-behbudiy-turkiston-uchun-nega-aynan-teatrni-tanladi_875559]. 1915–1916-yillarda Qodiriyning «Baxtsiz kuyov» va Hoji Muinning «Mazluma xotun» pyesalari sahnalashtirilgan [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf]. Hamzaning «Zaharli hayot» (1915 yoki 1916) va Avloniyning «Advokatlik osonmi?» (1916) dramalari ham shu davrga tegishli [https://en.wikipedia.org/wiki/Hamza_Hakimzade_Niyazi; https://uza.uz/ar/posts/abdulla-avloniy-jamiyatdagi-ijtimoiy-illatlarga-qarshi-qanday-kurashgan_876309]. Sovet davrida Fitratning «Hind ixtilolchilari», «Abulfayzxon» kabi dramalari, Zafariyning birinchi oʻzbek musiqali dramasi hisoblangan «Halima» (1920) yaratilgan (`mualliflar/fitrat.md`; `mualliflar/zafariy.md`). Mirzayevaning xulosasi shunday: «o’zbek teatri jadidchilik harakatining mrvasi – ma’rifiy teatr sifatida tug’ilgan edi» (manbadagi imlo xatosi bilan) [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf].
+**Ilk dramalar.** Samarqand va Toshkentdan keyin Kattaqoʻrgʻon, Qoʻqon, Namangan, Andijon va Buxoro amirligida havaskor truppalar tuzilgan [https://uza.uz/ar/posts/ibratxonaga-aylangan-tomoshagoh-behbudiy-turkiston-uchun-nega-aynan-teatrni-tanladi_875559]. 1915–1916-yillarda Qodiriyning «Baxtsiz kuyov» va Hoji Muinning «Mazluma xotun» pyesalari sahnalashtirilgan [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf]. Hamzaning «Zaharli hayot» (1915 yoki 1916) va Avloniyning «Advokatlik osonmi?» (matn oxirida «1914»; UzA, Oltinbek va Xolidda 1916 — `mualliflar/avloniy.md`) dramalari ham shu davrga tegishli [https://en.wikipedia.org/wiki/Hamza_Hakimzade_Niyazi; https://uza.uz/ar/posts/abdulla-avloniy-jamiyatdagi-ijtimoiy-illatlarga-qarshi-qanday-kurashgan_876309]. Sovet davrida Fitratning «Hind ixtilolchilari», «Abulfayzxon» kabi dramalari, Zafariyning birinchi oʻzbek musiqali dramasi hisoblangan «Halima» (1920) yaratilgan (`mualliflar/fitrat.md`; `mualliflar/zafariy.md`). Mirzayevaning xulosasi shunday: «o’zbek teatri jadidchilik harakatining mrvasi – ma’rifiy teatr sifatida tug’ilgan edi» (manbadagi imlo xatosi bilan) [https://oriens.uz/media/conferencearticles/86._Mirzayeva_Shahrizoda_Shuhratjon_qizi_522-525.pdf].
 
 ### 7.2. Yangi adabiyot
 
@@ -564,14 +564,14 @@ Toʻliqroq roʻyxatlar `manbalar_web/jadidchilik-tarixi.md`, `manbalar_web/matbu
 ## 16. Manbalar
 
 ### Mahalliy manbalar
-- Xolboyev S. Jadidlar. Munavvar qori Abdurashidxonov. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub`
-- Abdurashidov Z. Jadidlar. Mahmudxoʻja Behbudiy. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub`
-- Boltaboyev H. Jadidlar. Abdurauf Fitrat. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub`
-- Quronov D. Jadidlar. Abdulhamid Choʻlpon. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub`
-- Karimov B. Jadidlar. Abdulla Qodiriy. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub`
-- Usmonov O. Jadidlar. Gʻulom Zafariy. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`
-- Dolimov U. Jadidlar. Isʼhoqxon toʻra Ibrat. – Toshkent, 2024 — `/home/user/jadidlar/Jadidlar_kitoblari_epub/Ulugʻbek Dolimov - Jadidlar Isʼhoqxon toʻra Ibrat.epub`
-- Behbudiy M. Padarkush; Fitrat A. Abulfayzxon; Fitrat A. Najot yoʻli — `/home/user/jadidlar/Jadidlar_kitoblari_epub/`
+- Xolboyev S. Jadidlar. Munavvar qori Abdurashidxonov. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub`
+- Abdurashidov Z. Jadidlar. Mahmudxoʻja Behbudiy. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Zaynobiddin Abdurashidov - Jadidlar Mahmudxoʻja Behbudiy.epub`
+- Boltaboyev H. Jadidlar. Abdurauf Fitrat. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Hamidulla Boltaboyev - Jadidlar Abdurauf Fitrat.epub`
+- Quronov D. Jadidlar. Abdulhamid Choʻlpon. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Dilmurod Quronov - Jadidlar Abdulhamid Choʻlpon.epub`
+- Karimov B. Jadidlar. Abdulla Qodiriy. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub`
+- Usmonov O. Jadidlar. Gʻulom Zafariy. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`
+- Dolimov U. Jadidlar. Isʼhoqxon toʻra Ibrat. – Toshkent, 2024 — `Jadidlar_kitoblari_epub/Ulugʻbek Dolimov - Jadidlar Isʼhoqxon toʻra Ibrat.epub`
+- Behbudiy M. Padarkush; Fitrat A. Abulfayzxon; Fitrat A. Najot yoʻli — `Jadidlar_kitoblari_epub/`
 - Bilim bazasi fayllari: `manbalar_web/*.md` (18 ta), `mualliflar/*.md` (13 ta).
 
 ### Ensiklopediyalar va maʼlumotnomalar

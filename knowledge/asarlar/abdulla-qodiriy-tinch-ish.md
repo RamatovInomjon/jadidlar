@@ -1,6 +1,6 @@
 # Abdulla Qodiriy — «Tinch ish»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** satirik hikoya (manba fayldagi sarlavha ostida "Hikoya" deb berilgan); kichik hajmli, VII rim raqamli boʻlimga boʻlingan satirik portret-hikoya · **Yozilgan/nashr:** 1920-yil (Wikisource muallif sahifasida "Tinch ish (1920)" deb koʻrsatilgan: https://wikisource.org/wiki/Author:Abdulla_Qodiriy); matn oxirida "Julqunboy" taxallusi bilan imzolangan; ushbu elektron nashr "Toshkent, 2024" · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulla Qodiriy - Tinch ish.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** satirik hikoya (manba fayldagi sarlavha ostida "Hikoya" deb berilgan); kichik hajmli, VII rim raqamli boʻlimga boʻlingan satirik portret-hikoya · **Yozilgan/nashr:** 1920-yil (Wikisource muallif sahifasida "Tinch ish (1920)" deb koʻrsatilgan: https://wikisource.org/wiki/Author:Abdulla_Qodiriy); matn oxirida "Julqunboy" taxallusi bilan imzolangan; ushbu elektron nashr "Toshkent, 2024" · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Qodiriy - Tinch ish.epub
 
 > Hajmi: taxminan 1550 soʻz. Matn toʻliq oʻqildi (161 satr).
 

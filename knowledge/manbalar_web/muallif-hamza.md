@@ -375,4 +375,4 @@ Bu yerdagi roʻyxat koʻrilgan sahifalarda tilga olingan ishlardan tuzilgan.
 18. E. Allworth. «Shohimardon»: Forging a link in the Chain of Soviet Uzbek literary orthodoxy — Central Asian Survey (ochilmadi, 403) — https://www.tandfonline.com/doi/abs/10.1080/02634938408400455?journalCode=ccas20
 19. Mutlaqo maxfiy sud materiallari: Hamzaning sirli oʻlimi haqida — Aniq.uz (ochilmadi) — https://aniq.uz/uz/yangiliklar/mutlaqo-maxfiy-sud-materiallari-hamzaning-sirli-ulimi-haqida
 20. Qayu millatda maktab oʻlmasa, beshak xarob oʻlgay… — Yuz.uz (faqat sarlavhasi, uz Vikipediya orqali) — https://yuz.uz/uz/news/qayu-millatda-maktab-olmasa-beshak-xarob-olgay
-21. Loyihadagi matnlar: Jadidlar_kitoblari_epub/Hamza Hakimzoda Niyoziy - Tanlangan asarlar.epub; … - Sheʼrlar.epub; … - Burungi qozilar yoki Maysaraning ishi.epub (/home/user/jadidlar/Jadidlar_kitoblari_epub/)
+21. Loyihadagi matnlar: Jadidlar_kitoblari_epub/Hamza Hakimzoda Niyoziy - Tanlangan asarlar.epub; … - Sheʼrlar.epub; … - Burungi qozilar yoki Maysaraning ishi.epub (Jadidlar_kitoblari_epub/)

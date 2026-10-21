@@ -1,6 +1,6 @@
 # Bahodir Karimov — «Jadidlar: Abdulla Qodiriy»
 
-- **Turi:** jadid haqidagi tadqiqot/xotira · **Janr:** ilmiy-ommabop risola (muqovada «Ilmiy-ommabop» deb belgilangan). Ichida biografik ocherk, adabiy-tanqidiy talqin, adibning hikmatli soʻzlari va romanlaridan parchalar antologiyasi hamda «Eʼtirof» nomli iqtiboslar toʻplami bor. · **Yozilgan/nashr:** muqovada «Toshkent, 2024» yozilgan, sahifada «mutolaa» logotipi bor. Matn ichida yozilish vaqtiga ishora bor: «Vatanning chin istiqloli endigina navqiron oʻttiz yoshga toʻldi» (bu taxminan 2021-yil). 2020-yilgi inglizcha tarjima va 2019-yil dekabrida ochilgan muzeylar ham tilga olinadi. Matn oxiridagi qayd: «Ushbu asarni Ismoil Hoshimov elektron shaklga keltirdi.» · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub
+- **Turi:** jadid haqidagi tadqiqot/xotira · **Janr:** ilmiy-ommabop risola (muqovada «Ilmiy-ommabop» deb belgilangan). Ichida biografik ocherk, adabiy-tanqidiy talqin, adibning hikmatli soʻzlari va romanlaridan parchalar antologiyasi hamda «Eʼtirof» nomli iqtiboslar toʻplami bor. · **Yozilgan/nashr:** muqovada «Toshkent, 2024» yozilgan, sahifada «mutolaa» logotipi bor. Matn ichida yozilish vaqtiga ishora bor: «Vatanning chin istiqloli endigina navqiron oʻttiz yoshga toʻldi» (bu taxminan 2021-yil). 2020-yilgi inglizcha tarjima va 2019-yil dekabrida ochilgan muzeylar ham tilga olinadi. Matn oxiridagi qayd: «Ushbu asarni Ismoil Hoshimov elektron shaklga keltirdi.» · **Manba fayl:** Jadidlar_kitoblari_epub/Bahodir Karimov - Jadidlar Abdulla Qodiriy.epub
 
 > **Matn holati haqida.** EPUB'dan olingan matnda tinish belgilari, ayniqsa vergullar, juda koʻp joyda tushib qolgan. Masalan: «Oraliq masofa cheksizlikka nisbatan bir lahza bir lahzaga nisbatan cheksizdir»; «Ellikboshining … “Olug‘-solug‘ qilinsa, kuyovdan ko‘b oqcha olinsaqarzdor bo‘lub qolsayaxshi emas,deyman”». Soʻzlar qoʻshilib ketgan («hamxususan», «psixologiyasidatabiatida»), soʻz ichida boʻshliqlar paydo boʻlgan («ker ib», «Taraqq iy parvarlardan», «Tosh kent»). Izoh raqami matnga aralashgan («110Qismat oʻlaroq»), defis yoʻqolgan («Ammo yoshim 78 ga yetgach», aslida «7–8 ga» boʻlsa kerak). Bu belgilar muallif uslubiga emas, nashr yoki konvertatsiyaga tegishli. Uslub tahlilida ular hisobga olinmadi. Iqtiboslar esa manbadagidek, xatolari bilan birga koʻchirildi. Apostrof manbada ‘ (U+2018) va ’ (U+2019) belgilari bilan berilgan.
 
@@ -319,7 +319,7 @@ Risolada sheʼrlar oz va muallif ularning vaznini tahlil qilmaydi. Quyidagi kuza
 
 ---
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 **Hayoti**
 - 1894-yil 10-aprel — Toshkentda bogʻbon oilasida tugʻilgan. Qodiriy oʻzi «Nikolay taxtga o‘tirgan yilida» tugʻilganini yozadi.
@@ -344,7 +344,7 @@ Risolada sheʼrlar oz va muallif ularning vaznini tahlil qilmaydi. Quyidagi kuza
 - Kolxoz hayotidan yangi asar uchun Toshkent atrofidagi qishloqlarni kezgan.
 - 1937-yil 31-dekabr — hibsga olingan.
 - 1938-yil 4-oktabr — «xalq dushmani» sifatida otilgan, «hech bir aybi isbotlanmagan holda».
-- 1958-yildan — nomi va asarlari xalqqa qaytarila boshlagan. Risolada oqlanishning aniq sanasi berilmagan. Ozod Sharafiddinov oqlanish «Oʻzbek ziyolilarining qurultoyi»da eʼlon qilinganini eslaydi. Oqlanish odatda 1956-yilga sanaladi [umumiy bilim — tekshirilmagan].
+- 1958-yildan — nomi va asarlari xalqqa qaytarila boshlagan. Risolada oqlanishning aniq sanasi berilmagan. Ozod Sharafiddinov oqlanish «Oʻzbek ziyolilarining qurultoyi»da eʼlon qilinganini eslaydi. Oqlanish sanasi manbalarda 1956 (yuz.uz, kun.uz 2018) yoki 1957 (kun.uz 2023, ru.wiki) deb beriladi; 1926-yilgi ish boʻyicha esa 2023-yil 1-dekabrda oqlangan ([qodiriy.md](../mualliflar/qodiriy.md)).
 - Mustaqillikdan keyin — Alisher Navoiy nomidagi Davlat mukofoti va «Mustaqillik» ordeni bilan taqdirlangan.
 - 2019-yil dekabr — Qodiriy yashagan uyda va Abdulla Qodiriy bogʻida muzeylar ochilgan. Toshkentda Abdulla Qodiriy nomidagi ijod maktabi bor.
 

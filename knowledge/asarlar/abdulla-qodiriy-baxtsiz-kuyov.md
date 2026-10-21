@@ -1,6 +1,6 @@
 # Abdulla Qodiriy — «Baxtsiz kuyov»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** drama, aniqrogʻi maishiy-maʼrifiy tragediya (matnda: «Teyotr risolasi», «Turkiston maishatidin olingan toʻrt pardalik fojiʼa»; muqovada noshir belgisi: «Drama») · **Yozilgan/nashr:** matn oxirida muallif sanasi «1915». Ushbu elektron nashr: «Toshkent, 2024», elektron shaklga keltiruvchi — Shoxsanam Xazratqulova · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulla Qodiriy - Baxtsiz kuyov.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** drama, aniqrogʻi maishiy-maʼrifiy tragediya (matnda: «Teyotr risolasi», «Turkiston maishatidin olingan toʻrt pardalik fojiʼa»; muqovada noshir belgisi: «Drama») · **Yozilgan/nashr:** matn oxirida muallif sanasi «1915». Ushbu elektron nashr: «Toshkent, 2024», elektron shaklga keltiruvchi — Shoxsanam Xazratqulova · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Qodiriy - Baxtsiz kuyov.epub
 
 > Hajmi: butun fayl taxminan 4400 soʻz, muallif matni (pyesaning oʻzi) shundan 4300 soʻzga yaqin. Toʻrt parda, yetti nomli personaj va ikki epizodik shaxs (pristuf, mirshab). Pyesa qisqa, bir oqshomlik sahna asari sifatida yozilgan.
 
@@ -310,7 +310,7 @@ Matnda 1910-yillar Toshkent yozma tilining belgilari, eski oʻzbek (chigʻatoy) 
 
 **Tashqi manbalardan:**
 - Wikisource nashri pyesani 1915-yilga oid deb beradi va ellikboshining yoshini «35 yashar» deb koʻrsatadi ([Wikisource: Baxtsiz kuyov](https://wikisource.org/wiki/Baxtsiz_kuyov)).
-- Ziyouz saytiga koʻra, Qodiriyning «Juvonboz», «Uloqda», «Jinlar bazmi» hikoyalari va «Baxtsiz kuyov» dramasi 1914–1915-yillarda nashr etilgan ([ziyouz.uz](https://ziyouz.uz/en/uzbek-literature/40-literature-of-jadids-period/93-abdulla-qodiriy-1894-1938)).
+- Ziyouz saytiga koʻra, Qodiriyning «Juvonboz», «Uloqda», «Jinlar bazmi» hikoyalari va «Baxtsiz kuyov» dramasi 1914–1915-yillarda nashr etilgan ([ziyouz.uz](https://ziyouz.uz/en/uzbek-literature/40-literature-of-jadids-period/93-abdulla-qodiriy-1894-1938)). **Izoh:** bu umumlashma faqat «Baxtsiz kuyov» uchun toʻgʻri (1915-yilda kitobcha boʻlib chiqqan). Habibulla Qodiriy «Otam haqida»ga koʻra «Uloqda» 1915-yilda yozilib 1923-yilda, «Jinlar bazmi» 1916-yilda yozilib 1921-yilda birinchi bor bosilgan ([Otam haqida](habibulla-qodiriy-otam-haqida.md); [qodiriy.md](../mualliflar/qodiriy.md)).
 - Ayrim ilmiy maqolalarda pyesa Behbudiyning «Padarkush» tragediyasi taʼsirida yozilgani aytiladi (qidiruv natijalaridagi umumlashma; birlamchi maqola tekshirilmagan).
 - Abdulla Qodiriy 1894-yilda tugʻilgan, 1938-yilda otilgan [umumiy bilim — tekshirilmagan]. Pyesa yozilganda u taxminan 21 yoshda boʻlgan.
 - Pyesa 1915-yilda Toshkentda alohida kitobcha boʻlib chiqqani va sahnalashtirilgani haqida maʼlumotlar bor [umumiy bilim — tekshirilmagan; nashriyot/bosmaxona va birinchi sahna koʻrinishi manbada koʻrsatilmagan].

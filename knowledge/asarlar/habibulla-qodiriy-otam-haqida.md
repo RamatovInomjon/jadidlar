@@ -1,6 +1,6 @@
 # Habibulla Qodiriy — «Otam haqida»
 
-- **Turi:** jadid haqidagi tadqiqot/xotira · **Janr:** memuar-hujjatli biografiya (xotiralar, guvohliklar, hujjatlar montaji; izohli apparat bilan) · **Yozilgan/nashr:** muqovada «Xotiralar. Toʻldirilgan ikkinchi nashri. Toshkent, 2026» deb koʻrsatilgan (2026 — elektron nashr sanasi boʻlsa kerak; elektron shaklga keltiruvchi: Mirjalol Madvaliyev). Matnda 1988-yilgacha boʻlgan nashrlarga havola bor (Sh. Turdiyev, 1988), demak ikkinchi nashr 1988-yildan keyin tayyorlangan. Birinchi nashr 1983-yilda chiqqan [umumiy bilim — tekshirilmagan]. · **Manba fayl:** /home/user/jadidlar/Jadidlar_kitoblari_epub/Habibulla Qodiriy - Otam haqida.epub
+- **Turi:** jadid haqidagi tadqiqot/xotira · **Janr:** memuar-hujjatli biografiya (xotiralar, guvohliklar, hujjatlar montaji; izohli apparat bilan) · **Yozilgan/nashr:** muqovada «Xotiralar. Toʻldirilgan ikkinchi nashri. Toshkent, 2026» deb koʻrsatilgan (2026 — elektron nashr sanasi boʻlsa kerak; elektron shaklga keltiruvchi: Mirjalol Madvaliyev). Matnda 1988-yilgacha boʻlgan nashrlarga havola bor (Sh. Turdiyev, 1988), demak ikkinchi nashr 1988-yildan keyin tayyorlangan. Birinchi nashr 1983-yilda chiqqan [umumiy bilim — tekshirilmagan]. · **Manba fayl:** Jadidlar_kitoblari_epub/Habibulla Qodiriy - Otam haqida.epub
 
 ---
 

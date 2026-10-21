@@ -1,6 +1,6 @@
 # Javlon Jovliyev — «Elbek»
 
-- **Turi:** vazifada "jadid haqidagi tadqiqot/xotira" deb koʻrsatilgan, lekin matnni toʻliq oʻqish shuni koʻrsatdiki, bu **tadqiqot ham, xotira ham emas, jadidlarga aloqasi ham yoʻq**. Bu hozirgi oʻzbek nasriga mansub **badiiy hikoya**. Mavzusi sovet davridagi paxta yakkahokimligi qurboni boʻlgan oʻsmir va uning onasi. Nomdosh jadid shoir Elbek (Mashriq Yunusov) matnda bironta ham tilga olinmagan · **Janr:** hikoya (lirik-psixologik, ramziy hikoya; oʻzbek xalqining motam qoʻshigʻi — yoʻqlov/marsiya ohangi bilan) · **Yozilgan/nashr:** muqova sahifasida "Toshkent / 2024" deb yozilgan. EPUB metamaʼlumotlarida sarlavha "Javlon Jovliyev. Elbek (hikoya)", yaratuvchi "Mutolaa", calibre vaqt belgisi 2025-01-21. Elektron shaklga keltirgan: Mirjalol Madvaliyev · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Javlon Jovliyev - Elbek.epub
+- **Turi:** vazifada "jadid haqidagi tadqiqot/xotira" deb koʻrsatilgan, lekin matnni toʻliq oʻqish shuni koʻrsatdiki, bu **tadqiqot ham, xotira ham emas, jadidlarga aloqasi ham yoʻq**. Bu hozirgi oʻzbek nasriga mansub **badiiy hikoya**. Mavzusi sovet davridagi paxta yakkahokimligi qurboni boʻlgan oʻsmir va uning onasi. Nomdosh jadid shoir Elbek (Mashriq Yunusov) matnda bironta ham tilga olinmagan · **Janr:** hikoya (lirik-psixologik, ramziy hikoya; oʻzbek xalqining motam qoʻshigʻi — yoʻqlov/marsiya ohangi bilan) · **Yozilgan/nashr:** muqova sahifasida "Toshkent / 2024" deb yozilgan. EPUB metamaʼlumotlarida sarlavha "Javlon Jovliyev. Elbek (hikoya)", yaratuvchi "Mutolaa", calibre vaqt belgisi 2025-01-21. Elektron shaklga keltirgan: Mirjalol Madvaliyev · **Manba fayl:** Jadidlar_kitoblari_epub/Javlon Jovliyev - Elbek.epub
 
 > **Muhim ogohlantirish (bilimlar bazasi uchun):** Bu fayl "Jadidlar_kitoblari_epub" papkasiga katta ehtimol bilan **adashib qoʻshilgan**. Bunga "Elbek" nomining jadid shoir Elbek taxallusiga mos kelishi sabab boʻlgan boʻlishi mumkin. Hikoyada jadidchilik, XX asr boshi, Mashriq Yunusovning tarjimai holi yoki asarlari haqida birorta maʼlumot yoʻq. Shuning uchun bu kartochkani jadid manbasi sifatida emas, **qiyoslash uchun olingan hozirgi zamon matni** sifatida ishlatish kerak (hozirgi orfografiya va uslubni jadid davri matnlariga qarama-qarshi namuna sifatida qoʻyish mumkin). EPUB faylning hammasi koʻrib chiqildi (3 ta HTML boʻlak, 1 ta rasm, matn 133 qator): hikoya toʻliq, qisqartirilmagan.
 
@@ -214,7 +214,7 @@ Hikoya nasrda yozilgan. Lekin onaning yoʻqlovi **ritmli, qofiyali nasr** (saj'g
 | zanji | qora tanli qul (epigrafda) | arabcha, sheʼriy |
 | boʻzlamoq | yigʻlab nola qilmoq | kitobiy-xalq soʻzi |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 - **Muallif:** Javlon Jovliyev. Nashr joyi va yili sarlavha sahifasida: Toshkent, 2024. Elektron shaklga keltirgan: Mirjalol Madvaliyev. EPUB "Mutolaa" nomi bilan, calibre 7.23.0 dasturida yaratilgan (vaqt belgisi 2025-01-21).
 - **Epigraf muallifi:** Shavkat Rahmon.

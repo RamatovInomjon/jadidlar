@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Qor qoʻynida lola»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (kichik nasriy janr; ijtimoiy-maishiy, satirik-lirik hikoya; toʻrt fasldan iborat) · **Yozilgan/nashr:** 1923 (Fargʻona davlat universiteti ilmiy jurnalidagi maqolaga koʻra: “Qor qo‘ynida lola”(1923) — https://journal.fdu.uz/index.php/sjfsu/article/download/3604/3017/6246); birinchi bosilgan joyi (gazeta/jurnal) manbada koʻrsatilmagan. Elektron nashr: “Toshkent 2024”, EPUB metamaʼlumotida nashriyotchi “Mutolaa”, sarlavha “Abdulhamid Choʻlpon. Qor qoʻynida lola (hikoya)” · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Qor qoʻynida lola.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (kichik nasriy janr; ijtimoiy-maishiy, satirik-lirik hikoya; toʻrt fasldan iborat) · **Yozilgan/nashr:** 1923 (Fargʻona davlat universiteti ilmiy jurnalidagi maqolaga koʻra: “Qor qo‘ynida lola”(1923) — https://journal.fdu.uz/index.php/sjfsu/article/download/3604/3017/6246); birinchi bosilgan joyi (gazeta/jurnal) manbada koʻrsatilmagan. Elektron nashr: “Toshkent 2024”, EPUB metamaʼlumotida nashriyotchi “Mutolaa”, sarlavha “Abdulhamid Choʻlpon. Qor qoʻynida lola (hikoya)” · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Qor qoʻynida lola.epub
 
 > Hajmi: taxminan 1450 soʻz; toʻrtta rim raqamli bob (I–IV). Matn lotin yozuviga oʻgirilgan, ammo 1920-yillar imlo-morfologiyasining koʻp xususiyatlari (‑gʻa, ‑gʻon, ‑dur/‑dir, ‑mak, shul, oʻlturib…) saqlab qolingan.
 
@@ -242,7 +242,7 @@ Matnga ikki baytlik (toʻrt misrali) “yor-yor” kiritilgan:
 | oʻxshatgʻum keldi | oʻxshatgim keldi | eski shakl |
 | qarib quyilmagʻon, achib suyilmagʻon | hali qarimagan, “tetik” (kinoyali ibora) | xalq iborasi |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 - Muallif: Abdulhamid Choʻlpon (sarlavha sahifasi). Asar janri: “Hikoya”.
 - Elektron nashr: Toshkent, 2024; elektron shaklga keltiruvchi — Nodir Madrahimov; EPUB metamaʼlumotida “Mutolaa”, Calibre 7.7.0, vaqt tamgʻasi 2024-03-30.
 - Asar yili: 1923 (FDU ilmiy jurnali maqolasi asosida, havola yuqorida). Birinchi chop etilgan nashr nomi manbada yoʻq.

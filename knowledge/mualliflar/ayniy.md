@@ -492,12 +492,12 @@ domla, xalfa, saboq, taxtacha, abjad, maktabxona, uqubatxona, machit, hujra, mul
 
 ### Mahalliy fayllar
 
-- `/home/user/jadidlar/knowledge/asarlar/sadriddin-ayniy-eski-maktab.md` — «Eski maktab» kartochkasi (manba: «Sadriddin Ayniy - Eski maktab.epub», Toshkent, 2024).
-- `/home/user/jadidlar/knowledge/asarlar/sadriddin-ayniy-sudxorning-olimi.md` — «Sudxoʻrning oʻlimi» kartochkasi (manba: «Sadriddin Ayniy - Sudxoʻrning oʻlimi.epub», Toshkent, 2024).
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-ayniy.md` — veb-maʼlumotnoma.
-- `/home/user/jadidlar/knowledge/manbalar_web/boshqa-jadidlar.md`, `jadidchilik-tarixi.md`, `taʼlim-pedagogika.md`, `muallif-behbudiy.md`, `muallif-fitrat.md`, `muallif-elbek.md`, `muallif-avloniy.md`.
-- `/home/user/jadidlar/knowledge/asarlar/habibulla-qodiriy-otam-haqida.md`; `hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md`; `zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md`.
-- `/home/user/jadidlar/knowledge/mualliflar/behbudiy.md`, `fitrat.md`, `qodiriy.md`.
+- `knowledge/asarlar/sadriddin-ayniy-eski-maktab.md` — «Eski maktab» kartochkasi (manba: «Sadriddin Ayniy - Eski maktab.epub», Toshkent, 2024).
+- `knowledge/asarlar/sadriddin-ayniy-sudxorning-olimi.md` — «Sudxoʻrning oʻlimi» kartochkasi (manba: «Sadriddin Ayniy - Sudxoʻrning oʻlimi.epub», Toshkent, 2024).
+- `knowledge/manbalar_web/muallif-ayniy.md` — veb-maʼlumotnoma.
+- `knowledge/manbalar_web/boshqa-jadidlar.md`, `jadidchilik-tarixi.md`, `taʼlim-pedagogika.md`, `muallif-behbudiy.md`, `muallif-fitrat.md`, `muallif-elbek.md`, `muallif-avloniy.md`.
+- `knowledge/asarlar/habibulla-qodiriy-otam-haqida.md`; `hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md`; `zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md`.
+- `knowledge/mualliflar/behbudiy.md`, `fitrat.md`, `qodiriy.md`.
 
 ### Veb-manbalar
 

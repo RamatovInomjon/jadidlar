@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Oydin kechalarda»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (lirik-psixologik maishiy hikoya, novellaga yaqin; nashrdagi sarlavha ostida «Hikoya» deb koʻrsatilgan) · **Yozilgan/nashr:** 1922-yil (ikkilamchi web manba: O.N. Fozilova maqolasida «Cho‘lponning “Oydin kechalar”(1922)» deb berilgan, journal.fdu.uz, DOI 10.56292/SJFSU/vol30_iss1/a118; birinchi nashr qilingan gazeta yoki jurnal nomi aniqlanmadi). Mazkur elektron nashr: «Toshkent, 2024», EPUB metamaʼlumotida tuzuvchi «Mutolaa», calibre sanasi 2024-02-29 · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Oydin kechalarda.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (lirik-psixologik maishiy hikoya, novellaga yaqin; nashrdagi sarlavha ostida «Hikoya» deb koʻrsatilgan) · **Yozilgan/nashr:** 1922-yil (ikkilamchi web manba: O.N. Fozilova maqolasida «Cho‘lponning “Oydin kechalar”(1922)» deb berilgan, journal.fdu.uz, DOI 10.56292/SJFSU/vol30_iss1/a118; birinchi nashr qilingan gazeta yoki jurnal nomi aniqlanmadi). Mazkur elektron nashr: «Toshkent, 2024», EPUB metamaʼlumotida tuzuvchi «Mutolaa», calibre sanasi 2024-02-29 · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Oydin kechalarda.epub
 
 > Hajm haqida: matn juda qisqa, sarlavha va nashr qaydlari bilan birga taxminan 800 soʻz (manba faylda 100 qator). Hikoya boblarga boʻlinmagan, bitta sahnadan iborat. Shu sabab quyidagi tahlil sintaksis, imlo va tasviriy vositalarni gap darajasida koʻrib chiqadi.
 
@@ -227,7 +227,7 @@ Ohang lirik-gʻamgin va hamdardlikka toʻla. Avval sokin, tungi ohang, keyin ich
 | ul / menim | u / mening | eski olmosh shakllari |
 | hasratlik, zaharlik, kuchlik | hasratli, zaharli, kuchli | -lik sifat yasovchi |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 - Muallif: Abdulhamid Choʻlpon. Janri sarlavha sahifasida «Hikoya» deb koʻrsatilgan. Elektron nashr «Toshkent, 2024», EPUBni «Muhammad Amin Mirsaidov elektron shaklga keltirdi».
 - Matnda muharrirning «(aslida shunday – D.Q)» izohi bor.

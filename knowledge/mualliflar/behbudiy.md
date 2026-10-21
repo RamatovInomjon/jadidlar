@@ -76,7 +76,7 @@ Mahmudxoʻja Behbudiy — Turkiston jadidchilik harakatining asoschisi va yoʻlb
 | 1899–1900 (h. 1318) | Haj safari: Kavkaz, Istanbul, Qohira; qaytgach «Tarjimon»ga obuna boʻlgan | Abdurashidov 2024 |
 | 1902 | Publitsistikasi «Turkiston viloyatining gazeti»da boshlangan | Abdurashidov 2024 |
 | 1903 | Halvoyi va Rajabamin maktablari | Abdurashidov 2024 |
-| 1903–1904 | «Bir vafolik zaifaning xususida» TVG'da (11 boʻlak); Moskva va Peterburg safari | `../asarlar/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida.md`; Abdurashidov |
+| 1903–1904 | «Bir vafolik zaifaning xususida» TVGʼda (11 boʻlak); Moskva va Peterburg safari | `../asarlar/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida.md`; Abdurashidov |
 | 1904–1905 | «Risolayi asbobi savod» (1904 yoki 1905-yilda bosilgan) | antologiya; Abdurashidov |
 | 1905 | «Risolayi jugʻrofiyai umroniy», «Risolayi jugʻrofiyai Rusiy» | Abdurashidov 2024 |
 | 1906 | «Muntaxabi jugʻrofiyai umumiy»; «Xayrul umuri avsatuho» («Xurshid», 6-son); Nijniy Novgorod qurultoyi (yoki 1907) | Abdurashidov; ziyouz |
@@ -507,13 +507,13 @@ ilmi zamoniy, zamoncha, taraqqiy, maorif, millat, hamiyyat, gʻayrat, agʻniyo, 
 
 ### Mahalliy fayllar
 
-- `/home/user/jadidlar/knowledge/asarlar/mahmudxoja-behbudiy-padarkush.md` (EPUB: `Jadidlar_kitoblari_epub/Mahmudxoʻja Behbudiy - Padarkush.epub`, Toshkent, 2024)
-- `/home/user/jadidlar/knowledge/asarlar/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida.md` (EPUB, Toshkent, 2024)
-- `/home/user/jadidlar/knowledge/asarlar/mahmudxoja-behbudiy-bir-amo-bolaning-hasrati.md` (EPUB, Toshkent, 2024)
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md` («Jadid namoyandalari. Odob-axloq kitobi», Toshkent, 2024; Behbudiyning 7 ta matni)
-- `/home/user/jadidlar/knowledge/asarlar/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md` (Z. Abdurashidov, *Jadidlar. Mahmudxoʻja Behbudiy*, Toshkent, 2024)
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-behbudiy.md`
-- `/home/user/jadidlar/knowledge/manbalar_web/adabiyot-poetika-til.md`, `matbuot-maktab-teatr.md`, `jadidchilik-tarixi.md`, `taʼlim-pedagogika.md`, `muallif-munavvarqori.md`, `muallif-fitrat.md`, `muallif-avloniy.md`, `muallif-qodiriy.md`, `muallif-cholpon.md`, `boshqa-jadidlar.md`
+- `knowledge/asarlar/mahmudxoja-behbudiy-padarkush.md` (EPUB: `Jadidlar_kitoblari_epub/Mahmudxoʻja Behbudiy - Padarkush.epub`, Toshkent, 2024)
+- `knowledge/asarlar/mahmudxoja-behbudiy-bir-vafolik-zaifaning-xususida.md` (EPUB, Toshkent, 2024)
+- `knowledge/asarlar/mahmudxoja-behbudiy-bir-amo-bolaning-hasrati.md` (EPUB, Toshkent, 2024)
+- `knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md` («Jadid namoyandalari. Odob-axloq kitobi», Toshkent, 2024; Behbudiyning 7 ta matni)
+- `knowledge/asarlar/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md` (Z. Abdurashidov, *Jadidlar. Mahmudxoʻja Behbudiy*, Toshkent, 2024)
+- `knowledge/manbalar_web/muallif-behbudiy.md`
+- `knowledge/manbalar_web/adabiyot-poetika-til.md`, `matbuot-maktab-teatr.md`, `jadidchilik-tarixi.md`, `taʼlim-pedagogika.md`, `muallif-munavvarqori.md`, `muallif-fitrat.md`, `muallif-avloniy.md`, `muallif-qodiriy.md`, `muallif-cholpon.md`, `boshqa-jadidlar.md`
 
 ### Veb-manbalar
 

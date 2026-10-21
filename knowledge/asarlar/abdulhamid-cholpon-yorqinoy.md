@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Yorqinoy»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** sahna asari, drama; muallif oʻzi «6 pardali afsonaviy drama» deb atagan (tarixiy-romantik, xalq ertagi asosidagi qahramonona-fojiaviy pyesa, final optimistik) · **Yozilgan/nashr:** matnda yozilgan sana koʻrsatilmagan; muqovadagi nashr maʼlumoti: «Toshkent 2024». Asar 1920-yillarda yozilgan va sahnalashtirilgan [umumiy bilim — tekshirilmagan] · **Manba fayl:** /home/user/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Yorqinoy.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** sahna asari, drama; muallif oʻzi «6 pardali afsonaviy drama» deb atagan (tarixiy-romantik, xalq ertagi asosidagi qahramonona-fojiaviy pyesa, final optimistik) · **Yozilgan/nashr:** matnda yozilgan sana koʻrsatilmagan; muqovadagi nashr maʼlumoti: «Toshkent 2024». Asar 1921-yildayoq sahnalashtirilgan, keyin qayta ishlanib 1926-yilda alohida kitobcha boʻlib chiqqan ([Quronov 2024](dilmurod-quronov-jadidlar-abdulhamid-cholpon.md); yozilgan yili 1920 — [cholpon.md](../mualliflar/cholpon.md)) · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Yorqinoy.epub
 
 **Paratekst qatlamlari (muallif va noshirni ajratish):**
 
@@ -281,7 +281,7 @@ Asar nasriy drama. Sheʼriy unsurlar kam: Fuzuliy epigrafi (aruz, gʻazal bayti)
 - Elektron nashr: «Ushbu asarni Muyassar Mustafoyeva elektron shaklga keltirdi.»
 - «Qaydlar» — uchta muharrir izohi; [←3]: «Bu oʻrinda oʻsha davr uslubida bitilgan.»
 - Choʻlpon (Abdulhamid Sulaymon oʻgʻli, 1897–1938) — jadid shoiri, nosiri va dramaturgi [umumiy bilim — tekshirilmagan].
-- «Yorqinoy» 1920-yillarda yozilgan va oʻzbek sahnasida qoʻyilgan [umumiy bilim — tekshirilmagan].
+- «Yorqinoy» 1921-yildayoq sahnalashtirilgan, keyin muallif tomonidan qayta ishlanib, 1926-yilda alohida kitobcha holida nashr etilgan. Quronov: «Cho‘lpon o‘zining 1921-yildayoq sahnalashtirilgan “Yorqinoy” pyesasi haqida “xomroq bo‘lgani uchun yana ishlanmakchi” ekanini yozadi»; «Qayta ishlangan “Yorqinoy”ning 1926-yilda alohida kitobcha holida nashr etilishi ham fikrimizni dalillaydi.» ([Quronov 2024](dilmurod-quronov-jadidlar-abdulhamid-cholpon.md); `_holat/chunks/dilmurod-quronov-jadidlar-abdulhamid-cholpon__01.txt`). Yozilgan yili sifatida 1920 [cholpon.md](../mualliflar/cholpon.md) da berilgan. Bazadagi matn qaysi tahrirga (1921-yilgi sahna nusxasi yoki 1926-yilgi qayta ishlangan nashr) tayanishi aniqlanmagan.
 
 ## Tadqiqot uchun izohlar
 

@@ -1,6 +1,6 @@
 # Abdurauf Fitrat — «Sheʼrlar»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** lirik sheʼrlar saylanmasi (17 sheʼr: ijtimoiy-siyosiy, vatanparvarlik, maʼrifiy, ishqiy, falsafiy-manzarali lirika; barmoq vazni, sarbastga yaqin «zinapoya» sheʼrlar va aruzga moyil mumtoz shakllar aralash) · **Yozilgan/nashr:** sheʼrlar ostida sana ham, joy ham koʻrsatilmagan; elektron nashr titulida «Toshkent / 2024». Wikisource «Mirrix yulduziga»ni 1920-yil bilan beradi (wikisource.org/wiki/Mirrix_yulduziga, qidiruv natijasidagi maʼlumot). Sheʼrlarning asosiy qismi 1917–1923-yillarda yozilgan boʻlishi ehtimoli bor [umumiy bilim — tekshirilmagan] · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdurauf Fitrat - Sheʼrlar.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** lirik sheʼrlar saylanmasi (17 sheʼr: ijtimoiy-siyosiy, vatanparvarlik, maʼrifiy, ishqiy, falsafiy-manzarali lirika; barmoq vazni, sarbastga yaqin «zinapoya» sheʼrlar va aruzga moyil mumtoz shakllar aralash) · **Yozilgan/nashr:** sheʼrlar ostida sana ham, joy ham koʻrsatilmagan; elektron nashr titulida «Toshkent / 2024». Wikisource «Mirrix yulduziga»ni 1920-yil bilan beradi (wikisource.org/wiki/Mirrix_yulduziga, qidiruv natijasidagi maʼlumot). Sheʼrlarning asosiy qismi 1917–1923-yillarda yozilgan boʻlishi ehtimoli bor [umumiy bilim — tekshirilmagan] · **Manba fayl:** Jadidlar_kitoblari_epub/Abdurauf Fitrat - Sheʼrlar.epub
 
 > Ishlangan matn: EPUB dan oʻgirilgan `abdurauf-fitrat-sherlar__01.txt` (1077 satr). Hammasi oʻqib chiqildi.
 >

@@ -1,6 +1,6 @@
 # Sadriddin Ayniy — «Eski maktab»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** qissa (manbaning sarvaraqida «Qissa» deb koʻrsatilgan); avtobiografik bolalik xotirasi, eski maktab tizimini fosh etuvchi satirik-maishiy qissa · **Yozilgan/nashr:** manba faylda yozilgan sana yoʻq; faylda faqat zamonaviy elektron nashr maʼlumoti bor: «Toshkent / 2024». Buxoro davlat universitetiga oid ingliz tilidagi maqola (Saparova Sh. R., «Teaching children's literature through the works of Jadid enlighteners: Sadriddin Ayniy's "Old School" and Elbek's "Horse and Man"», 2025, doi:10.5281/zenodo.15420509) asarni «"Old School" (1935)» deb sanaydi. Asar dastlab tojik tilida «Maktabi kuhna» nomi bilan yozilgani, keyinroq «Esdaliklar» («Yoddoshtho») uchun material boʻlgani [umumiy bilim — tekshirilmagan]. Oʻzbekcha matnni kim tarjima qilgani yoki Ayniyning oʻzi yozganmi — manbada koʻrsatilmagan · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Sadriddin Ayniy - Eski maktab.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** qissa (manbaning sarvaraqida «Qissa» deb koʻrsatilgan); avtobiografik bolalik xotirasi, eski maktab tizimini fosh etuvchi satirik-maishiy qissa · **Yozilgan/nashr:** manba faylda yozilgan sana yoʻq; faylda faqat zamonaviy elektron nashr maʼlumoti bor: «Toshkent / 2024». Buxoro davlat universitetiga oid ingliz tilidagi maqola (Saparova Sh. R., «Teaching children's literature through the works of Jadid enlighteners: Sadriddin Ayniy's "Old School" and Elbek's "Horse and Man"», 2025, doi:10.5281/zenodo.15420509) asarni «"Old School" (1935)» deb sanaydi. Asar dastlab tojik tilida «Maktabi kuhna» nomi bilan yozilgani, keyinroq «Esdaliklar» («Yoddoshtho») uchun material boʻlgani [umumiy bilim — tekshirilmagan]. Oʻzbekcha matnni kim tarjima qilgani yoki Ayniyning oʻzi yozganmi — manbada koʻrsatilmagan · **Manba fayl:** Jadidlar_kitoblari_epub/Sadriddin Ayniy - Eski maktab.epub
 
 **Matn haqida izoh (muallif matni va noshir qatlamini ajratish).**
 
@@ -281,7 +281,7 @@ Matn hozirgi lotin imlosiga oʻgirilgan. «-ga/-qa» oʻrnida «-gʻa» yoʻq (�
 | bukun | bugun | sheva |
 | karandashqalam | qalam | ruscha + forscha |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 - Hikoyachining ismi Sadriddin (V bob: «– Sadriddin! – degan tovush eshitildi»).
 - U olti yoshida maktabga beriladi. Avval «toʻrt yasharu toʻrt oy, toʻrt hafta va toʻrt kunligingda» saboq boshlatib qoʻyilgan. Navroʻz saylida ota uni «sakkiz yashar shu oʻgʻlim» deb tanishtiradi.

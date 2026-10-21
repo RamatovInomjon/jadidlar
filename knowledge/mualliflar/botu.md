@@ -386,11 +386,11 @@ Boshqa manbalardan:
 ## Manbalar
 
 **Mahalliy fayllar:**
-- `/home/user/jadidlar/knowledge/asarlar/botu-sherlar.md` — «Sheʼrlar» kartochkasi
-- `/home/user/jadidlar/knowledge/_holat/chunks/botu-sherlar__01.txt` — saylanmaning toʻliq matni (EPUB: «Botu - Sheʼrlar.epub», Toshkent, 2024; elektron shaklga keltirgan Shahriyor Shavkat)
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-botu.md` — veb-tadqiqot fayli
-- `/home/user/jadidlar/knowledge/manbalar_web/adabiyot-poetika-til.md`; `/home/user/jadidlar/knowledge/manbalar_web/muallif-elbek.md`
-- `/home/user/jadidlar/knowledge/_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt` (165-satr); `/home/user/jadidlar/knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` (331-satr); `/home/user/jadidlar/knowledge/_holat/chunks/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat__01.txt` (1041-satr) — veb-fayl orqali
+- `knowledge/asarlar/botu-sherlar.md` — «Sheʼrlar» kartochkasi
+- `knowledge/_holat/chunks/botu-sherlar__01.txt` — saylanmaning toʻliq matni (EPUB: «Botu - Sheʼrlar.epub», Toshkent, 2024; elektron shaklga keltirgan Shahriyor Shavkat)
+- `knowledge/manbalar_web/muallif-botu.md` — veb-tadqiqot fayli
+- `knowledge/manbalar_web/adabiyot-poetika-til.md`; `knowledge/manbalar_web/muallif-elbek.md`
+- `knowledge/_holat/chunks/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat__01.txt` (165-satr); `knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` (331-satr); `knowledge/_holat/chunks/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat__01.txt` (1041-satr) — veb-fayl orqali
 
 **URL manzillar:**
 - https://uz.wikipedia.org/wiki/Botu

@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Novvoy qiz»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (sarlavha ostida muallif/nashr belgisi: «Hikoya»); uch qismli (I–III) ijtimoiy-psixologik novella, oxirida allegorik (dengiz–qirgʻoq) xotima · **Yozilgan/nashr:** matn oxirida muallif sanasi: «1927-yil, 25-iyun, / Samarqand»; elektron nashr: «Toshkent / 2024» (birinchi bosilgan joyi va sanasi matnda koʻrsatilmagan) · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Novvoy qiz.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (sarlavha ostida muallif/nashr belgisi: «Hikoya»); uch qismli (I–III) ijtimoiy-psixologik novella, oxirida allegorik (dengiz–qirgʻoq) xotima · **Yozilgan/nashr:** matn oxirida muallif sanasi: «1927-yil, 25-iyun, / Samarqand»; elektron nashr: «Toshkent / 2024» (birinchi bosilgan joyi va sanasi matnda koʻrsatilmagan) · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Novvoy qiz.epub
 
 **Matn tarkibi va muharrir qatlami.** Fayldagi matn: (1) muqova qismi — «Choʻlpon / NOVVOY QIZ / Hikoya», rasm belgisi «[Image]», «Toshkent / 2024»; (2) muallif matni — I, II, III boblar; (3) muallif imzosi oʻrnidagi sana-joy: «1927-yil, 25-iyun, Samarqand»; (4) elektron nashr izohi: «Ushbu asarni / Mirjalol Madvaliyev / elektron shaklga keltirdi.» Soʻzboshi, soʻngsoʻz, izoh yoki sharhlar yoʻq. Muharrir aralashuvi asosan imloda koʻrinadi: matn zamonaviy lotin alifbosiga (oʻ, gʻ, ʼ) oʻgirilgan, ammo 1920-yillar morfologiyasi (-gʻa, -gʻon/-qon, -gʻuvchi, mun-, burungʻi va h.k.) saqlab qolingan. Matn ichidagi yagona qavsli izoh — «“faloh” (qutulish)» — muallifniki yoki noshirniki ekani aniq emas (qarang: Tadqiqot uchun izohlar).
 
@@ -247,7 +247,7 @@ Matn zamonaviy alifboda, ammo quyidagi 1920-yillar shakllari saqlangan:
 | pachgi | ehtimol barg/poya parchasi (aniqlanmagan) | sheva |
 | dod | faryod, yordam soʻrash hayqirigʻi | fors / xalqona |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 - Muallif sanasi va joyi: «1927-yil, 25-iyun, Samarqand». Samarqand 1925–1930-yillarda Oʻzbekiston SSR poytaxti boʻlgan [umumiy bilim — tekshirilmagan].
 - Asar «Hikoya» deb belgilangan; elektron nashr: «Toshkent 2024», elektron shaklga keltiruvchi — Mirjalol Madvaliyev.

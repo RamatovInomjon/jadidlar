@@ -5,7 +5,7 @@
 > **Cheklov haqida ogohlantirish.** Bu fayl tayyorlanayotganda umumiy veb-qidiruv limiti tugab qolgan edi (bu sessiyada bitta ham qidiruv bajarilmadi). Shu sababli faqat toʻgʻridan-toʻgʻri ochilgan sahifalardan foydalanildi: oʻzbek Vikipediyasi, ziyouz.uz, kh-davron.uz. saviya.uz sahifasi ochilmadi (SSL xatosi / 503), uning web.archive.org nusxasi ham ochilmadi. Rus va ingliz Vikipediyasida Zafariy haqida maqola topilmadi (sinab koʻrilgan sarlavhalar 404 qaytardi). Shu bois Adeeb Khalid, Allworth, Baldauf va boshqa xorijiy tadqiqotlardagi Zafariy haqidagi baholar bu faylda **yoʻq**. Ularni keyingi qidiruv seansida toʻldirish kerak.
 >
 > **Mahalliy manba qisqartmasi:**
-> - **[Usmonov 2024]** = `/home/user/jadidlar/knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` (EPUB asli: `/home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`; tahliliy konspekti: `/home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md`)
+> - **[Usmonov 2024]** = `knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt` (EPUB asli: `Jadidlar_kitoblari_epub/Olim Usmonov - Jadidlar Gʻulom Zafariy.epub`; tahliliy konspekti: `knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md`)
 >
 > **Veb manbalar qisqartmasi:**
 > - **[UzWiki]** = https://uz.wikipedia.org/wiki/Gʻulom_Zafariy
@@ -27,7 +27,7 @@
 ### 2.1. Tugʻilishi va oilasi
 - **Tugʻilgan yili va joyi:** 1889-yil, Toshkentning Beshyogʻoch dahasiga qarashli Kattabogʻ mahallasi [https://uz.wikipedia.org/wiki/Gʻulom_Zafariy; https://ziyouz.uz/ozbek-ziyolilari/gulom-zafariy/; https://kh-davron.uz/kutubxona/multimedia/gulom-zafariy-halima.html]. Usmonov ham 1889-yil va Kattabogʻ mahallasini koʻrsatadi [Usmonov 2024].
 - **Boshqa versiya:** Habibulla Qodiriyning «Otam haqida» kitobida (1983, 180-bet; Usmonov keltirgan) shunday deyilgan: «G‘ulom Zafariy asli qo‘qonlik, Toshkentga qachon ko‘chib kelganligi menga noma’lum. Uning Eshonguzar mahallamizda bog‘cha hovlisi bo‘lib, bizga hammahalla, dadamga ham ulfat – gapxo‘r edi» [Usmonov 2024].
-- **Ota-onasi:** Usmonov bayoniga koʻra, otasi Muzaffar misgar boʻlgan. Onasi Fayzinisa otin asli qoʻqonlik boʻlib, xalq doston va ertaklarini, Qoʻqon xonligi tarixini yaxshi bilgan [Usmonov 2024; konspekt: /home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md]. Habibulla Qodiriy onasini «Qo‘qonlik oyi» deb eslaydi: «juda muloyim, xushmuomala, shirinsuhbat, Qo‘qon hayotini, xonlar zamonini yaxshi bilguvchi» ayol [Usmonov 2024].
+- **Ota-onasi:** Usmonov bayoniga koʻra, otasi Muzaffar misgar boʻlgan. Onasi Fayzinisa otin asli qoʻqonlik boʻlib, xalq doston va ertaklarini, Qoʻqon xonligi tarixini yaxshi bilgan [Usmonov 2024; konspekt: knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md]. Habibulla Qodiriy onasini «Qo‘qonlik oyi» deb eslaydi: «juda muloyim, xushmuomala, shirinsuhbat, Qo‘qon hayotini, xonlar zamonini yaxshi bilguvchi» ayol [Usmonov 2024].
 - **Yagona farzand:** «Oilada yolg‘iz farzand bo‘lgani uchun ota-onasi yosh G‘ulomning tarbiyasiga jiddiy e’tibor qaratadi» [Usmonov 2024].
 - **Qizi:** Siddiqa Gʻulomiya. U otasi haqida xotira yozgan va B. Imomovning «Sharq yulduzi»dagi maqolasida (1981, 11-son) keltirilgan: «Oilamizda boshqa farzand bo‘lmagani uchun men ularga choy tashuvchi dastyor edim» [Usmonov 2024].
 - **Tashqi qiyofasi (zamondoshlar xotirasi):** Habibulla Qodiriy: «U yo‘g‘on, baland gavdali, cho‘ziq, cho‘tir yuzli, qish kezlarida uzun olacha qaviq to‘n kiyib yuruvchi, xoksor – ochiq tabiatli, muloyim kulib so‘zlovchi, Qodiriydan besho‘n yosh katta kishi edi» [Usmonov 2024]. Hamid Sulaymon: «G‘ulom Zafariy gavdali, lo‘ppidan kelgan, oq cho‘tir yuzli odam bo‘lgan» [Usmonov 2024].
@@ -197,7 +197,7 @@
 | **Olim Usmonov** | «Jadidlar. Gʻulom Zafariy» (2024) | ikki janr — musiqali drama va bolalar dramaturgiyasi — «uning nomi bilan bog‘liqdir»; «Gʻulom Zafariy yaratgan sahna asarlari musiqali drama yaratish yo‘lidagi ilk izlanishlar edi» | [Usmonov 2024] |
 | **Nigora Umarova** | «“Halima”ning zamonaviy qiyofasi» | «Halima» — «xalqning turmush tarzidagi dolzarb masalalarni ochib bergan» asar | [https://kh-davron.uz/kutubxona/multimedia/gulom-zafariy-halima.html] |
 
-**Til haqida kuzatishlar (konspektdan).** Zafariyning 1918-yilgi matnlarida usmonli-tatar shakllari («o‘lsun», «erdi», «-ina» qoʻshimchasi) koʻp. 1920-yillarda esa chigʻatoycha-purist shakllar (-gʻa, -gʻon, «el tomosha (teatru)si») ustun. Bu Fitratning «Chigʻatoy gurungi» taʼsiri boʻlishi mumkin. Bu konspekt muallifining taxmini, ilmiy manbada tasdiqlanmagan [/home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md].
+**Til haqida kuzatishlar (konspektdan).** Zafariyning 1918-yilgi matnlarida usmonli-tatar shakllari («o‘lsun», «erdi», «-ina» qoʻshimchasi) koʻp. 1920-yillarda esa chigʻatoycha-purist shakllar (-gʻa, -gʻon, «el tomosha (teatru)si») ustun. Bu Fitratning «Chigʻatoy gurungi» taʼsiri boʻlishi mumkin. Bu konspekt muallifining taxmini, ilmiy manbada tasdiqlanmagan [knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md].
 
 ---
 
@@ -211,7 +211,7 @@
 7. «Mana bu institut ham boshlab buyuk o‘zbek klassik va xalq kuylarini, raqslarini ilmiy tekshirish, ularni talabalarga o‘rgatish, etnografiya yo‘li bilan maqom va xalq kuylarini notag‘a zabt etish va ponog‘rafg‘a o‘tkazib saqlash yo‘lini tutdi» — «Musiqa muammosi», 1930 [Usmonov 2024 — konspekt].
 8. «Ey mirzolar, Yozing ushbu buyrug‘im. / Bilsin kattakichiklar, Bul mening odilligim.» — «Cho‘pon Temir», Boburshoh farmoni [Usmonov 2024 — konspekt].
 
-*Eslatma:* Usmonov risolasining «Hikmatli so‘zlari» boʻlimida Zafariy iqtiboslari jimgina hozirgi imloga oʻgirilgan. Shu sababli asl shakllarni asosiy matndan olish kerak [/home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md].
+*Eslatma:* Usmonov risolasining «Hikmatli so‘zlari» boʻlimida Zafariy iqtiboslari jimgina hozirgi imloga oʻgirilgan. Shu sababli asl shakllarni asosiy matndan olish kerak [knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md].
 
 ---
 
@@ -250,8 +250,8 @@
 - Ғулом Зафарий (1889-1938) — Ziyouz.uz, «Ўзбек зиёлилари» — https://ziyouz.uz/ozbek-ziyolilari/gulom-zafariy/
 - «Diydor» teatr-studiyasi taqdim etadi: Gʻulom Zafariy. Halima (N. Umarova taqrizi) — kh-davron.uz — https://kh-davron.uz/kutubxona/multimedia/gulom-zafariy-halima.html
 - Gʻulom Zafariy-1889-1938 — saviya.uz (Vikipediyada keltirilgan, bu seansda ochilmadi) — https://saviya.uz/hayot/tarjimai-hol/gulom-zafariy-1889-1938/
-- Usmonov O. Jadidlar. Gʻulom Zafariy (mahalliy matn) — /home/user/jadidlar/knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt
-- Usmonov risolasining tahliliy konspekti — /home/user/jadidlar/knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md
+- Usmonov O. Jadidlar. Gʻulom Zafariy (mahalliy matn) — knowledge/_holat/chunks/olim-usmonov-jadidlar-gulom-zafariy__01.txt
+- Usmonov risolasining tahliliy konspekti — knowledge/asarlar/olim-usmonov-jadidlar-gulom-zafariy.md
 
 ---
 

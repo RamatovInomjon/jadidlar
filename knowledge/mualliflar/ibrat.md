@@ -510,15 +510,15 @@ mezon, vazn, hosili mezon, tarozu; tabodili zamon, inqilobi zamon; ashyoi jadida
 
 ### Mahalliy fayllar
 
-- `/home/user/jadidlar/knowledge/asarlar/ishoqxon-tora-ibrat-mezon-uz-zamon.md` — «Mezon uz-zamon» kartochkasi.
-- `/home/user/jadidlar/knowledge/asarlar/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat.md` — Dolimov risolasi kartochkasi.
-- `/home/user/jadidlar/Jadidlar_kitoblari_epub/Isʼhoqxon Toʻra Ibrat - Mezon uz-zamon.epub` — verbatim iqtiboslar va soʻz hisoblari shu matndan olindi.
-- `/home/user/jadidlar/Jadidlar_kitoblari_epub/Ulugʻbek Dolimov - Jadidlar Isʼhoqxon toʻra Ibrat.epub` — Ibratning boshqa asarlaridan iqtiboslar shu matndan olindi.
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-ibrat.md` — veb-tadqiqot fayli, ziddiyatli maʼlumotlar roʻyxati shu yerda.
-- `/home/user/jadidlar/knowledge/manbalar_web/adabiyot-poetika-til.md` — M. Latipovning Ibrat morfologiyasi haqidagi maʼlumotlari (8.1–8.8, 11.5).
-- `/home/user/jadidlar/knowledge/manbalar_web/matbuot-maktab-teatr.md` — «Fargʻona sahifasi» va Makayev haqida.
-- `/home/user/jadidlar/knowledge/manbalar_web/jadidchilik-tarixi.md` — «Jadidlar» risolalar turkumi haqida.
-- `/home/user/jadidlar/knowledge/mualliflar/behbudiy.md`, `/home/user/jadidlar/knowledge/mualliflar/munavvarqori.md` — aloqalar uchun.
+- `knowledge/asarlar/ishoqxon-tora-ibrat-mezon-uz-zamon.md` — «Mezon uz-zamon» kartochkasi.
+- `knowledge/asarlar/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat.md` — Dolimov risolasi kartochkasi.
+- `Jadidlar_kitoblari_epub/Isʼhoqxon Toʻra Ibrat - Mezon uz-zamon.epub` — verbatim iqtiboslar va soʻz hisoblari shu matndan olindi.
+- `Jadidlar_kitoblari_epub/Ulugʻbek Dolimov - Jadidlar Isʼhoqxon toʻra Ibrat.epub` — Ibratning boshqa asarlaridan iqtiboslar shu matndan olindi.
+- `knowledge/manbalar_web/muallif-ibrat.md` — veb-tadqiqot fayli, ziddiyatli maʼlumotlar roʻyxati shu yerda.
+- `knowledge/manbalar_web/adabiyot-poetika-til.md` — M. Latipovning Ibrat morfologiyasi haqidagi maʼlumotlari (8.1–8.8, 11.5).
+- `knowledge/manbalar_web/matbuot-maktab-teatr.md` — «Fargʻona sahifasi» va Makayev haqida.
+- `knowledge/manbalar_web/jadidchilik-tarixi.md` — «Jadidlar» risolalar turkumi haqida.
+- `knowledge/mualliflar/behbudiy.md`, `knowledge/mualliflar/munavvarqori.md` — aloqalar uchun.
 
 ### Veb-manbalar
 

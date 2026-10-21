@@ -1,6 +1,6 @@
 # Abdulla Avloniy — «Advokatlik osonmi?»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** bir pardali komediya (matndagi muallif taʼrifi: «(Bir pardalik kulgi)»; nashrdagi umumiy belgi: «Drama»), satirik sahna asari · **Yozilgan/nashr:** matn oxirida «1914» sanasi qoʻyilgan; elektron nashr: «Toshkent, 2024», «mutolaa» logotipi bilan, elektron shaklga keltirgan — Manzura Matrasulova · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulla Avloniy - Advokatlik osonmi.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** bir pardali komediya (matndagi muallif taʼrifi: «(Bir pardalik kulgi)»; nashrdagi umumiy belgi: «Drama»), satirik sahna asari · **Yozilgan/nashr:** matn oxirida «1914» sanasi qoʻyilgan; elektron nashr: «Toshkent, 2024», «mutolaa» logotipi bilan, elektron shaklga keltirgan — Manzura Matrasulova · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Avloniy - Advokatlik osonmi.epub
 
 > **Matn qatlamlari.** Fayldagi matn uch qismdan iborat:
 > 1. **Zamonaviy nashriyot izohi** (muallif matni emas): «Ushbu drama komediya janrida boʻlib, jamiyatdagi illatlar kulgi ostiga olinadi. Avloniy oʻz asarida yuz yil oldin jamiyatda hukm surgan savodsizlik, firibgarlik, ilmsizlik kabi muammolarni tanqid ostiga oladi...» — bu annotatsiya asar bugungi jamiyatga ham «koʻzgu tutib» koʻrsatishini taʼkidlaydi. Uslubi zamonaviy adabiy til, «boʻlib», «koʻrsatib beradi» kabi hozirgi shakllarda.

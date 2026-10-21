@@ -1,6 +1,6 @@
 # Mahmudxoʻja Behbudiy — «Bir aʼmo bolaning hasrati»
 
-- **Turi:** jadid muallifning oʻz asari, aniqrogʻi Behbudiyning **tabdili** (usmonli turkchadan Turkiston turkiyiga oʻgirib moslashtirgan matni); asl muallif "fransuz qizi Sorrun", usmonlichaga tarjimoni Rijoizoda Mahmud Akram (Recâizâde Mahmud Ekrem) · **Janr:** lirik monolog, nasriy sheʼr (mensur sheʼr) tabiatidagi kichik lirik parcha; elektron nashr sarlavha sahifasida "Hikoya" deb berilgan · **Yozilgan/nashr:** "“Oyna” jurnali., 1914-y., 27-son, 505-bet." (matn ostidagi manba qaydi); ushbu elektron nashr "Toshkent, 2024" · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Mahmudxoʻja Behbudiy - Bir aʼmo bolaning hasrati.epub
+- **Turi:** jadid muallifning oʻz asari, aniqrogʻi Behbudiyning **tabdili** (usmonli turkchadan Turkiston turkiyiga oʻgirib moslashtirgan matni); asl muallif "fransuz qizi Sorrun", usmonlichaga tarjimoni Rijoizoda Mahmud Akram (Recâizâde Mahmud Ekrem) · **Janr:** lirik monolog, nasriy sheʼr (mensur sheʼr) tabiatidagi kichik lirik parcha; elektron nashr sarlavha sahifasida "Hikoya" deb berilgan · **Yozilgan/nashr:** "“Oyna” jurnali., 1914-y., 27-son, 505-bet." (matn ostidagi manba qaydi); ushbu elektron nashr "Toshkent, 2024" · **Manba fayl:** Jadidlar_kitoblari_epub/Mahmudxoʻja Behbudiy - Bir aʼmo bolaning hasrati.epub
 
 > Hajmi: asosiy matn taxminan 125 soʻz, bitta yaxlit abzats. Fayl toʻliq oʻqildi (64 satr, shundan matn 31–34-satrlarda; satrlar 250 belgida sunʼiy uzilgan, asl matnda abzats bitta).
 

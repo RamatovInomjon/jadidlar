@@ -17,7 +17,7 @@ Abdulla Qodiriy toshkentlik nosir, dramaturg, hajvchi-felyetonchi, jurnalist va 
 ### Ism, nasab, taxalluslar
 
 - **Ismi.** Abdulla Qodiriy. «Qodiriy» nisbasi otasining ismidan (Qodirmuhammad, Qodir bobo) olingan [H. Qodiriy]. Oilada uni «Ada», mahallada «mulla Abdulla», «Julqun» deb atashgan [H. Qodiriy].
-- **«Julqunboy».** Asosiy hajviy taxallusi [uz/ru/en Vikipediya; Karimov-2024]. «Mehrobdan chayon» soʻzboshisi «Abdulla Qodiriy (Julqunboy)», soʻnggi soʻzi «Abdulla Qodiriy – Julqunboy» deb imzolangan [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md]. «Tinch ish» ham «Julqunboy» imzosi bilan tugaydi [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-tinch-ish.md]. «Oʻtkan kunlar»ning «Uzr»i esa «Abdulla» deb imzolangan.
+- **«Julqunboy».** Asosiy hajviy taxallusi [uz/ru/en Vikipediya; Karimov-2024]. «Mehrobdan chayon» soʻzboshisi «Abdulla Qodiriy (Julqunboy)», soʻnggi soʻzi «Abdulla Qodiriy – Julqunboy» deb imzolangan [knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md]. «Tinch ish» ham «Julqunboy» imzosi bilan tugaydi [knowledge/asarlar/abdulla-qodiriy-tinch-ish.md]. «Oʻtkan kunlar»ning «Uzr»i esa «Abdulla» deb imzolangan.
 - **Boshqa imzolar.** Karimov-2024 ularni shunday sanaydi: Mulla Julqunboy, Ju-boy, Dumbul, Dumbulboy, Dumbulnisa, Kalvak maxzum, Toshpoʻlat tajang, Ovsar, Shilgʻay. H. Qodiriy (34-izoh) 50 ga yaqin taxallus beradi, jumladan Jirqinboy, Yoʻlovchi, Mulla Mushfiqiy. Qodiriyning oʻzi «Kulgu haqida» maqolasida bularni «mustaor imzo, yaʼni qahramonlarim» deb ataydi [H. Qodiriy]. Ilk sheʼrlarida «Qodir» soʻzi tavriya bilan ishlatilgan: u ham taxallus, ham «qodir» maʼnosini beradi [Karimov-2024]. Ayniy «Odina»sidagi sheʼrni Qodiriyning «Nazmi» taxallusli sheʼriga oʻxshatma deb izohlagan [H. Qodiriy].
 
 ### Tugʻilishi va oilasi
@@ -572,20 +572,20 @@ Moziy, istibdod, ittifoq, nizo, vijdon, diyonat, gʻarazgoʻy, manfaati shaxsiya
 
 ### Mahalliy fayllar
 
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-obid-ketmon.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-uloqda.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-jinlar-bazmi.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-tinch-ish.md
-- /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-quyosh-bilan-ham-kurashaman.md
-- /home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md
-- /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md
-- /home/user/jadidlar/knowledge/asarlar/habibulla-qodiriy-otam-haqida.md
-- /home/user/jadidlar/knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md
-- /home/user/jadidlar/knowledge/manbalar_web/muallif-qodiriy.md
-- /home/user/jadidlar/knowledge/manbalar_web/adabiyot-poetika-til.md, jadidchilik-tarixi.md, matbuot-maktab-teatr.md, muallif-cholpon.md, muallif-behbudiy.md, muallif-elbek.md, muallif-tavallo.md, muallif-zafariy.md, muallif-hamza.md, muallif-avloniy.md
+- knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md
+- knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md
+- knowledge/asarlar/abdulla-qodiriy-obid-ketmon.md
+- knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md
+- knowledge/asarlar/abdulla-qodiriy-uloqda.md
+- knowledge/asarlar/abdulla-qodiriy-jinlar-bazmi.md
+- knowledge/asarlar/abdulla-qodiriy-tinch-ish.md
+- knowledge/asarlar/abdulla-qodiriy-quyosh-bilan-ham-kurashaman.md
+- knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md
+- knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md
+- knowledge/asarlar/habibulla-qodiriy-otam-haqida.md
+- knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md
+- knowledge/manbalar_web/muallif-qodiriy.md
+- knowledge/manbalar_web/adabiyot-poetika-til.md, jadidchilik-tarixi.md, matbuot-maktab-teatr.md, muallif-cholpon.md, muallif-behbudiy.md, muallif-elbek.md, muallif-tavallo.md, muallif-zafariy.md, muallif-hamza.md, muallif-avloniy.md
 
 ### Veb-manbalar
 

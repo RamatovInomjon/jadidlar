@@ -565,24 +565,24 @@ Hech kim javob bermadi. Koʻcha qop-qorongʻi, jimjit edi...
 
 ### Mahalliy fayllar
 
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-kecha-va-kunduz.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-sherlar.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-doxtur-muhammadiyor.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-qurboni-jaholat.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-kleopatra.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-oydin-kechalarda.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-nonushta.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-seni-kob-kormasun.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-qor-qoynida-lola.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-taraqqiy.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-novvoy-qiz.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-oqposhshoning-inomi.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-meros.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-yorqinoy.md`
-- `/home/user/jadidlar/knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md`
-- `/home/user/jadidlar/knowledge/asarlar/dilmurod-quronov-jadidlar-abdulhamid-cholpon.md`
-- Asl matnlar (iqtiboslar tekshirildi): `/home/user/jadidlar/knowledge/_holat/chunks/abdulhamid-cholpon-*__0N.txt`, `/home/user/jadidlar/knowledge/_holat/chunks/dilmurod-quronov-jadidlar-abdulhamid-cholpon__01.txt`
-- Veb-tadqiqot fayllari: `/home/user/jadidlar/knowledge/manbalar_web/muallif-cholpon.md`, `adabiyot-poetika-til.md`, `matbuot-maktab-teatr.md`, `jadidchilik-tarixi.md`, `muallif-fitrat.md`, `muallif-elbek.md`, `muallif-botu.md`, `muallif-zafariy.md`, `muallif-behbudiy.md`, `muallif-avloniy.md`, `muallif-qodiriy.md`, `boshqa-jadidlar.md`
+- `knowledge/asarlar/abdulhamid-cholpon-kecha-va-kunduz.md`
+- `knowledge/asarlar/abdulhamid-cholpon-sherlar.md`
+- `knowledge/asarlar/abdulhamid-cholpon-doxtur-muhammadiyor.md`
+- `knowledge/asarlar/abdulhamid-cholpon-qurboni-jaholat.md`
+- `knowledge/asarlar/abdulhamid-cholpon-kleopatra.md`
+- `knowledge/asarlar/abdulhamid-cholpon-oydin-kechalarda.md`
+- `knowledge/asarlar/abdulhamid-cholpon-nonushta.md`
+- `knowledge/asarlar/abdulhamid-cholpon-seni-kob-kormasun.md`
+- `knowledge/asarlar/abdulhamid-cholpon-qor-qoynida-lola.md`
+- `knowledge/asarlar/abdulhamid-cholpon-taraqqiy.md`
+- `knowledge/asarlar/abdulhamid-cholpon-novvoy-qiz.md`
+- `knowledge/asarlar/abdulhamid-cholpon-oqposhshoning-inomi.md`
+- `knowledge/asarlar/abdulhamid-cholpon-meros.md`
+- `knowledge/asarlar/abdulhamid-cholpon-yorqinoy.md`
+- `knowledge/asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md`
+- `knowledge/asarlar/dilmurod-quronov-jadidlar-abdulhamid-cholpon.md`
+- Asl matnlar (iqtiboslar tekshirildi): `knowledge/_holat/chunks/abdulhamid-cholpon-*__0N.txt`, `knowledge/_holat/chunks/dilmurod-quronov-jadidlar-abdulhamid-cholpon__01.txt`
+- Veb-tadqiqot fayllari: `knowledge/manbalar_web/muallif-cholpon.md`, `adabiyot-poetika-til.md`, `matbuot-maktab-teatr.md`, `jadidchilik-tarixi.md`, `muallif-fitrat.md`, `muallif-elbek.md`, `muallif-botu.md`, `muallif-zafariy.md`, `muallif-behbudiy.md`, `muallif-avloniy.md`, `muallif-qodiriy.md`, `boshqa-jadidlar.md`
 
 ### Veb-manbalar
 

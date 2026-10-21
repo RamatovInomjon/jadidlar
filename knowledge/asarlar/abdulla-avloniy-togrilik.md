@@ -1,6 +1,6 @@
 # Abdulla Avloniy — «Toʻgʻrilik»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** ibratli hikoyat (masal tipidagi qisqa allegorik nasriy hikoya, oxiri sheʼriy xulosa bilan); nashrdagi belgi: «Ertak» · **Yozilgan/nashr:** matnda yozilgan yili koʻrsatilmagan; elektron nashr: «Toshkent», «2024», «Mutolaa» loyihasi (EPUB metamaʼlumotida yaratuvchi — «Mutolaa», calibre vaqt belgisi 2024-02-29), elektron shaklga keltirgan — Qobiljon Shermatov · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulla Avloniy - Toʻgʻrilik.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** ibratli hikoyat (masal tipidagi qisqa allegorik nasriy hikoya, oxiri sheʼriy xulosa bilan); nashrdagi belgi: «Ertak» · **Yozilgan/nashr:** matnda yozilgan yili koʻrsatilmagan; elektron nashr: «Toshkent», «2024», «Mutolaa» loyihasi (EPUB metamaʼlumotida yaratuvchi — «Mutolaa», calibre vaqt belgisi 2024-02-29), elektron shaklga keltirgan — Qobiljon Shermatov · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Avloniy - Toʻgʻrilik.epub
 
 > **Hajm haqida.** Bu toʻplamdagi eng qisqa matnlardan biri: muallif matni 10 ta nasriy gap (taxminan 90 soʻz) va 4 misra sheʼrdan iborat (jami ~105 soʻz). Shuning uchun kartochkada har bir gap va har bir misra alohida tahlil qilinadi. Matn toʻliq oʻqildi (manba fayl 63 qator).
 
@@ -24,7 +24,7 @@ Asar bir epizodli, chiziqli syujetga ega. Uni olti harakat bosqichiga ajratish m
 
 **5. Tashrif va koʻrinish.** Bir kuni kampir tutini koʻrgani boradi va uning «jannat kabi» bir ayvon oʻrtasida ustun boʻlib turganini koʻradi.
 
-**6. Xulosa — kampirning sheʼriy xitobi.** Kampir tutiga qarab sheʼr aytadi: «tutim, toʻgʻriliging bizni davlatga (boylik-baxtga) yetkazdi; agar egri boʻlganingda, sen oʻtin boʻlarding, men esa xor-zor qolardim». Soʻnggi baytda xulosa umumlashadi: toʻgʻrilar jannat ayvonida, oʻgʻrilar esa ranj-u alam konida boʻladi.
+**6. Xulosa — kampirning sheʼriy xitobi.** Kampir tutiga qarab sheʼr aytadi: «Ey, tutim, to‘g‘riliging qildi bizi davlatga yor, / Egri bo‘lsang, san o‘tun bo‘lg‘ay eding, man xor-zor.» (mazmuni: toʻgʻriliging bizni davlatga — boylik-baxtga — yetkazdi; egri boʻlganingda oʻtin boʻlarding, men xor-zor qolardim). Soʻnggi baytda xulosa umumlashadi: toʻgʻrilar jannat ayvonida, oʻgʻrilar esa ranj-u alam konida boʻladi.
 
 Shunday qilib, hikoyaning ichki mantigʻi: jismoniy toʻgʻrilik (tutning tik oʻsishi) → amaliy foyda (ustunga yaraydi) → moddiy mukofot (ming oltin) → yuksak maqom («jannat kabi ayvon») → axloqiy umumlashma (toʻgʻri odam jannatda, oʻgʻri azobda).
 

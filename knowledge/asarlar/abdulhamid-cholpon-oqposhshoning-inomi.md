@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Oqposhshoning inʼomi»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (satirik-yumoristik kichik hikoya, latifaga yaqin novella; sarlavha sahifasida “Hikoya” deb belgilangan) · **Yozilgan/nashr:** matn oxirida “1934” sanasi qoʻyilgan; elektron nashr sarlavha sahifasida “Toshkent / 2024” · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Oqposhshoning inʼomi.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (satirik-yumoristik kichik hikoya, latifaga yaqin novella; sarlavha sahifasida “Hikoya” deb belgilangan) · **Yozilgan/nashr:** matn oxirida “1934” sanasi qoʻyilgan; elektron nashr sarlavha sahifasida “Toshkent / 2024” · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Oqposhshoning inʼomi.epub
 
 **Matn hajmi va nashr qatlamlari.** Asar juda qisqa: EPUB matnida taxminan 1100 soʻz, 40 ga yaqin paragraf va replika. Fayldagi qatlamlar:
 
@@ -255,7 +255,7 @@ Ohang kinoyali, yengil-yumoristik va latifaga xos. Hikoyachi baland tonga koʻta
 | daranglagan | dangʻillama, katta (uy) | xalqona / taqlidiy |
 | sovchi | quda boʻlish uchun kelgan vakil | turkiy |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 **Matndan:**
 - Hikoya oxirida sana bor: **1934**.

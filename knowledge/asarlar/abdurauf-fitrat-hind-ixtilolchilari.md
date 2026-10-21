@@ -1,6 +1,6 @@
 # Abdurauf Fitrat — «Hind ixtilolchilari»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** besh pardali drama (siyosiy-ozodlik dramasi, sevgi va fitna syujeti bilan; matnda «Drama» deb belgilangan) · **Yozilgan/nashr:** manba faylda yozilish sanasi koʻrsatilmagan; elektron nashr sahifasida «Toshkent, 2024», «Ushbu asarni Nilufar Obidova elektron shaklga keltirdi». Asar 1920-yilda yozilib, 1923-yilda Berlinda nashr etilgan, deb hisoblanadi [umumiy bilim — tekshirilmagan] · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdurauf Fitrat - Hind ixtilolchilari.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** besh pardali drama (siyosiy-ozodlik dramasi, sevgi va fitna syujeti bilan; matnda «Drama» deb belgilangan) · **Yozilgan/nashr:** manba faylda yozilish sanasi koʻrsatilmagan; elektron nashr sahifasida «Toshkent, 2024», «Ushbu asarni Nilufar Obidova elektron shaklga keltirdi». Boltaboyevga koʻra, «Fitrat zamondoshlarining guvohlik berishicha, “Hind ixtilolchilari” 1921-yilning o‘zidayoq yozib tugallangan»; toʻliq nashri 1923-yilda Berlinda chiqqan ([Boltaboyev 2024](hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md); [fitrat.md](../mualliflar/fitrat.md): «1921/1923») [manba bilan tekshirildi] · **Manba fayl:** Jadidlar_kitoblari_epub/Abdurauf Fitrat - Hind ixtilolchilari.epub
 
 **Matn qatlamlari.** Faylda uch qatlam bor:
 1. **Muallif matni:** «Kimsalar» roʻyxati, besh parda, sahna remarkalari, toʻrtta sheʼriy parcha. Matn «Bitdi» soʻzi bilan tugaydi.
@@ -347,7 +347,7 @@ Asar nasriy drama, lekin unga toʻrtta sheʼriy parcha kiritilgan. Ularning hamm
 | vijdon | vijdon | arabcha |
 | tebranish | harakat (hayot ramzi) | turkiy, asar motivi |
 
-## Tarixiy va biografik faktlar (from the text)
+## Tarixiy va biografik faktlar (matndan)
 
 - **Vaqt:** Birinchi jahon urushi («Yalpi urush»). Matndagi belgilar: turklarning Qafqaziyada yengilishi; «Turklar Iroqda yengilmishlar. Basra shahrini angliz olmish»; «Olmoniya uchgʻichlari Londongʻa boʻmba tashlagʻanlar»; «hozir Amerika ham bizga qoʻshildi». Urush voqealari bir-biriga siqib berilgan. Basraning olinishi 1914, Londonning havodan bombalanishi 1915-yildan, AQShning urushga kirishi 1917-yil aprelida boʻlgan [umumiy bilim — tekshirilmagan].
 - **Joylar:** Lohoʻr, Boʻnir/Bunir qoʻrgʻoni («Hind-Afgʻoniston chegarasida»), Amratsar, Dehli, Peshovar, Vaziriston, «Bogʻiston», Gangar togʻi, Bombay, Allohobod, Alikada, Kalkutta.

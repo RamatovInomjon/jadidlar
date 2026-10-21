@@ -1,6 +1,6 @@
 # Botu — «Sheʼrlar»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** lirik sheʼrlar saylanmasi (22 sheʼr: barmoq vaznidagi ishqiy, falsafiy-tabiat lirikasi va inqilobiy-ijtimoiy, daʼvatkor lirika; bitta sochma sheʼr — «Sevgan qiz»; ikkita sarlavhasiz «* * *» sheʼr) · **Yozilgan/nashr:** sheʼrlar ostida sana ham, joy ham yoʻq; ushbu elektron nashr titulida «Toshkent / 2024» · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Botu - Sheʼrlar.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** lirik sheʼrlar saylanmasi (22 sheʼr: barmoq vaznidagi ishqiy, falsafiy-tabiat lirikasi va inqilobiy-ijtimoiy, daʼvatkor lirika; bitta sochma sheʼr — «Sevgan qiz»; ikkita sarlavhasiz «* * *» sheʼr) · **Yozilgan/nashr:** sheʼrlar ostida sana ham, joy ham yoʻq; ushbu elektron nashr titulida «Toshkent / 2024» · **Manba fayl:** Jadidlar_kitoblari_epub/Botu - Sheʼrlar.epub
 
 > Ishlangan matn: EPUB dan oʻgirilgan `botu-sherlar__01.txt` (1141 satr), boshidan oxirigacha toʻliq oʻqildi. Kitobchada soʻzboshi, soʻngsoʻz, sharh yoki tuzuvchi maqolasi **yoʻq**. Tuzuvchi/nashriyotga tegishli qismlar faqat shular: titul («Botu / SHEʼRLAR / [Image] / Toshkent / 2024»), oxirdagi «Mundarija» (20 ta sarlavha; ikkala «* * *» sheʼr unda yoʻq), «Ushbu asarni / Shahriyor Shavkat / elektron shaklga keltirdi.» degan yozuv va «Qaydlar» boʻlimi. Qaydlardagi yagona izoh **muallifning oʻziga** tegishli: «Oti – kelgusi, istiqbol (muallif izohi).» (“Toʻlqinim” sheʼridagi «oti¹» soʻziga). Matn hozirgi lotin imlosiga oʻtkazilgan (oʻ, gʻ asosan U+2018 «‘» bilan, baʼzi bosh harflarda U+02BB «ʻ» bilan: «O‘gʻlim», «Gʻuncha», «Gʻayratim»). Bu aralashlik oʻgirishdan qolgan texnik iz. Shu sabab imlo kuzatuvlari asl arab yoki lotin yozuvidagi imloga emas, **transliteratsiyadan keyin saqlanib qolgan** grammatik va leksik shakllarga tegishli.
 
@@ -327,8 +327,8 @@ Botu lirikasining umumiy ruhi — **optimizm**. Gʻam motivlari («Hijron to‘l
 
 **Umumiy bilim (tekshirilishi kerak):**
 - Botu — Mahmud Hodiyevning taxallusi; u Toshkentda tugʻilgan, Moskvada oʻqigan, Fitrat bilan yaqin boʻlgan va «Chigʻatoy gurungi» doirasiga aloqador boʻlgan [umumiy bilim — tekshirilmagan].
-- 1937-yilda hibsga olingan va 1938-yilda otilgan, keyinroq oqlangan [umumiy bilim — tekshirilmagan].
-- Xayriniso Majidxonova — 1920-yillardagi ilk oʻzbek ayol jamoat arboblaridan biri [umumiy bilim — tekshirilmagan].
+- **Tuzatildi:** avvalgi «1937-yilda hibsga olingan» degan umumiy bilim qaydi xato edi. Muallif profiliga koʻra Botu «Milliy ittihod» ishi boʻyicha 1930-yil iyul/avgustida hibsga olingan (CentrAsia: 23-iyul; ru.wiki: avgust), Solovki lagerida saqlangan, 1938-yil 9-mayda otilgan va 1958-yilda oqlangan ([botu.md](../mualliflar/botu.md), «Hibs, qamoq, qatl va reabilitatsiya»).
+- Xayriniso Majidxonova — 1920-yillarda Germaniyada oʻqigan ikki oʻzbek qizidan biri; 1938-yil 9-oktabrda «nemis josusi» sifatida otilgan ([00_harakat_tarixi.md](../00_harakat_tarixi.md), 8.3-boʻlim; [01_xronologiya.md](../01_xronologiya.md)).
 
 ---
 

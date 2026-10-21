@@ -1,6 +1,6 @@
 # Abdulhamid Choʻlpon — «Nonushta»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (sarlavha ostida muallifning oʻzi “Hikoya” deb belgilagan); mazmunan kichik maishiy hikoya, ichkari hayotidan olingan lavha-etyud, yumoristik sahna · **Yozilgan/nashr:** matn oxirida “1923-yil, 15-iyun, Andijon” deb sana va joy koʻrsatilgan; ushbu elektron nashr: “Toshkent, 2024”, “Ushbu asarni Mirjalol Madvaliyev elektron shaklga keltirdi”. Wikisource sahifasida (https://wikisource.org/wiki/Nonushta) asar “Nonushta (1924)” deb berilgan va matn oxiridagi sana ham “1924” — ya’ni bu yerda yozilgan sana bilan nashr sanasi farq qilishi mumkin (pastda qarang) · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Nonushta.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** hikoya (sarlavha ostida muallifning oʻzi “Hikoya” deb belgilagan); mazmunan kichik maishiy hikoya, ichkari hayotidan olingan lavha-etyud, yumoristik sahna · **Yozilgan/nashr:** matn oxirida “1923-yil, 15-iyun, Andijon” deb sana va joy koʻrsatilgan; ushbu elektron nashr: “Toshkent, 2024”, “Ushbu asarni Mirjalol Madvaliyev elektron shaklga keltirdi”. Wikisource sahifasida (https://wikisource.org/wiki/Nonushta) asar “Nonushta (1924)” deb berilgan va matn oxiridagi sana ham “1924” — ya’ni bu yerda yozilgan sana bilan nashr sanasi farq qilishi mumkin (pastda qarang) · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon - Nonushta.epub
 
 > Hajmi: taxminan 1 600 soʻz (EPUB matni 267 qator). Asar bir bobdan iborat, boʻlimlarga ajratilmagan.
 

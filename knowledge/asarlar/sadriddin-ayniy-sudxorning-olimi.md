@@ -1,6 +1,6 @@
 # Sadriddin Ayniy — «Sudxoʻrning oʻlimi»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** qissa (satirik-memuar qissa; muqovada «Qissa» deb belgilangan) · **Yozilgan/nashr:** ushbu matn — Toshkent, 2024-yilgi nashr (muqova: «Sadriddin Ayniy / SUDXOʻRNING OʻLIMI / Qissa / Toshkent / 2024»), elektron shaklga keltiruvchi — Dostonbek Ahmadov. Asl yozilish sanasi matnda koʻrsatilmagan; asar tojik tilida «Margi sudxoʻr» nomi bilan 1937–1939-yillarda yozilgan, keyin oʻzbekchaga oʻgirilgan [umumiy bilim — tekshirilmagan] · **Manba fayl:** /home/user/jadidlar/Jadidlar_kitoblari_epub/Sadriddin Ayniy - Sudxoʻrning oʻlimi.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** qissa (satirik-memuar qissa; muqovada «Qissa» deb belgilangan) · **Yozilgan/nashr:** ushbu matn — Toshkent, 2024-yilgi nashr (muqova: «Sadriddin Ayniy / SUDXOʻRNING OʻLIMI / Qissa / Toshkent / 2024»), elektron shaklga keltiruvchi — Dostonbek Ahmadov. Asl yozilish sanasi matnda koʻrsatilmagan; asar tojik tilida «Margi sudxoʻr» nomi bilan yozilgan; sana manbalarda turlicha: 1939 (uz/ru Vikipediya), 1937 (tg.wiki) — [muallif-ayniy.md](../manbalar_web/muallif-ayniy.md), [ayniy.md](../mualliflar/ayniy.md) «Tekshiruv qaydlari»; tojikcha nomi «Margi sudxoʻr» [umumiy bilim — tekshirilmagan] · **Manba fayl:** Jadidlar_kitoblari_epub/Sadriddin Ayniy - Sudxoʻrning oʻlimi.epub
 
 ---
 

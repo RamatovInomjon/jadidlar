@@ -1,6 +1,6 @@
 # Abdulla Avloniy — «Afgʻon sayohati»
 
-- **Turi:** jadid muallifning oʻz asari · **Janr:** safarnoma-kundalik (yoʻl kundaligi, «Kundalik» deb nomlangan); ichiga sheʼriy parchalar (bayt, ruboiy, ikki «nazm»), maqbara bitiklari (forsiy), rasmiy xat nusxasi va etnografik ocherk boʻlimlari kiritilgan · **Yozilgan/nashr:** voqealar 1919-yil 15-iyundan 18-noyabrgacha kunma-kun qayd etilgan; matn boshida «1336-hijriy 16 ramazon, 1919-melodiy 15-iyul» sanasi bor (matnning oʻzida esa joʻnash «15-iyunda» deyiladi — qarang: «Tadqiqot uchun izohlar»); ushbu elektron nashr titulida «Toshkent / 2025»; elektron shaklga keltiruvchi — Mirjalol Madvaliyev · **Manba fayl:** /home/inomjon/projectAI/phd/jadidlar/Jadidlar_kitoblari_epub/Abdulla Avloniy - Afgʻon sayohati.epub
+- **Turi:** jadid muallifning oʻz asari · **Janr:** safarnoma-kundalik (yoʻl kundaligi, «Kundalik» deb nomlangan); ichiga sheʼriy parchalar (bayt, ruboiy, ikki «nazm»), maqbara bitiklari (forsiy), rasmiy xat nusxasi va etnografik ocherk boʻlimlari kiritilgan · **Yozilgan/nashr:** voqealar 1919-yil 15-iyundan 18-noyabrgacha kunma-kun qayd etilgan; matn boshida «1336-hijriy 16 ramazon, 1919-melodiy 15-iyul» sanasi bor (matnning oʻzida esa joʻnash «15-iyunda» deyiladi — qarang: «Tadqiqot uchun izohlar»); ushbu elektron nashr titulida «Toshkent / 2025»; elektron shaklga keltiruvchi — Mirjalol Madvaliyev · **Manba fayl:** Jadidlar_kitoblari_epub/Abdulla Avloniy - Afgʻon sayohati.epub
 
 ---
 

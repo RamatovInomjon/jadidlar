@@ -609,13 +609,13 @@ millat, milliyat, gʻaflat, bedavo, jaholat, urfon, maorif, taraqqiy, ibrat, gʻ
 ## Manbalar
 
 **Bazadagi fayllar:**
-- `/home/user/jadidlar/knowledge/asarlar/tavallo-ey-vatan-ezgu-vatan.md` — kartochka; matni: `/home/user/jadidlar/knowledge/_holat/chunks/tavallo-ey-vatan-ezgu-vatan__01.txt`, `__02.txt`; EPUB: `/home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub` (Toshkent, 2024; tabdil va soʻzboshi: D. Rahmonova; xotiralar: E. Vohidov, B. Qosimov, N. Karimov, N. Davron; elektron shakl: Mirjalol Madvaliyev)
-- `/home/user/jadidlar/knowledge/asarlar/tavallo-sherlar.md` — kartochka; matni: `/home/user/jadidlar/knowledge/_holat/chunks/tavallo-sherlar__01.txt`; EPUB: `/home/user/jadidlar/Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub` (Toshkent, 2024; elektron shakl: Dilmurod Doʻst)
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-tavallo.md` — asosiy veb-tadqiqot fayli
-- `/home/user/jadidlar/knowledge/manbalar_web/muallif-avloniy.md`, `/home/user/jadidlar/knowledge/manbalar_web/muallif-munavvarqori.md`
-- `/home/user/jadidlar/knowledge/_holat/chunks/habibulla-qodiriy-otam-haqida__02.txt` (Tavallo portreti), `__04.txt` (66- va 85-izohlar); kartochka: `../asarlar/habibulla-qodiriy-otam-haqida.md`
-- `/home/user/jadidlar/knowledge/_holat/chunks/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov__01.txt` (Tavalloning Munavvar qoriga sheʼri); kartochka: `../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md`
-- `/home/user/jadidlar/knowledge/_holat/chunks/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy__01.txt` («Oyna» va «Padarkush» kontekstlari); kartochka: `../asarlar/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md`
+- `knowledge/asarlar/tavallo-ey-vatan-ezgu-vatan.md` — kartochka; matni: `knowledge/_holat/chunks/tavallo-ey-vatan-ezgu-vatan__01.txt`, `__02.txt`; EPUB: `Jadidlar_kitoblari_epub/Tavallo - Ey Vatan, ezgu Vatan.epub` (Toshkent, 2024; tabdil va soʻzboshi: D. Rahmonova; xotiralar: E. Vohidov, B. Qosimov, N. Karimov, N. Davron; elektron shakl: Mirjalol Madvaliyev)
+- `knowledge/asarlar/tavallo-sherlar.md` — kartochka; matni: `knowledge/_holat/chunks/tavallo-sherlar__01.txt`; EPUB: `Jadidlar_kitoblari_epub/Tavallo - Sheʼrlar.epub` (Toshkent, 2024; elektron shakl: Dilmurod Doʻst)
+- `knowledge/manbalar_web/muallif-tavallo.md` — asosiy veb-tadqiqot fayli
+- `knowledge/manbalar_web/muallif-avloniy.md`, `knowledge/manbalar_web/muallif-munavvarqori.md`
+- `knowledge/_holat/chunks/habibulla-qodiriy-otam-haqida__02.txt` (Tavallo portreti), `__04.txt` (66- va 85-izohlar); kartochka: `../asarlar/habibulla-qodiriy-otam-haqida.md`
+- `knowledge/_holat/chunks/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov__01.txt` (Tavalloning Munavvar qoriga sheʼri); kartochka: `../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md`
+- `knowledge/_holat/chunks/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy__01.txt` («Oyna» va «Padarkush» kontekstlari); kartochka: `../asarlar/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md`
 - Boshqa profillardagi kesishmalar: `avloniy.md`, `behbudiy.md`, `munavvarqori.md`, `qodiriy.md`, `hamza.md`
 
 **Veb-manbalar:**

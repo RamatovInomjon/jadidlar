@@ -458,9 +458,9 @@ maorif, ilm, jaholat, gʻaflat, millat, millatdosh, vatandosh, qardosh, taraqqiy
 ## Manbalar
 
 ### Mahalliy fayllar
-- Kartochka: [../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md](../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md) — S. Xolboyev, «Jadidlar. Munavvar qori Abdurashidxonov» (ilmiy-ommabop), Toshkent, 2024. EPUB: /home/user/jadidlar/Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub
-- Kartochka: [../asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md](../asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md) — «Jadid namoyandalari. Odob-axloq kitobi», Toshkent, 2024. EPUB: /home/user/jadidlar/Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon, Abdurauf Fitrat, Abdulla Qodiriy, Mahmudxoʻja Behbudiy, Munavvarqori Abdurashidxonov - Odob-axloq kitobi.epub
-- Veb-tadqiqot fayli: /home/user/jadidlar/knowledge/manbalar_web/muallif-munavvarqori.md
+- Kartochka: [../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md](../asarlar/sotimjon-xolboyev-jadidlar-munavvar-qori-abdurashidxonov.md) — S. Xolboyev, «Jadidlar. Munavvar qori Abdurashidxonov» (ilmiy-ommabop), Toshkent, 2024. EPUB: Jadidlar_kitoblari_epub/Sotimjon Xolboyev - Jadidlar Munavvar qori Abdurashidxonov.epub
+- Kartochka: [../asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md](../asarlar/abdulhamid-cholpon-abdurauf-fitrat-abdulla-qodiriy-mahmudxoja-behbudiy.md) — «Jadid namoyandalari. Odob-axloq kitobi», Toshkent, 2024. EPUB: Jadidlar_kitoblari_epub/Abdulhamid Choʻlpon, Abdurauf Fitrat, Abdulla Qodiriy, Mahmudxoʻja Behbudiy, Munavvarqori Abdurashidxonov - Odob-axloq kitobi.epub
+- Veb-tadqiqot fayli: knowledge/manbalar_web/muallif-munavvarqori.md
 - Qoʻshimcha mahalliy fayllar (aloqalar uchun): ../asarlar/ulugbek-dolimov-jadidlar-ishoqxon-tora-ibrat.md; ../asarlar/zaynobiddin-abdurashidov-jadidlar-mahmudxoja-behbudiy.md; ../asarlar/tavallo-ey-vatan-ezgu-vatan.md; ../asarlar/hamidulla-boltaboyev-jadidlar-abdurauf-fitrat.md; ../asarlar/abdulhamid-cholpon-taraqqiy.md; ../manbalar_web/muallif-avloniy.md; ../manbalar_web/muallif-elbek.md; ../manbalar_web/muallif-hamza.md
 
 ### Veb-manbalar

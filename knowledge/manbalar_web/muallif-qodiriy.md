@@ -1,6 +1,6 @@
 # Abdulla Qodiriy (Julqunboy) (1894–1938): veb-manbalar asosidagi maʼlumotnoma
 
-> **Tayyorlanish sharti.** Bu fayl 2026-yil 21-oktabrda tuzildi. Shu sessiyada WebSearch limiti tugagan edi, shuning uchun qidiruv tizimidan foydalanib boʻlmadi. Maʼlumotlar maʼlum URL manzillardan WebFetch orqali olindi (Vikipediya: uz/ru/en; kh-davron.uz; kun.uz; Wikisource). ziyouz.uz, ziyouz.com va britannica.com sahifalari 403 xatosini qaytardi va oʻqilmadi. Bir qator faktlar loyihadagi mahalliy kitob konspektlari bilan solishtirildi. Ular toʻliq fayl yoʻli bilan koʻrsatilgan, masalan [/home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md] (Bahodir Karimov, «Jadidlar: Abdulla Qodiriy», Toshkent, 2024; quyida qisqacha [Karimov-2024]). WebFetch kichik model orqali ishlaydi. Shu sababli veb-sahifalardan olingan iqtiboslarni dissertatsiyaga kiritishdan oldin asl matn bilan solishtirish tavsiya etiladi.
+> **Tayyorlanish sharti.** Bu fayl 2026-yil 21-oktabrda tuzildi. Shu sessiyada WebSearch limiti tugagan edi, shuning uchun qidiruv tizimidan foydalanib boʻlmadi. Maʼlumotlar maʼlum URL manzillardan WebFetch orqali olindi (Vikipediya: uz/ru/en; kh-davron.uz; kun.uz; Wikisource). ziyouz.uz, ziyouz.com va britannica.com sahifalari 403 xatosini qaytardi va oʻqilmadi. Bir qator faktlar loyihadagi mahalliy kitob konspektlari bilan solishtirildi. Ular toʻliq fayl yoʻli bilan koʻrsatilgan, masalan [knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md] (Bahodir Karimov, «Jadidlar: Abdulla Qodiriy», Toshkent, 2024; quyida qisqacha [Karimov-2024]). WebFetch kichik model orqali ishlaydi. Shu sababli veb-sahifalardan olingan iqtiboslarni dissertatsiyaga kiritishdan oldin asl matn bilan solishtirish tavsiya etiladi.
 
 ---
 
@@ -21,8 +21,8 @@
 
 - Qodiriy bogʻbon oilasida tugʻilgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. Ruscha Vikipediya oilani savdogarlar oilasi deb ataydi, lekin sovet anketalarida adibning oʻzi kelib chiqishini «сыном садовника» (bogʻbon oʻgʻli) deb yozganini qayd etadi [https://ru.wikipedia.org/wiki/Абдулла_Кадыри].
 - **Otasi.** Qodirbobo (1820–1924). U xon va beklar qoʻshinida askar boʻlgan va 1865-yilda Toshkentni rus qoʻshinidan himoya qilishda qatnashgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. Ruscha Vikipediyaga koʻra otasi («Кадыр-ака») mohir bogʻbon boʻlgan va 102 yoshgacha yashagan [https://ru.wikipedia.org/wiki/Абдулла_Кадыри]. Inglizcha Vikipediyaga koʻra Qodiriy tugʻilganda otasi 74 yoshda boʻlgan [https://en.wikipedia.org/wiki/Abdulla_Qodiriy].
-- **Onasi.** Josiyat bibi [/home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
-- **Oʻz tarjimayi holida** Qodiriy shunday yozgan: «Men qaysi yilda va qaysi oyda tug‘ilg‘onimni bilmayman. Har holda bemavridroq bo‘lsa kerak, kambag‘al, bog‘bonlik bilan kun kechiruvchi bir oilada tug‘ulib, yaqinlarimning so‘zlariga qaraganda, mustabid Nikolay taxtga o‘tirgan yilida tug‘ulg‘onman.» [Karimov-2024: /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md]. Wikisource bu matnni «Tarjimai holim» (1924) nomi bilan qayd etadi [https://wikisource.org/wiki/Author:Abdulla_Qodiriy]. Oilaning daromad manbai «1300 sarjin bog‘» boʻlgan [Karimov-2024].
+- **Onasi.** Josiyat bibi [knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+- **Oʻz tarjimayi holida** Qodiriy shunday yozgan: «Men qaysi yilda va qaysi oyda tug‘ilg‘onimni bilmayman. Har holda bemavridroq bo‘lsa kerak, kambag‘al, bog‘bonlik bilan kun kechiruvchi bir oilada tug‘ulib, yaqinlarimning so‘zlariga qaraganda, mustabid Nikolay taxtga o‘tirgan yilida tug‘ulg‘onman.» [Karimov-2024: knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md]. Wikisource bu matnni «Tarjimai holim» (1924) nomi bilan qayd etadi [https://wikisource.org/wiki/Author:Abdulla_Qodiriy]. Oilaning daromad manbai «1300 sarjin bog‘» boʻlgan [Karimov-2024].
 - **Xotini va farzandlari.** 1914-yilda Rahbarbonu Rasulmuhammad qiziga uylangan. Farzandlari: Nazifa, Habibulla, Adiba, Masʼud, Anisa [Karimov-2024]. Inglizcha Vikipediya farzandlarini Khabibulla Qodiriy, Adiba, Anisa, Nazifa Abdullayeva va Masud Abdullayev deb sanaydi [https://en.wikipedia.org/wiki/Abdulla_Qodiriy].
 
 ### 2.2. Taʼlimi
@@ -34,7 +34,7 @@
   - 12 yoshida bir savdogarning qoʻlida ishlagan va savdogar uni rus-tuzem maktabiga bergan. Qodiriy u yerda ikki yil oʻqiganini, keyin oʻqishni yana davom ettirganini aytadi [oʻsha manba].
   - Madrasa haqida Qodiriyning oʻzi «bir qish» oʻqiganini aytadi. A. Saʼdiy (1935) esa Xoʻja Ahmadboy madrasasida ikki yil oʻqiganini yozadi [oʻsha manba].
   - Oʻgʻli Habibulla Qodiriy ustozlari sifatida Mulla Olim, Mulla Ziyo (Zangiota) va rus-tuzem maktabidagi Mulla Alijonni tilga oladi. Karimov bu maʼlumotlar oila va qoʻshnilar xotiralariga asoslanganini taʼkidlaydi [oʻsha manba].
-  - **Moskva (1924–1925).** A. Saʼdiy (1935) Qodiriyni Valeriy Bryusov nomidagi Adabiyot institutida oʻqigan deydi. Koʻp olimlar Jurnalistlar institutini koʻrsatadi. Karimovning yozishicha, ikkalasini ham tasdiqlovchi hujjat yoki xotira yoʻq. Bryusov instituti 1924-yil 16-noyabrda ochilgan va Glavprofobrning 1925-yil 15-iyundagi buyrugʻi bilan yopilgan [oʻsha manba]. Qodiriyni Eski shahar vaqf boʻlimi besh oylik maosh va bir oylik mukofotni oldindan toʻlab yuborgan. U 1925-yil iyunida taʼtilga qaytgan. Turkiston KP matbuot boʻlimi rahbari Komiljon Alimov uni Toshkentda olib qolgan [oʻsha manba]. Qodiriy sud nutqida maqsadini shunday ifodalagan: «uch-to'rt yil ilmiy muassasalarda bo'linmak edi» [oʻsha manba]. [Karimov-2024] ham bu xabarni «Turkiston» gazetasining 1924-yilgi 15-sonidagi «Taqdir etarlik bir ish» yozuvidan keltiradi [/home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+  - **Moskva (1924–1925).** A. Saʼdiy (1935) Qodiriyni Valeriy Bryusov nomidagi Adabiyot institutida oʻqigan deydi. Koʻp olimlar Jurnalistlar institutini koʻrsatadi. Karimovning yozishicha, ikkalasini ham tasdiqlovchi hujjat yoki xotira yoʻq. Bryusov instituti 1924-yil 16-noyabrda ochilgan va Glavprofobrning 1925-yil 15-iyundagi buyrugʻi bilan yopilgan [oʻsha manba]. Qodiriyni Eski shahar vaqf boʻlimi besh oylik maosh va bir oylik mukofotni oldindan toʻlab yuborgan. U 1925-yil iyunida taʼtilga qaytgan. Turkiston KP matbuot boʻlimi rahbari Komiljon Alimov uni Toshkentda olib qolgan [oʻsha manba]. Qodiriy sud nutqida maqsadini shunday ifodalagan: «uch-to'rt yil ilmiy muassasalarda bo'linmak edi» [oʻsha manba]. [Karimov-2024] ham bu xabarni «Turkiston» gazetasining 1924-yilgi 15-sonidagi «Taqdir etarlik bir ish» yozuvidan keltiradi [knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
 - **Moskvadagi ijodi.** «Mushtum»da «Julqunboy» imzosi bilan «Moskov xatlari»ni eʼlon qilgan (1924) [https://kh-davron.uz/kutubxona/uzbek/naim-karimov-abdulla-qodiriy-qayerda-oqigan.html]. Wikisource bu turkumni «Maskov xatlari (1924)» deb beradi [https://wikisource.org/wiki/Author:Abdulla_Qodiriy].
 
 ### 2.3. Mehnat faoliyati va ishlagan joylari
@@ -43,7 +43,7 @@
 - 1918-yilda Eski shahar oziq-ovqat qoʻmitasining bosh kotibi boʻlgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy].
 - 1919-yilda «Oziq ishlari» gazetasining muharriri boʻlgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [Karimov-2024].
 - 1920-yilda Kasabalar shoʻrosining bosh kotibi boʻlgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy].
-- 1920-yillarda «Roʻsta» devoriy gazetasi, «Ishtirokiyun», «Qizil bayroq», «Turkiston» gazetalari, «Inqilob» va «Kommunist yoʻldoshi» jurnallarida ishlagan [Karimov-2024: /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+- 1920-yillarda «Roʻsta» devoriy gazetasi, «Ishtirokiyun», «Qizil bayroq», «Turkiston» gazetalari, «Inqilob» va «Kommunist yoʻldoshi» jurnallarida ishlagan [Karimov-2024: knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
 - 1923–1926-yillarda «Mushtum» jurnalining tashkilotchilaridan va tahrir hayʼati aʼzosi boʻlgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. «Mushtum»ning birinchi soni 1923-yil 18-fevralda «Turkiston» gazetasiga ilova sifatida, taxminan 3000 nusxada chiqqan. Qodiriy jurnal asoschilari va tashkilotchilaridan biri sifatida tilga olinadi. Uning birinchi sondagi «Mushtum ta'rifida» bosh maqolasi jurnal yoʻnalishini belgilab bergan [https://uz.wikipedia.org/wiki/Mushtum]. Ruscha Vikipediyaga koʻra u 1925–1926-yillarda Toshkentda «Муштум» jurnalida ishlagan [https://ru.wikipedia.org/wiki/Абдулла_Кадыри]. 1924-yilda «felyetonlar qiroli» degan nom olgan [Karimov-2024].
 
 **Muharrirlik.** Veb-manbalarda Qodiriy muharrir boʻlgan yagona nashr sifatida «Oziq ishlari» gazetasi (1919) aniq koʻrsatilgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. «Mushtum»da u tahrir hayʼati aʼzosi va asoschilardan biri boʻlgan. Oʻzbekcha Vikipediyaning «Mushtum» sahifasida u bosh muharrir deb atalmagan [https://uz.wikipedia.org/wiki/Mushtum].
@@ -51,7 +51,7 @@
 ### 2.4. Sayohatlari va adabiy hayotdagi ishtiroki
 
 - 1924–1925: Moskvada oʻqigan (yuqoriga qarang).
-- 1932: Moskvada Butunittifoq yozuvchilar uyushmasi Tashkiliy qoʻmitasi majlisida qatnashgan. 1934: Moskvadagi Butunittifoq yozuvchilarining 1-qurultoyida qatnashgan. 1936-yil iyul: Qozondagi Tatariston yozuvchilarining 1-qurultoyida qatnashgan [Karimov-2024: /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+- 1932: Moskvada Butunittifoq yozuvchilar uyushmasi Tashkiliy qoʻmitasi majlisida qatnashgan. 1934: Moskvadagi Butunittifoq yozuvchilarining 1-qurultoyida qatnashgan. 1936-yil iyul: Qozondagi Tatariston yozuvchilarining 1-qurultoyida qatnashgan [Karimov-2024: knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
 - 1935-yil 10-mart: «Yosh leninchi» gazetasining adabiy toʻgaragida yosh yozuvchilar bilan uchrashgan. «Yozuvchi o‘z ishi to‘g‘risida» maqolasi «Qizil O‘zbekiston» gazetasining 1935-yil 14-mart sonida (60-son) bosilgan [Karimov-2024].
 - «Oʻtkan kunlar» ustida ishlaganda Margʻilonga borgan (adibning 1935-yilgi eʼtirofi, [Karimov-2024]).
 
@@ -85,7 +85,7 @@
 ### 2.8. Reabilitatsiya va xotirani tiklash
 
 - 1937–38-yilgi ish boʻyicha 1957-yilda oqlangan [https://kun.uz/news/2023/12/02/abdulla-qodiriy-hukumatni-obrosizlantirishda-ayblanganidan-100-yil-otib-oqlandi] [https://ru.wikipedia.org/wiki/Абдулла_Кадыри]. Ruscha Vikipediyaga koʻra otilgani va oqlangani uzoq yillar sir saqlangan. Izzat Sultonovning 1958-yilgi ruscha nashrdagi biografiyasida vafot sanasi va holati koʻrsatilmagan. 1961-yilgi «Скорпион из алтаря» nashridagi biografiyada esa vafot yili xato qilib 1939 deb yozilgan [https://ru.wikipedia.org/wiki/Абдулла_Кадыри].
-- [Karimov-2024] nomi va asarlari 1958-yildan qaytarila boshlaganini yozadi, lekin oqlanishning aniq sanasini bermaydi [/home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+- [Karimov-2024] nomi va asarlari 1958-yildan qaytarila boshlaganini yozadi, lekin oqlanishning aniq sanasini bermaydi [knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
 - Umarali Normatov 1952–1956-yillarda «Oʻtkan kunlar» va «Julqunboy» nomini tilga olish ham xavfli boʻlganini xotirlaydi. SAGU domlasi Zikriyo Mirhojiyevning soʻzlari: «Komsomol sovet studenti davlat universiteti auditoriyasida bunaqa savolni bermaydi.» [https://kh-davron.uz/kutubxona/multimedia/umarali-normatov-otgan-kunlar-va-qorquv-saltanati.html].
 - 1926-yilgi ish boʻyicha nevarasining shikoyatidan soʻng Oliy sud 2023-yil 1-dekabrda hukmni bekor qilgan. Sud qilmishda 73-modda tarkibi yoʻqligini aniqlagan va tergov vaqtida qonunsiz saqlanganini qayd etgan [https://kun.uz/news/2023/12/02/abdulla-qodiriy-hukumatni-obrosizlantirishda-ayblanganidan-100-yil-otib-oqlandi]. Nevarasining ismi manbalarda turlicha (§ Ziddiyatli maʼlumotlar).
 - **Xotira.** 1994-yilda 100 yilligi nishonlangan. Abdulla Qodiriy nomidagi Davlat mukofoti taʼsis etilgan. 2019-yilda Toshkentda Abdulla Qodiriy nomidagi ijod maktabi ochilgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. 2019-yil dekabrida adib yashagan uyda va Abdulla Qodiriy bogʻida muzeylar ochilgan [Karimov-2024]. Toshkent davlat madaniyat instituti uning nomi bilan atalgan. U 2012-yilda Oʻzbekiston davlat sanʼat va madaniyat institutiga qoʻshilgan. 2004–2007-yillarda pochta markalari chiqarilgan [https://en.wikipedia.org/wiki/Abdulla_Qodiriy].
@@ -98,8 +98,8 @@
 |---|---|
 | Julqunboy | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [https://ru.wikipedia.org/wiki/Абдулла_Кадыри] [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-20-yillar-felyetonlari.html] |
 | Qodiriy | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] |
-| Mulla Julqunboy, Ju-boy, Dumbul, Dumbulboy, Dumbulnisa, Kalvak maxzum, Toshpoʻlat tajang, Ovsar, Shilgʻay | [Karimov-2024: /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md] |
-| «Abdulla» («Oʻtkan kunlar»ning «Uzr»ida), «Abdulla Qodiriy (Julqunboy)» («Yozgʻuchidan» soʻzboshisida) | [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md] [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-otgan-kunlar-roman-film-spektakl.html] |
+| Mulla Julqunboy, Ju-boy, Dumbul, Dumbulboy, Dumbulnisa, Kalvak maxzum, Toshpoʻlat tajang, Ovsar, Shilgʻay | [Karimov-2024: knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md] |
+| «Abdulla» («Oʻtkan kunlar»ning «Uzr»ida), «Abdulla Qodiriy (Julqunboy)» («Yozgʻuchidan» soʻzboshisida) | [knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md] [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-otgan-kunlar-roman-film-spektakl.html] |
 
 Izoh: kh-davron.uz sahifasida «Kalvak Mahzum» va «Toshpoʻlat tajang» taxallus sifatida emas, hajviy turkum qahramonlari va sarlavhalari sifatida tilga olingan [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-20-yillar-felyetonlari.html]. Sheʼrlaridagi «Qodir» soʻzi ham taxallus, ham «qodir» maʼnosida ishlatilgan (tavriya) [Karimov-2024].
 
@@ -114,7 +114,7 @@ Izoh: kh-davron.uz sahifasida «Kalvak Mahzum» va «Toshpoʻlat tajang» taxall
 | «Oʻtkan kunlar» | tarixiy roman | 1919–1920-yillarda yozilgan. 1922-yilda boblari «Inqilob»da chiqqan. Alohida jildlari 1924–1926-yillarda chiqqan | «Inqilob» jurnali; kitob: Toshkent | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] |
 | | | Kitob nashri: 1-qism 1925 (1926-yilda tuzatilgan qayta nashri), 2-qism 1925, 3-qism 1926. Adadi 10 000 nusxa. Muqovasini «Mushtum» rassomi Ishtvan Tullya chizgan | | [https://uz.wikipedia.org/wiki/Oʻtkan_kunlar] |
 | «Mehrobdan chayon» | tarixiy roman | 1928-yil fevralida tugallangan, 1929-yilda nashr etilgan | Samarqand | [https://uz.wikipedia.org/wiki/Mehrobdan_chayon] [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] |
-| | | Soʻzboshi «Toshkand, 1928-yil, 5-fevral», soʻnggi soʻz «Toshkand, 15-fevral 1928-yil» deb sanalgan | | [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md] |
+| | | Soʻzboshi «Toshkand, 1928-yil, 5-fevral», soʻnggi soʻz «Toshkand, 15-fevral 1928-yil» deb sanalgan | | [knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md] |
 | «Obid ketmon» | qissa | 1932–1934-yillarda yozilgan (yoki 1934). Nashr yillari: 1934/1935 | — | [https://uz.wikipedia.org/wiki/Obid_ketmon] [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [Karimov-2024] |
 | «Amir Umarxonning kanizi» | roman (tugallanmagan/yoʻqolgan) | — | — | [https://en.wikipedia.org/wiki/Abdulla_Qodiriy] [https://kh-davron.uz/kutubxona/uzbek/shodmon-vohidov-hakimxon-tora-va-uning-muntaxab-at-tavorix-asari-enver-xurshut-abdulla-qodiriy-va-tarixchi-hakimxon-tora.html] |
 
@@ -127,7 +127,7 @@ Izoh: kh-davron.uz sahifasida «Kalvak Mahzum» va «Toshpoʻlat tajang» taxall
 | Asar | Janr | Yil / nashr | Manba |
 |---|---|---|---|
 | «Toʻy», «Ahvolimiz», «Millatimga» (Wikisource: «Millatimga bir qaror»), «Fikr aylagʻil» | sheʼr | 1914–1915, davriy matbuotda | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [https://wikisource.org/wiki/Author:Abdulla_Qodiriy] |
-| «Baxtsiz kuyov» | drama, «toʻrt pardalik fojiʼa» | 1915 (muallif sanasi) | [https://wikisource.org/wiki/Author:Abdulla_Qodiriy] [https://ru.wikipedia.org/wiki/Абдулла_Кадыри] [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md] |
+| «Baxtsiz kuyov» | drama, «toʻrt pardalik fojiʼa» | 1915 (muallif sanasi) | [https://wikisource.org/wiki/Author:Abdulla_Qodiriy] [https://ru.wikipedia.org/wiki/Абдулла_Кадыри] [knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md] |
 | «Juvonboz» | hikoya | 1914–1915 / 1915 | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [https://ru.wikipedia.org/wiki/Абдулла_Кадыри] |
 | «Uloqda» | hikoya | 1916 | [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy] [https://wikisource.org/wiki/Author:Abdulla_Qodiriy] |
 | «Shodmarg» | hikoya | 1917-yil 21-mart, «Najot», 2-son | [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-20-yillar-felyetonlari.html] |
@@ -167,9 +167,9 @@ Wikisource roʻyxati (yillari bilan) [https://wikisource.org/wiki/Author:Abdulla
 ## 5. Asosiy gʻoyalari
 
 - **Yangi davr adabiyoti va roman janri.** «Oʻtkan kunlar»ning «Yozgʻuchidan» soʻzboshisi shunday boshlanadi: «Модомики, биз янги даврга оёқ қўйдик, бас, биз ҳар бир йўсунда ҳам шу янги даврнинг янгиликлари...». Muallif romanni yangi roman shaklidagi kichik bir tajriba deb ataydi [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-otgan-kunlar-roman-film-spektakl.html].
-- **Oʻtmishdan ibrat olish.** «Мозийға қайтиб иш кўриш хайрлик, дейдилар.» [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-otgan-kunlar-roman-film-spektakl.html]. Mahalliy nusxadagi toʻliqroq matn: «Moziyg‘a qaytib ish ko‘rish xayrlik, deydilar. Shunga ko‘ra mavzuni moziydan, yaqin o‘tkan kunlardan, tariximizning eng kirlik, qora kunlari bo‘lg‘an keyingi “xon zamonlari”dan belguladim.» [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md].
+- **Oʻtmishdan ibrat olish.** «Мозийға қайтиб иш кўриш хайрлик, дейдилар.» [https://kh-davron.uz/kutubxona/multimedia/abdulla-qodiriy-otgan-kunlar-roman-film-spektakl.html]. Mahalliy nusxadagi toʻliqroq matn: «Moziyg‘a qaytib ish ko‘rish xayrlik, deydilar. Shunga ko‘ra mavzuni moziydan, yaqin o‘tkan kunlardan, tariximizning eng kirlik, qora kunlari bo‘lg‘an keyingi “xon zamonlari”dan belguladim.» [knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md].
 - **Ichki nizo va mustamlakachilik.** Yusufbek hojining nutqidan: «...Biz qipchoqqa qilich ko‘targanda, o‘ris bizga to‘p o‘qlaydir.» [Karimov-2024].
-- **Jadid maʼrifatparvarligi.** «Baxtsiz kuyov»da ellikboshi tomoshabinlarga qalin va isrofni tashlab, bolalarni oʻqitishga va «jamiyati xayriya»ga yordam berishga chaqiradi. Asar Behbudiyning «Padarkush»i taʼsirida yozilgan [Karimov-2024] [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md]. Ilk sheʼrlarida millatni uygʻotish, maʼrifat va maktab ochish motivlari bor [Karimov-2024].
+- **Jadid maʼrifatparvarligi.** «Baxtsiz kuyov»da ellikboshi tomoshabinlarga qalin va isrofni tashlab, bolalarni oʻqitishga va «jamiyati xayriya»ga yordam berishga chaqiradi. Asar Behbudiyning «Padarkush»i taʼsirida yozilgan [Karimov-2024] [knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md]. Ilk sheʼrlarida millatni uygʻotish, maʼrifat va maktab ochish motivlari bor [Karimov-2024].
 - **Soxta ulamoni tanqid.** Sovet davri qoʻllanmalariga koʻra «Mehrobdan chayon» ruhoniylarga va feodalizmga qarshi asar. U ulamoni va inqilobdan oldingi «feodalizm»ni tanqid qiladi, oddiy xalqning axloqiy fazilatlarini ulugʻlaydi [https://uz.wikipedia.org/wiki/Mehrobdan_chayon].
 - **Kolxozlashtirish.** Baʼzi tahlilchilar «Obid ketmon»ni oʻrta hol dehqonning yakka xoʻjaligi tinch yoʻl bilan sotsializmga oʻsib oʻtishi mumkinligini koʻrsatishga urinish deb biladi [https://uz.wikipedia.org/wiki/Obid_ketmon]. [Karimov-2024] esa asar kolxoz tuzumi «odamlardagi tashabbusni shaxsiy egalik manfaatdorlik tuyg‘usini so‘ndirishini» koʻrsatadi deb talqin qiladi.
 
@@ -184,7 +184,7 @@ Wikisource roʻyxati (yillari bilan) [https://wikisource.org/wiki/Author:Abdulla
 - **Mixail Sheverdin** (1928) romanni rus tilida faqat muallifning oʻtmishni ideallashtirishini fosh etadigan tanqidiy sharh bilan nashr qilish kerak deb hisoblagan [https://uz.wikipedia.org/wiki/Oʻtkan_kunlar].
 - **Oybek** Qodiriyning romanlarini tanqid qilgan risola yozgan (en.wiki boʻyicha 1935) [https://en.wikipedia.org/wiki/Abdulla_Qodiriy]. «Abdulla Qodiriyning ijodiy yoʻli» uning 16-jildlik «Asarlar»ida (1979) qayta bosilgan [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]. «Uloqda»ni «ovro‘pa novella forma»si bilan bogʻlagan, «Juvonboz» tilini esa tanqid qilgan [Karimov-2024].
 - **Turkmanlar.** Xidir Deryayev romanni oʻqib, turkman tarixi haqida roman yozishga ilhomlanganini aytgan [https://uz.wikipedia.org/wiki/Oʻtkan_kunlar].
-- **Til va imlo.** [Karimov-2024] Qodiriyning Toshkent shevasini ishlatmaganini qayd etadi. Romandagi Xudoyorxon nutqiga yozilgan muallif izohida Qodiriy «ng‘» tovushi uchun yangi harf taklif qilgan: «Bu yo‘g‘on “ng‘” ham “g‘” harfining ustiga uch nuqta qo‘yulib yozilsamikin... (mual.)». Shuningdek sajʼ, maqol va tovush takrori usullarini koʻrsatadi [/home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
+- **Til va imlo.** [Karimov-2024] Qodiriyning Toshkent shevasini ishlatmaganini qayd etadi. Romandagi Xudoyorxon nutqiga yozilgan muallif izohida Qodiriy «ng‘» tovushi uchun yangi harf taklif qilgan: «Bu yo‘g‘on “ng‘” ham “g‘” harfining ustiga uch nuqta qo‘yulib yozilsamikin... (mual.)». Shuningdek sajʼ, maqol va tovush takrori usullarini koʻrsatadi [knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md].
 - **Xorijiy tadqiqotlar.** Merhan (2007, turk jurnali) uni oʻzbek romanining kashshofi deb ataydi [https://en.wikipedia.org/wiki/Abdulla_Qodiriy]. Oʻzbekcha Vikipediya xorijlik tadqiqotchilar qatorida N. Tun, I. Baldauf, E. Allworth (Olvort), Christopher Murphy va Eden Nabini sanaydi [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy].
 
 ---
@@ -227,7 +227,7 @@ Wikisource roʻyxati (yillari bilan) [https://wikisource.org/wiki/Author:Abdulla
 - «Abdulla Qodiriy zamondoshlari xotirasida» (1988 [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy]; [Karimov-2024] 1986 deb beradi).
 - Masʼud Abdullayev, «O‘tganlar yodi» (2012); Sherkon Qodiriy, «37-xonadon» (2009) [Karimov-2024].
 - Nurulloh Boqiy (N. Boqiy), «Qatlnoma» (1992) [https://uz.wikipedia.org/wiki/Abdulla_Qodiriy].
-- Asqad Muxtor, «Qodiriyni koʻrganman-u...» (xotira-hikoya) [/home/user/jadidlar/knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md].
+- Asqad Muxtor, «Qodiriyni koʻrganman-u...» (xotira-hikoya) [knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md].
 - Badiiy asarlar: Hamid Ismoilov (Abdulhamid Ismoil), «Jinlar bazmi yoxud katta oʻyin» (Toshkent, 2016; inglizcha tarjimasi Donald Rayfield, 2018) [https://en.wikipedia.org/wiki/Abdulla_Qodiriy]; X. Sultonov, «Moziydan bir sahifa»; X. Doʻstmuhammad, «Yolgʻiz» [Karimov-2024].
 - Umarali Normatov, «“O'tkan kunlar” va qo'rquv saltanati» (xotira-esse) [https://kh-davron.uz/kutubxona/multimedia/umarali-normatov-otgan-kunlar-va-qorquv-saltanati.html].
 
@@ -258,11 +258,11 @@ Wikisource roʻyxati (yillari bilan) [https://wikisource.org/wiki/Author:Abdulla
 **Oʻqib boʻlmagan sahifalar (403):** https://ziyouz.uz/ozbek-nasri/abdulla-qodiriy/ ; https://ziyouz.uz/en/uzbek-literature/40-literature-of-jadids-period/93-abdulla-qodiriy-1894-1938 ; https://www.britannica.com/biography/Abdullah-Qadiri
 
 **Mahalliy manbalar (loyiha konspektlari):**
-- Bahodir Karimov, «Jadidlar: Abdulla Qodiriy» (2024) — /home/user/jadidlar/knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md
-- Abdulla Qodiriy, «Oʻtkan kunlar» — /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md
-- Abdulla Qodiriy, «Mehrobdan chayon» — /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md
-- Abdulla Qodiriy, «Baxtsiz kuyov» — /home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md
-- Asqad Muxtor, «Qodiriyni koʻrganman-u...» — /home/user/jadidlar/knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md
+- Bahodir Karimov, «Jadidlar: Abdulla Qodiriy» (2024) — knowledge/asarlar/bahodir-karimov-jadidlar-abdulla-qodiriy.md
+- Abdulla Qodiriy, «Oʻtkan kunlar» — knowledge/asarlar/abdulla-qodiriy-otkan-kunlar.md
+- Abdulla Qodiriy, «Mehrobdan chayon» — knowledge/asarlar/abdulla-qodiriy-mehrobdan-chayon-roman.md
+- Abdulla Qodiriy, «Baxtsiz kuyov» — knowledge/asarlar/abdulla-qodiriy-baxtsiz-kuyov.md
+- Asqad Muxtor, «Qodiriyni koʻrganman-u...» — knowledge/asarlar/asqad-muxtor-qodiriyni-korganman-u.md
 
 ---
 
@@ -284,10 +284,10 @@ Wikisource roʻyxati (yillari bilan) [https://wikisource.org/wiki/Author:Abdulla
 | **«Obid ketmon»** | 1934-yilda yozilgan [uz.wiki «Tarixi»]. 1932–1934-yillarda yozilgan [uz.wiki lead; Karimov-2024]. Nashri: 1934 [uz.wiki, Qodiriy]. 1935 [ru.wiki «Абид-Кетмень» (1935); Karimov-2024]. |
 | **«Mehrobdan chayon» nashri** | 1929, Samarqand [uz.wiki]. Ruscha nashrda vafot yili xato qilib 1939 deb berilgan [ru.wiki]. |
 | **«Juvonboz»** | 1914–1915 [uz.wiki]. 1915 [ru.wiki]. |
-| **«Jinlar bazmi»** | 1921 [Wikisource; Karimov-2024]. 1914–1915 (ziyouz/gov.uz maʼlumoti, mahalliy konspektda qayd etilgan) [/home/user/jadidlar/knowledge/asarlar/abdulla-qodiriy-jinlar-bazmi.md]. |
+| **«Jinlar bazmi»** | 1921 [Wikisource; Karimov-2024]. 1914–1915 (ziyouz/gov.uz maʼlumoti, mahalliy konspektda qayd etilgan) [knowledge/asarlar/abdulla-qodiriy-jinlar-bazmi.md]. |
 | **Oybekning tanqidiy risolasi** | 1935 [en.wiki]. 1936 [Karimov-2024]. |
 | **Hibsga sabab** | Sobiq shogirdlarining (Gʻ. Gʻulom, A. Qahhor, Uygʻun) chaquvlari [uz.wiki]. Ikromovning hibsga olinishi bilan homiysiz qolishi [en.wiki]. Ikkalasi bir-birini inkor etmaydi, lekin uz.wikidagi daʼvo hujjat bilan tasdiqlanmagan. |
 | **Reabilitatsiya (1938-yilgi ish)** | 1957 [kun.uz; ru.wiki]. «1958-yildan» asarlar qaytgan, sana berilmagan [Karimov-2024]. 1956 [boshqa mahalliy konspektlarda: umumiy bilim — tekshirilmagan]. |
 | **2023-yilgi oqlanish uchun murojaat qilgan nevara** | Xondamir Qodiriy [uz.wiki]. «Habibullo Qodiriy» [kun.uz]. |
-| **Choʻlpon/Fitrat bilan bir kunda otilgani** | uz.wiki: birga otilgan. Choʻlpon uchun ru.wiki 5-oktabr yoki 2-oktabr variantlarini ham keltiradi [/home/user/jadidlar/knowledge/manbalar_web/muallif-cholpon.md]. |
+| **Choʻlpon/Fitrat bilan bir kunda otilgani** | uz.wiki: birga otilgan. Choʻlpon uchun ru.wiki 5-oktabr yoki 2-oktabr variantlarini ham keltiradi [knowledge/manbalar_web/muallif-cholpon.md]. |
 | **«Felyetonlar»** | «Bozor surishtirmaydilar» [kh-davron] / «Bozor surishtirmaydir» [Wikisource]; «Negakim» / «Nega kim»; «Ijmoli siyosiy» / «Ijmoli sayosiy». Sarlavhalar imlosida farqlar bor. |

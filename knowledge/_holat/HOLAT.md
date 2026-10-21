@@ -13,7 +13,8 @@
 - [x] 1-bosqich: qolgan 11 ta koʻp boʻlakli kitob kartochkasi (jami 57 ta kartochka) + `04_imlo_qoidalari_1995.md`. Dayjestlar endi `digests.json` da (54 ta; 3 tasi yoʻq — kartochkasini oʻqing).
 - [x] 2-bosqich: 17 ta web tadqiqot (`manbalar_web/`)
 - [x] 3-bosqich: 13 ta muallif profili + fakt tekshiruvi
-- [ ] 4-bosqich: sintez, tanqidchi, README.md, CORE.md
+- [x] 4-bosqich: sintez, tanqidchi, README.md, CORE.md
+  - [x] Tanqidchi (toʻliqlik va izchillik) oʻtkazildi: sanalar uygʻunlashtirildi (Qodiriy hikoyalari, «Obid ketmon», «Yorqinoy», «Hind ixtilolchilari», «Oila», «Najot yoʻli», Botu hibsi va boshq.), 2 ta notoʻgʻri iqtibos tuzatildi, EPUB yoʻllari loyiha ildiziga nisbiy qilindi, `06_asarlar_katalogi.md` qoʻshildi. README.md va CORE.md yozildi (2026-10-21); baza yakunlandi.
 
 ## Qilinmagan (1-sessiya oxiridagi roʻyxat)
 1. Koʻp boʻlakli 11 kitob, hali kartochkasi yoʻq: Kecha va kunduz (4), Yorqinoy (2), Odob-axloq kitobi (2), Mehrobdan chayon (4), Obid ketmon (4), Oʻtkan kunlar (5), Najot yoʻli (3), Oila (2), Otam haqida (4), Sudxoʻrning oʻlimi (2), Ey Vatan, ezgu Vatan (2).
